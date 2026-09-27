@@ -34,6 +34,12 @@
       ]
     },
     {
+      "source": "/etkinlikler/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=600, s-maxage=3600" }
+      ]
+    },
+    {
       "source": "/(og.png|favicon.svg|icon-512.png|apple-touch-icon.png|site.webmanifest)",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=86400" }

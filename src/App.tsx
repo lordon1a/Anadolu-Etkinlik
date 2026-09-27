@@ -230,14 +230,14 @@ export default function App() {
       <section className="intro">
         <div className="intro-copy">
           <p className="intro-kicker reveal" style={{ '--i': 0 } as CSSProperties}>
-            <span className="pulse-dot" /> YUNUS EMRE KAMPÜSÜ <span className="kicker-line" /> ESKİŞEHİR
+            <span className="pulse-dot" /> ANADOLU ÜNİVERSİTESİ <span className="kicker-line" /> YUNUS EMRE KAMPÜSÜ
           </p>
           <h1>
             {heroWords.map((word, index) => <span key={word.text} className="word reveal" style={{ '--i': index + 1 } as CSSProperties}>
               {word.em ? <em>{`${word.text} `}</em> : `${word.text} `}
             </span>)}
           </h1>
-          <p className="intro-description reveal" style={{ '--i': 5 } as CSSProperties}>Etkinlikleri keşfet, nerede olduklarını gör, arkadaşınla buluş.</p>
+          <p className="intro-description reveal" style={{ '--i': 5 } as CSSProperties}>Eskişehir'deki Anadolu Üniversitesi etkinliklerini keşfet, nerede olduklarını gör, arkadaşınla buluş.</p>
           <div className="reveal" style={{ '--i': 6 } as CSSProperties}>
             <HeroSummary
               liveCount={liveCount}
@@ -395,6 +395,9 @@ export default function App() {
       <span className="footer-brand">KAMPÜSTE<span className="brand-period">.</span></span>
       <p>Bağımsız öğrenci projesi · Anadolu Üniversitesi'nin resmî sitesi değildir</p>
       <nav className="footer-links" aria-label="Bağlantılar">
+        <a className="footer-link" href="/etkinlikler/">
+          <CalendarBlank size={15} weight="regular" aria-hidden="true" /> Etkinlik takvimi
+        </a>
         <a className="footer-link" href={REPO_URL} target="_blank" rel="noopener noreferrer">
           <GithubLogo size={15} weight="regular" aria-hidden="true" /> GitHub
         </a>

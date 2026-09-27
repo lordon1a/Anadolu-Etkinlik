@@ -1,8 +1,12 @@
-# Kampüste.
+# Anadolu Etkinlik — Kampüste
 
-Anadolu Üniversitesi Yunus Emre Kampüsü için bağımsız bir öğrenci etkinlik haritası. Resmî [etkinlik duyurularını](https://www.anadolu.edu.tr/etkinlikler) okur; saat, kategori ve mekâna göre keşif sağlar. Harita, OpenStreetMap'teki gerçek kampüs sınırı, bina ayak izleri ve yollardan üretilir; 3B görünüm aynı geometriden çizilen stilize zemin ve gerçek yükseklik verisiyle eğimlendirilir. Uydu görüntüsü isteğe bağlı bir katmandır ve yalnızca istendiğinde sağlayıcıdan yüklenir. **Üniversitenin resmî sitesi değildir.**
+Anadolu Üniversitesi etkinliklerini Eskişehir'deki Yunus Emre Kampüsü haritasında ve [etkinlik takviminde](https://anadolu-etkinlik.vercel.app/etkinlikler/) toplayan bağımsız bir öğrenci projesi.
 
-> **Canlı demo:** https://anadolu-etkinlik.vercel.app — farklı bir alan adına dağıtırsanız `SITE_URL` ortam değişkenini ayarlayın (aşağıya bakın).
+**Canlı site:** https://anadolu-etkinlik.vercel.app
+
+Resmî [etkinlik duyurularını](https://www.anadolu.edu.tr/etkinlikler) okur; saat, kategori ve mekâna göre keşif sağlar. Harita, OpenStreetMap'teki gerçek kampüs sınırı, bina ayak izleri ve yollardan üretilir; 3B görünüm aynı geometriden çizilen stilize zemin ve gerçek yükseklik verisiyle eğimlendirilir. Uydu görüntüsü isteğe bağlı bir katmandır ve yalnızca istendiğinde sağlayıcıdan yüklenir. **Üniversitenin resmî sitesi değildir.**
+
+> Farklı bir alan adına dağıtırsanız `SITE_URL` ortam değişkenini ayarlayın (aşağıya bakın).
 >
 > **Depo:** https://github.com/lordon1a/Anadolu-Etkinlik
 
@@ -44,7 +48,7 @@ npm run preview
 | `npm run update:events` | Etkinlik kaydını hemen yeniler |
 | `npm test` | Tarih, ayrıştırma, eşleştirme ve harita geometrisi testleri |
 | `npm run build` | TypeScript kontrolü, üretim derlemesi ve statik SEO sayfaları |
-| `npm run postbuild` | Yalnızca SEO adımı: etkinlik sayfaları, `sitemap.xml`, `robots.txt` |
+| `npm run postbuild` | Yalnızca SEO adımı: ana sayfa ön-render, etkinlik ve takvim sayfaları, `sitemap.xml`, `robots.txt` |
 | `npm run preview` | Derlenmiş siteyi veri sunucusuyla açar |
 | `npm run og` | Paylaşım görselini ve ikonları yeniden üretir (yerel Chrome gerekir) |
 
@@ -84,9 +88,10 @@ npm run build ──► vite (dist/) ──► scripts/build-seo.mjs ──► d
 
 ## SEO
 
-- `index.html`: Türkçe başlık ve açıklama, canonical, Open Graph/Twitter kartları, `WebSite` + `Organization` JSON-LD, favicon ve manifest.
-- Her etkinlik için `dist/etkinlik/<slug>/index.html`: başlık, açıklama, tarih, mekân, afiş, resmî duyuru bağlantısı, "Haritada gör" bağlantısı ve `schema.org/Event` JSON-LD (konum adresi Yunus Emre Kampüsü, Tepebaşı/Eskişehir).
-- `dist/sitemap.xml` ana sayfayı ve sürmekte olan/gelecek etkinlikleri listeler; bitmiş etkinliklerin sayfası yayında kalır ama sitemap'e girmez. `dist/robots.txt` sitemap'i bildirir.
+- `index.html`: Türkçe başlık ve açıklama, canonical, Open Graph/Twitter kartları, `WebSite` + `Organization` JSON-LD, favicon ve manifest. Derleme sonunda `#root` içine gerçek bir ön-render özeti (h1, açıklama, yaklaşan etkinlik bağlantıları) yazılır; React `createRoot` ile bağlanınca yerini uygulamaya bırakır.
+- Her etkinlik için `dist/etkinlik/<slug>/index.html`: başlık, açıklama, tarih, mekân, afiş, resmî duyuru bağlantısı, "Haritada gör" bağlantısı, aynı mekândaki/haftadaki diğer etkinliklere iç bağlantılar, breadcrumb ve `schema.org/Event` + `BreadcrumbList` JSON-LD (konum adresi Yunus Emre Kampüsü, Tepebaşı/Eskişehir).
+- `dist/etkinlikler/index.html` etkinlik takvimi hub'ı: yaklaşan etkinlikler aya ve güne göre gruplu, geçmiş etkinlikler ayrı bölümde, `ItemList` + `BreadcrumbList` JSON-LD.
+- `dist/sitemap.xml` ana sayfayı, takvim sayfasını (priority 0.9, changefreq hourly) ve sürmekte olan/gelecek etkinlikleri listeler; bitmiş etkinliklerin sayfası yayında kalır ama sitemap'e girmez. `dist/robots.txt` sitemap'i bildirir.
 
 ## Veri kaynakları ve lisanslar
 
