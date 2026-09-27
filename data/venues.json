@@ -1,0 +1,262 @@
+[
+  {
+    "id": "akm",
+    "name": "Atatürk Kültür ve Sanat Merkezi",
+    "shortName": "AKM",
+    "aliases": [
+      "Atatürk Kültür ve Sanat Merkezi",
+      "AKM",
+      "Anadolu Üniversitesi Atatürk Kültür ve Sanat Merkezi",
+      "Opera ve Bale Salonu",
+      "Oda Tiyatrosu Salonu",
+      "Oda Konseri Salonu",
+      "Uygulama Sahnesi"
+    ],
+    "position": "footprint",
+    "plan": 5,
+    "osm": "way/374982336",
+    "source": "https://www.openstreetmap.org/way/374982336",
+    "evidence": "OSM name tag matches; handoff centre 39.791214/30.499968 is the mean of this way's nodes (0.1 m). Official AKM page lists its four halls."
+  },
+  {
+    "id": "ogrenci-merkezi",
+    "name": "Öğrenci Merkezi",
+    "shortName": "Öğrenci Merkezi",
+    "aliases": [
+      "Öğrenci Merkezi",
+      "Yunus Emre Salonu",
+      "Salon 2009",
+      "Salon 2016",
+      "Farabi Salonu",
+      "Nasrettin Hoca Salonu",
+      "Fuaye Alanı",
+      "Öğrenci Merkezi Yunus Emre Salonu",
+      "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "Öğrenci Merkezi Fuaye Alanı",
+      "Öğrenci Merkezi Yunus Emre Salonu ve Fuaye Alanı",
+      "Öğrenci Merkezi Nasrettin Hoca Salonu ve Fuaye Alanı",
+      "ğrenci Merkezi Yunus Emre Salonu",
+      "Öğrenci Mrekezi Yunus Emre Salonu",
+      "Şener Şen Kültür Salonu"
+    ],
+    "position": "footprint",
+    "plan": 49,
+    "osm": "way/374982357",
+    "source": "https://www.openstreetmap.org/way/374982357",
+    "evidence": "OSM name tag matches; handoff centre is the mean of this way's nodes. Official pages place Yunus Emre Salonu (368) and Nasrettin Hoca Salonu / Salon 2009 (265) in this building."
+  },
+  {
+    "id": "kutuphane",
+    "name": "Kütüphane ve Dokümantasyon Merkezi",
+    "shortName": "Kütüphane",
+    "aliases": [
+      "Kütüphane",
+      "Kütüphane ve Dokümantasyon Merkezi"
+    ],
+    "position": "footprint",
+    "plan": 40,
+    "osm": "way/761605589",
+    "source": "https://www.openstreetmap.org/way/761605589",
+    "evidence": "OSM name tag \"Kütüphane\"; handoff centre is the mean of this way's nodes."
+  },
+  {
+    "id": "sinema",
+    "name": "Sinema Anadolu",
+    "shortName": "Sinema",
+    "aliases": [
+      "Sinema Anadolu",
+      "Sinema Anadolu Önü",
+      "Sinema Anadolu Sokak",
+      "Sinema Anadolu Sokağı"
+    ],
+    "position": "footprint",
+    "plan": 54,
+    "osm": "way/374187005",
+    "source": "https://www.openstreetmap.org/way/374187005",
+    "evidence": "OSM name tag matches; handoff centre is the mean of this way's nodes. Official page: 395 seats. The event feed also names the open-air stand area in front of the building (\"Sinema Anadolu Sokak\"), which is no building of its own, so those events land on the cinema."
+  },
+  {
+    "id": "cagdas-muze",
+    "name": "Çağdaş Sanatlar Müzesi",
+    "shortName": "Sanat Müzesi",
+    "aliases": [
+      "Çağdaş Sanatlar Müzesi"
+    ],
+    "position": "footprint",
+    "plan": 14,
+    "osm": "way/374986688",
+    "source": "https://www.openstreetmap.org/way/374986688",
+    "evidence": "OSM name tag matches. Official museum page: single-storey, rectangular, yellow-white facade, formerly a barracks building."
+  },
+  {
+    "id": "emyo",
+    "name": "Eskişehir Meslek Yüksekokulu",
+    "shortName": "EMYO",
+    "aliases": [
+      "Eskişehir Meslek Yüksekokulu",
+      "Adili Sadık Bahçe Seminer Salonu"
+    ],
+    "position": "footprint",
+    "plan": 24,
+    "osm": "way/660042188",
+    "source": "https://www.openstreetmap.org/way/660042188",
+    "evidence": "OSM name tag \"Eskişehir Meslek Yüksek Okulu\", building:levels=2; handoff centre is the mean of this way's nodes."
+  },
+  {
+    "id": "biltek-myo",
+    "name": "Bilişim Teknolojileri Meslek Yüksekokulu",
+    "shortName": "Bilişim MYO",
+    "aliases": [
+      "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "Bilişim Bloğu"
+    ],
+    "position": "footprint",
+    "plan": null,
+    "osm": "way/667918876",
+    "source": "https://www.openstreetmap.org/way/667918876",
+    "evidence": "OSM way/667918876 \"Bilişim Bloğu\" (building=school, building:levels=4, addr:street Anadolu Üniversitesi) is the information-technology block. The university event feed names the hall inside it \"Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu\", so that name maps here; the plan carries no verified number for the block."
+  },
+  {
+    "id": "turizm",
+    "name": "Turizm Fakültesi",
+    "shortName": "Turizm",
+    "aliases": [
+      "Turizm Fakültesi",
+      "Turizm Fakültesi Amfi-1 ve 3"
+    ],
+    "position": "footprint",
+    "plan": 61,
+    "osm": "way/374262148",
+    "source": "https://www.openstreetmap.org/way/374262148",
+    "evidence": "OSM name tag matches; handoff centre is the mean of this way's nodes."
+  },
+  {
+    "id": "hukuk",
+    "name": "Hukuk Fakültesi",
+    "shortName": "Hukuk",
+    "aliases": [
+      "Hukuk Fakültesi",
+      "Hukuk Fakültesi Amfi-1"
+    ],
+    "position": "footprint",
+    "plan": 27,
+    "osm": "way/374591223",
+    "source": "https://www.openstreetmap.org/way/374591223",
+    "evidence": "OpenStreetMap labels this footprint \"Yabancı Diller Yüksekokulu-2\", which is a wrong label rather than a second building: the OSM node node/11450099269 inside the block is named \"Anadolu Üniversitesi Hukuk Fakültesi\" (amenity=school, operator \"Anadolu Üniversitesi Hukuk Fakültesi Dekanlığı ve Rektörlüğü\") and the official plan's number 27 falls 29 m from the same footprint. The map follows the node and the plan."
+  },
+  {
+    "id": "egitim",
+    "name": "Eğitim Fakültesi",
+    "shortName": "Eğitim",
+    "aliases": [
+      "Eğitim Fakültesi",
+      "Eğitim Fakültesi E-Blok Konferans Salonu"
+    ],
+    "position": "footprint",
+    "plan": 22,
+    "osm": "relation/5563680",
+    "source": "https://www.openstreetmap.org/relation/5563680",
+    "evidence": "OSM multipolygon relation \"Eğitim Fakültesi A - B - C Blok\" (university, addr:street Anadolu Üniversitesi) is 15 m from the official plan's number 22 marker; official plan lists number 22 as Eğitim Fakültesi A–E Blok."
+  },
+  {
+    "id": "eczacilik",
+    "name": "Eczacılık Fakültesi",
+    "shortName": "Eczacılık",
+    "aliases": [
+      "Eczacılık Fakültesi",
+      "Eczacılık Fakültesi Lokali"
+    ],
+    "position": "footprint",
+    "plan": 18,
+    "osm": "relation/5563679",
+    "source": "https://www.openstreetmap.org/relation/5563679",
+    "evidence": "OSM multipolygon relation \"Eczacılık Fakültesi\" is inside the campus boundary; the official plan numbers 18 and 19 (faculty and its lounge) sit in the same western block and the Tepebaşı–Eczacılık gate is named after it."
+  },
+  {
+    "id": "kongre",
+    "name": "Kongre Merkezi",
+    "shortName": "Kongre",
+    "aliases": [
+      "Kongre Merkezi",
+      "Salon Anadolu",
+      "Kırmızı Salon",
+      "Mavi Salon"
+    ],
+    "position": "footprint",
+    "plan": 38,
+    "osm": "way/374591227",
+    "source": "https://www.openstreetmap.org/way/374591227",
+    "evidence": "The official plan draws numbers 38 (Kongre Merkezi) and 45 (Anadolu Konukevi) on the same block, the plan marker for 38 falls 22 m from this footprint's centre, and the Lisansüstü Eğitim Enstitüsü gives its official address as \"Kongre Merkezi Binası, Yunus Emre Kampüsü\" (https://www.anadolu.edu.tr/akademik/enstituler/2113/lisansustu-egitim-enstitusu/iletisim-bilgileri). OpenStreetMap labels the outline \"Otel Anadolu\" (tourism=hotel) after the guesthouse the block also houses, so the name tag alone was misleading; the plan and the university address place the congress centre here. Official page: Salon Anadolu 251, Kırmızı 130, Mavi 88."
+  },
+  {
+    "id": "salon-2003",
+    "name": "Salon 2003 (Koral Çalgan Salonu)",
+    "shortName": "Salon 2003",
+    "aliases": [
+      "Salon 2003",
+      "Koral Çalgan Salonu"
+    ],
+    "position": "unverified",
+    "plan": 53,
+    "osm": null,
+    "source": "https://cdn.anadolu.edu.tr/files/anadolu-cms/yxl4j0ed/uploads/map-8cfaf1325315cc4c.pdf#53",
+    "evidence": "Salon 2003 is the same hall as Koral Çalgan Salonu (renamed in October 2019, e-Gazete). The plan puts number 53 at [-188, 314], north of Teknopark, where OSM has only unnamed small buildings; the nearest named block is relation/5563046 (\"Yunus Emre Sağlık Hizmetleri Meslek Yüksekokulu\"), but that wing could not be verified as the hall, so no pin is drawn."
+  },
+  {
+    "id": "yemekhane",
+    "name": "Yemekhane",
+    "shortName": "Yemekhane",
+    "aliases": [
+      "Yemekhane"
+    ],
+    "position": "footprint",
+    "plan": null,
+    "osm": "way/275001635",
+    "source": "https://www.openstreetmap.org/way/275001635",
+    "evidence": "OSM name tag \"Yemekhane\", building:levels=2."
+  },
+  {
+    "id": "yeni-yemekhane",
+    "name": "Yeni Yemekhane",
+    "shortName": "Yeni Yemekhane",
+    "aliases": [
+      "Yeni Yemekhane",
+      "Yeni Yemekhane Önü",
+      "Yeni Yemekhane ve Sinema Anadolu Önü"
+    ],
+    "position": "footprint",
+    "plan": null,
+    "osm": "way/1119929972",
+    "source": "https://www.openstreetmap.org/way/1119929972",
+    "evidence": "OSM name tag \"Anadolu Üniversitesi Yeni Yemekhane\"."
+  },
+  {
+    "id": "cami",
+    "name": "Anadolu Üniversitesi Camii",
+    "shortName": "Cami",
+    "aliases": [
+      "Anadolu Üniversitesi Camii",
+      "Anadolu Üniversitesi Camii Bahçesi"
+    ],
+    "position": "footprint",
+    "plan": null,
+    "osm": "way/718618164",
+    "source": "https://www.openstreetmap.org/way/718618164",
+    "evidence": "OSM building=mosque inside campus; no name tag, so the name is the university's own and the footprint is the evidence."
+  },
+  {
+    "id": "kyk-bankamatikler",
+    "name": "KYK ve Bankamatikler Önü",
+    "shortName": "KYK ve Bankamatikler",
+    "aliases": [
+      "KYK ve Bankamatikler Önü",
+      "KYK ve Bankamatikler"
+    ],
+    "position": "footprint",
+    "plan": 11,
+    "osm": "way/374982346",
+    "source": "https://www.openstreetmap.org/way/374982346",
+    "evidence": "The square in front of the KYK dormitories, where the campus ATMs stand (Ziraat Bankası ATM node/10052862752, 39.7912163/30.5027838). The official plan numbers 11 (ATM gişeleri) and 39 (KYK yurtları): the ATMs are the venue and the dormitory block way/374982346 (\"KYK Öğrenci Yurtları\", building=dormitory) is its anchor, so the footprint is drawn."
+  }
+]

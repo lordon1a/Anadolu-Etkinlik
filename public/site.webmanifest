@@ -1,0 +1,17 @@
+{
+  "name": "Kampüste — Yunus Emre Kampüsü etkinlik haritası",
+  "short_name": "Kampüste",
+  "description": "Anadolu Üniversitesi Yunus Emre Kampüsü'ndeki etkinlikleri minyatür kampüs haritasında keşfet.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#edf1eb",
+  "theme_color": "#e9f0ea",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

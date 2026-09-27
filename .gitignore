@@ -1,0 +1,29 @@
+node_modules/
+dist/
+
+# Ortam değişkenleri ve sırlar
+.env
+.env.*
+!.env.example
+
+# Günlükler
+*.log
+npm-debug.log*
+
+# Araştırma çıktıları: ekran görüntüleri ve geçici Chrome profilleri
+research/shots/
+research/ground/elevation-partial.json
+research/compare/
+
+# Esri World Imagery karoları: servis dışa aktarıma kapalı (exportTilesAllowed=false),
+# bu yüzden karolar ne depoda ne de derleme çıktısında tutulur. Uydu katmanı
+# istendiğinde tarayıcıdan doğrudan yüklenir; indirilen kopyalar yalnızca yerel
+# karşılaştırma içindir.
+research/ground/tiles/
+public/ground/tiles/
+
+# Dahili devir/çalışma notları (depoda tutulmaz)
+DEEPSEEK_HANDOFF.md
+
+.DS_Store
+Thumbs.db

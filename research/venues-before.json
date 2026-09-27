@@ -1,0 +1,14 @@
+[
+  { "id": "akm", "aliases": ["Atatürk Kültür ve Sanat Merkezi", "AKM", "Anadolu Üniversitesi Atatürk Kültür ve Sanat Merkezi"] },
+  { "id": "kongre", "aliases": ["Kongre Merkezi", "Salon Anadolu", "Kırmızı Salon", "Mavi Salon"] },
+  { "id": "sinema", "aliases": ["Sinema Anadolu"] },
+  { "id": "sinema-sokak", "aliases": ["Sinema Anadolu Sokak", "Sinema Anadolu Sokağı"] },
+  { "id": "ogrenci-merkezi", "aliases": ["Öğrenci Merkezi", "Yunus Emre Salonu", "Salon 2009", "Salon 2016", "Farabi Salonu", "Nasrettin Hoca Salonu", "ğrenci Merkezi Yunus Emre Salonu", "Öğrenci Mrekezi Yunus Emre Salonu"] },
+  { "id": "kutuphane", "aliases": ["Kütüphane", "Kütüphane ve Dokümantasyon Merkezi"] },
+  { "id": "salon-2003", "aliases": ["Salon 2003", "Koral Çalgan Salonu"] },
+  { "id": "turizm", "aliases": ["Turizm Fakültesi"] },
+  { "id": "hukuk", "aliases": ["Hukuk Fakültesi"] },
+  { "id": "cagdas-muze", "aliases": ["Çağdaş Sanatlar Müzesi"] },
+  { "id": "egitim", "aliases": ["Eğitim Fakültesi"] },
+  { "id": "emyo", "aliases": ["Eskişehir Meslek Yüksekokulu", "Adili Sadık Bahçe Seminer Salonu"] }
+]

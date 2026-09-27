@@ -1,0 +1,16 @@
+.venue-filter-clear {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 9px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #4b8069;
+  font-size: 11px;
+  font-weight: 750;
+}
+
+.venue-filter-clear:hover {
+  text-decoration: underline;
+}

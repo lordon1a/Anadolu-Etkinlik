@@ -1,0 +1,51 @@
+# Etkinlik kaydını iki saatte bir yeniler ve public/events.json değiştiyse işler.
+# Betik yalnızca tam ve tutarlı bir tur başarıyla bittiğinde dosyayı yazar; bir
+# adım hata verirse iş burada durur ve son başarılı kayıt depoda kalır.
+name: Etkinlik kaydını yenile
+
+on:
+  schedule:
+    # Zamanlar UTC'dir. Türkiye 2016'dan beri sabit UTC+3 kullanır (yaz saati
+    # uygulanmaz), yani yerel saat = UTC + 3. "17 */2 * * *" her iki saatte bir,
+    # yerel saatle 01:17, 03:17, 05:17 ... 23:17'de çalışır.
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-events
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v5
+
+      - name: Node.js 24 kur
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Bağımlılıkları kur
+        run: npm ci
+
+      - name: Etkinlikleri yenile
+        run: npm run update:events
+
+      - name: Değişiklik varsa işle
+        run: |
+          if [ -z "$(git status --porcelain -- public/events.json)" ]; then
+            echo "Etkinlik kaydı değişmedi; işlenecek bir şey yok."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/events.json
+          git commit -m "Veri: etkinlik kaydını yenile"
+          git push

@@ -1,0 +1,515 @@
+.map-3d {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  /* The percentage height above collapses when the viewport is a block box. */
+  min-height: inherit;
+  /* One finger scrolls the page on phones; two fingers belong to the map
+     (camera-controls takes its own canvas back to pan-y in JS). */
+  touch-action: pan-y;
+}
+
+/* React Three Fiber wraps the canvas in its own div; it does not inherit height. */
+.map-3d > div:first-child {
+  width: 100%;
+  height: 100%;
+  min-height: inherit;
+  touch-action: pan-y;
+}
+
+.map-3d canvas {
+  display: block;
+  cursor: grab;
+  touch-action: pan-y;
+}
+
+.map-pin-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.map-pin-3d {
+  position: absolute;
+  /* Hidden, not display:none: the projector measures offsetWidth/Height before
+     the first frame, and a display:none element would report zero for both. */
+  visibility: hidden;
+  z-index: var(--z-pin);
+  pointer-events: auto;
+  transform: translate(-50%, -50%);
+  transition: opacity var(--dur) var(--ease-out), transform var(--dur) var(--spring);
+}
+
+.map-pin-3d:hover,
+.map-pin-3d.is-selected {
+  transform: translate(-50%, calc(-50% - 5px)) scale(1.06);
+}
+
+.map-pin-3d.is-selected {
+  z-index: calc(var(--z-pin) + 1);
+}
+
+/* Zoomed out, crowded or hidden behind a building: the count stays, the name
+   does not. Hiding keeps the label's box so the pin layout stays stable. */
+.map-pin-3d.is-far .map-pin-label,
+.map-pin-3d.is-tight .map-pin-label {
+  visibility: hidden;
+}
+
+.map-pin-3d.is-occluded {
+  opacity: .3;
+}
+
+.map-pin-3d.is-occluded:hover,
+.map-pin-3d.is-occluded.is-selected {
+  opacity: 1;
+}
+
+.map-building-label-3d {
+  display: none;
+}
+
+/* OSM building name, shown while the pointer rests on a mass. */
+.map-building-tag {
+  display: block;
+  padding: 4px 8px;
+  border: 1px solid rgba(255, 255, 255, .38);
+  border-radius: var(--r-xs);
+  background: rgba(23, 50, 43, .9);
+  color: #f5faf4;
+  font-size: 11px;
+  font-weight: var(--w-semibold);
+  line-height: 1.1;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: var(--shadow-sm);
+}
+
+.map-touch-hint {
+  display: none;
+}
+
+.map-credits {
+  position: absolute;
+  right: 12px;
+  bottom: 10px;
+  z-index: var(--z-map-control);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 8px;
+  border-radius: var(--r-xs);
+  background: rgba(250, 252, 245, .82);
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: var(--w-regular);
+  pointer-events: auto;
+}
+
+.map-credits a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* Satellite switch. Sits under the compass: the styled ground is the default,
+   the imagery is fetched from the provider only while it is on. */
+.map-satellite {
+  position: absolute;
+  top: 66px;
+  right: 18px;
+  z-index: var(--z-map-control);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.map-satellite-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 36px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  background: rgba(250, 252, 245, .92);
+  color: var(--brand-ink);
+  font-size: 11px;
+  font-weight: var(--w-semibold);
+  box-shadow: var(--shadow-xs);
+  transition: background var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out), border-color var(--dur-fast) var(--ease-out);
+}
+
+.map-satellite-toggle:hover {
+  background: var(--surface);
+}
+
+.map-satellite-toggle.is-on {
+  border-color: var(--brand);
+  background: var(--brand);
+  color: #f2f8ef;
+}
+
+.map-satellite-note {
+  max-width: 190px;
+  padding: 6px 9px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  background: rgba(250, 252, 245, .94);
+  color: var(--ink-soft);
+  font-size: 10px;
+  font-weight: var(--w-regular);
+  line-height: 1.35;
+  text-align: right;
+}
+
+@media (max-width: 760px) {
+  /* Phone badges stay small: they mark a building, they do not cover the map. */
+  .map-pin-3d {
+    min-width: 34px;
+  }
+
+  /* Kartın kapatma düğmesi dokunma hedefi olarak büyür. */
+  .venue-sheet .venue-card-close {
+    width: 42px;
+    height: 42px;
+  }
+
+  .map-pin-3d .map-pin-label {
+    display: none;
+  }
+
+  .map-pin-3d .map-pin-count {
+    width: 28px;
+    height: 28px;
+    border-width: 3px;
+    font-size: 11px;
+  }
+
+  /* Attribution becomes one small line at the very bottom, and the event count
+     moves above it so the two can never overlap. */
+  .map-credits {
+    left: 8px;
+    right: 8px;
+    bottom: 5px;
+    justify-content: center;
+    gap: 4px;
+    padding: 3px 6px;
+    overflow: hidden;
+    font-size: 9px;
+    white-space: nowrap;
+  }
+
+  .map-credits a,
+  .map-credits span {
+    min-width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+
+  .map-viewport .map-hint {
+    bottom: 32px;
+    left: 10px;
+  }
+
+  .map-touch-hint {
+    position: absolute;
+    top: 12px;
+    left: 50%;
+    z-index: var(--z-map-badge);
+    display: flex;
+    transform: translateX(-50%);
+    padding: 6px 11px;
+    border: 1px solid var(--line);
+    border-radius: var(--r-pill);
+    background: rgba(250, 252, 245, .9);
+    color: var(--brand-ink);
+    font-size: 10.5px;
+    font-weight: var(--w-medium);
+    white-space: nowrap;
+    pointer-events: none;
+  }
+}
+
+/* ------------------------------------------------------------- venue card */
+/* Pinlerin üstünde, arama listesinin altında: --z-card. */
+
+.venue-card-layer {
+  position: absolute;
+  inset: 0;
+  z-index: var(--z-card);
+  pointer-events: none;
+}
+
+.venue-card {
+  position: absolute;
+  /* The frame loop places the card on its pin; until then it must not flash in
+     the canvas corner. Visibility (not display) keeps its box measurable. */
+  visibility: hidden;
+  width: 288px;
+  /* Never taller than the canvas can hold: the list scrolls instead. */
+  max-height: 62%;
+  padding: 13px 14px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  background: rgba(252, 254, 248, .97);
+  box-shadow: var(--shadow-lg);
+  color: var(--ink);
+  text-align: left;
+  transform: translateX(-50%);
+  pointer-events: auto;
+}
+
+.venue-card-tail {
+  position: absolute;
+  left: 50%;
+  bottom: -7px;
+  width: 16px;
+  height: 7px;
+  background: rgba(252, 254, 248, .97);
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
+
+.venue-card[data-side='below'] .venue-card-tail {
+  bottom: auto;
+  top: -7px;
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+}
+
+.venue-card-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.venue-card-eyebrow {
+  display: block;
+  font-size: 11px;
+  font-weight: var(--w-semibold);
+  color: var(--brand-ink);
+}
+
+.venue-card-name {
+  margin: 3px 0 0;
+  font-size: 15px;
+  line-height: 1.15;
+  letter-spacing: -.03em;
+}
+
+.venue-card-close {
+  flex: 0 0 auto;
+  width: 28px;
+  height: 28px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: #fff;
+  color: var(--brand-ink);
+  transition: background var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+}
+
+.venue-card-close:hover {
+  border-color: #c3d6c5;
+  background: var(--surface);
+}
+
+.venue-card-close:active { transform: scale(.94); }
+
+.venue-card-events {
+  list-style: none;
+  margin: 11px 0 0;
+  padding: 0;
+  max-height: 206px;
+  overflow-y: auto;
+  scrollbar-color: #c8d5c9 transparent;
+  scrollbar-width: thin;
+}
+
+.venue-card-event {
+  padding: 9px 0;
+  border-top: 1px solid #e9efe4;
+}
+
+.venue-card-event:first-child {
+  padding-top: 2px;
+  border-top: 0;
+}
+
+.venue-card-open {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: inherit;
+  text-align: left;
+}
+
+.venue-card-poster {
+  flex: 0 0 34px;
+  width: 34px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border-radius: 8px;
+  background: #e9dfcd center/cover;
+  color: #bf986d;
+  overflow: hidden;
+}
+
+.venue-card-text {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-width: 0;
+}
+
+.venue-card-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  font-size: 12.5px;
+  font-weight: var(--w-semibold);
+  line-height: 1.16;
+  letter-spacing: -.02em;
+}
+
+.venue-card-time {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10.5px;
+  font-weight: var(--w-regular);
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.venue-card-time svg {
+  color: #9db3a3;
+}
+
+.venue-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 11px;
+  margin: 7px 0 0 43px;
+}
+
+.venue-card-share,
+.venue-card-source {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--brand-ink);
+  font-size: 10.5px;
+  font-weight: var(--w-semibold);
+}
+
+.venue-card-share:hover,
+.venue-card-source:hover {
+  text-decoration: underline;
+}
+
+.venue-card-more {
+  width: 100%;
+  margin-top: 10px;
+  min-height: 38px;
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  background: var(--surface-2);
+  color: var(--brand-ink);
+  font-size: 11px;
+  font-weight: var(--w-semibold);
+  transition: background var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
+}
+
+.venue-card-more:hover {
+  background: #fff;
+}
+
+.venue-card-more:active { transform: scale(.99); }
+
+.venue-card-empty {
+  margin: 12px 0 2px;
+  color: var(--muted);
+  font-size: 11.5px;
+}
+
+/* ------------------------------------------------------------- bottom sheet */
+
+.venue-sheet-layer {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-sheet);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.venue-sheet-backdrop {
+  position: absolute;
+  inset: 0;
+  padding: 0;
+  border: 0;
+  background: rgba(13, 40, 35, .34);
+  backdrop-filter: blur(2px);
+}
+
+.venue-sheet {
+  position: relative;
+  max-height: 74vh;
+  padding: 16px 18px calc(20px + env(safe-area-inset-bottom));
+  border-radius: var(--r-lg) var(--r-lg) 0 0;
+  background: var(--surface);
+  box-shadow: 0 -18px 44px rgba(15, 40, 34, .28);
+  color: var(--ink);
+  text-align: left;
+  overflow-y: auto;
+  animation: venue-sheet-in var(--dur) var(--ease-out);
+}
+
+.venue-sheet-grip {
+  display: block;
+  width: 42px;
+  height: 4px;
+  margin: 0 auto 12px;
+  border-radius: var(--r-pill);
+  background: var(--line);
+}
+
+/* The sheet scrolls as a whole; the list must not scroll inside it. */
+.venue-sheet .venue-card-events {
+  max-height: none;
+  overflow: visible;
+}
+
+.venue-sheet .venue-card-name {
+  font-size: 17px;
+}
+
+.venue-sheet .venue-card-title {
+  font-size: 13.5px;
+}
+
+/* Opacity only: a transform here would leave the sheet hanging below the
+   viewport whenever the animation clock has not started yet. */
+@keyframes venue-sheet-in {
+  from {
+    opacity: .55;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
