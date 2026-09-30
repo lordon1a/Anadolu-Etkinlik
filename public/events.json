@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-09-30T12:43:27.201Z",
+  "updatedAt": "2026-09-30T19:26:56.778Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -38,18 +38,6 @@
       "category": "Tanıtım Aktiviteleri",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab6575edadf4.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iletisim-kulubu-tanitim-standi-1790334852"
-    },
-    {
-      "id": "tiyatro-kulubu-tanitim-standi-1790334918",
-      "title": "\"Tiyatro Kulübü Tanıtım Standı\"",
-      "startAt": "2026-09-28T17:30:00+03:00",
-      "endAt": "2026-09-30T20:00:00+03:00",
-      "place": "Turizm Fakültesi Amfi-1 ve 3",
-      "venueId": "turizm",
-      "organiser": "Tiyatro Kulübü",
-      "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab657956d138.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tiyatro-kulubu-tanitim-standi-1790334918"
     },
     {
       "id": "10-uluslararasi-gastronomi-turizmi-arastirmalari-kongresi-1790074137",
@@ -233,7 +221,7 @@
     },
     {
       "id": "mustafa-kemal-ilkokulunda-dunya-kiz-cocuklari-gunu-1790256511",
-      "title": "\"Mustafa Kemal İlkokulunda Dünya Kız Çocukları Günü\"",
+      "title": "\"Müzenin Küçük Ressamları Masal Peşinde\"",
       "startAt": "2026-10-09T10:00:00+03:00",
       "endAt": "2026-10-09T12:00:00+03:00",
       "place": "Çağdaş Sanatlar Müzesi",
