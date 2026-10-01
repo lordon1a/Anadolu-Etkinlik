@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-01T13:27:18.674Z",
+  "updatedAt": "2026-10-01T19:36:13.380Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,18 +14,6 @@
       "category": "Tanıtımlar ve Turlar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab528f361ab9.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/genclik-ve-spor-il-mudurlugu-tanitim-standi-1790257475"
-    },
-    {
-      "id": "sosyal-medya-kulubu-tanitim-standi-1790336331",
-      "title": "\"Sosyal Medya Kulübü Tanıtım Standı\"",
-      "startAt": "2026-09-28T09:00:00+03:00",
-      "endAt": "2026-10-01T17:00:00+03:00",
-      "place": "Yeni Yemekhane Önü",
-      "venueId": "yeni-yemekhane",
-      "organiser": "Sosyal Medya Kulübü",
-      "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab65d2a6f8ba.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sosyal-medya-kulubu-tanitim-standi-1790336331"
     },
     {
       "id": "iletisim-kulubu-tanitim-standi-1790334852",
@@ -50,18 +38,6 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab25cf8c8577.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/10-uluslararasi-gastronomi-turizmi-arastirmalari-kongresi-1790074137"
-    },
-    {
-      "id": "iletisim-kulubu-uye-tanisma-toplantisi-1789564054",
-      "title": "\"İletişim Kulübü Üye Tanışma Toplantısı\"",
-      "startAt": "2026-10-01T14:00:00+03:00",
-      "endAt": "2026-10-01T17:30:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "İletişim Kulübü",
-      "category": "Toplantılar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa9461dcd89.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iletisim-kulubu-uye-tanisma-toplantisi-1789564054"
     },
     {
       "id": "render-oncesi-kisisel-sergi-1790689073",
