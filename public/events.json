@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-02T05:47:33.539Z",
+  "updatedAt": "2026-10-02T12:45:38.965Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -28,6 +28,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iletisim-kulubu-tanitim-standi-1790334852"
     },
     {
+      "id": "tanitim-standi-1790938053",
+      "title": "\"Tanıtım Standı\"",
+      "startAt": "2026-09-29T08:30:00+03:00",
+      "endAt": "2026-10-02T17:30:00+03:00",
+      "place": "Yeni Öğrenci Yemekhanesi ve Sinema Anadolu Önü",
+      "venueId": "sinema",
+      "organiser": "Marketing Anadolu Kulübü",
+      "category": "Tanıtım Aktiviteleri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8b99c3bae.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanitim-standi-1790938053"
+    },
+    {
+      "id": "tanitim-standi-1790937911",
+      "title": "\"Tanıtım Standı\"",
+      "startAt": "2026-09-30T09:00:00+03:00",
+      "endAt": "2026-10-02T17:00:00+03:00",
+      "place": "Öğrenci Yemekhanesi Önü",
+      "venueId": null,
+      "organiser": "Gastronomi Kulübü",
+      "category": "Tanıtım Aktiviteleri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8b0ec1ec3.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanitim-standi-1790937911"
+    },
+    {
       "id": "10-uluslararasi-gastronomi-turizmi-arastirmalari-kongresi-1790074137",
       "title": "\"10. Uluslararası Gastronomi Turizmi Araştırmaları Kongresi\"",
       "startAt": "2026-10-01T09:00:00+03:00",
@@ -42,7 +66,7 @@
     {
       "id": "render-oncesi-kisisel-sergi-1790689073",
       "title": "\"Render Öncesi\" - Kişisel Sergi",
-      "startAt": "2026-10-02T10:00:00+03:00",
+      "startAt": "2026-10-02T13:00:00+03:00",
       "endAt": "2026-10-16T18:00:00+03:00",
       "place": "Eğitim Karikatürleri Müzesi",
       "venueId": null,
@@ -52,16 +76,16 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/render-oncesi-kisisel-sergi-1790689073"
     },
     {
-      "id": "gitar-sanat-dali-konseri-1-1789564610",
-      "title": "\"Gitar Sanat Dalı Konseri 1\"",
-      "startAt": "2026-10-02T14:30:00+03:00",
-      "endAt": "2026-10-02T15:40:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa96a404fcb.JPG",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gitar-sanat-dali-konseri-1-1789564610"
+      "id": "sosyal-medya-kulubu-tanisma-toplantisi-1790937978",
+      "title": "\"Sosyal Medya Kulübü Tanışma Toplantısı\"",
+      "startAt": "2026-10-02T15:00:00+03:00",
+      "endAt": "2026-10-02T16:00:00+03:00",
+      "place": "Sinema Anadolu",
+      "venueId": "sinema",
+      "organiser": "Sosyal Medya Kulübü",
+      "category": "Toplantılar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8b60433fc.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sosyal-medya-kulubu-tanisma-toplantisi-1790937978"
     },
     {
       "id": "sosyal-medya-kulubu-tanitim-standi-1790334788",
@@ -160,6 +184,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sanal-ortamda-bahis-sans-oyunlari-ve-kumarla-mucadele-1790074786"
     },
     {
+      "id": "bilimsel-arastirma-sureci-1790938247",
+      "title": "\"Bilimsel Araştırma Süreci\"",
+      "startAt": "2026-10-06T09:00:00+03:00",
+      "endAt": "2026-10-06T11:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8c663ad27.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bilimsel-arastirma-sureci-1790938247"
+    },
+    {
       "id": "ofke-kontrolu-1789563645",
       "title": "\"Öfke Kontrolü\"",
       "startAt": "2026-10-07T14:00:00+03:00",
@@ -208,6 +244,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mustafa-kemal-ilkokulunda-dunya-kiz-cocuklari-gunu-1790256511"
     },
     {
+      "id": "pizza-workshop-1790938779",
+      "title": "\"Pizza Workshop\"",
+      "startAt": "2026-10-12T09:00:00+03:00",
+      "endAt": "2026-10-12T13:00:00+03:00",
+      "place": "Turizm Fakültesi Uygulama Mutfağı",
+      "venueId": "turizm",
+      "organiser": "Gastronomi Kulübü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8e73421a0.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/pizza-workshop-1790938779"
+    },
+    {
+      "id": "olcme-degerlendirme-egitimi-1790938328",
+      "title": "\"Ölçme Değerlendirme Eğitimi\"",
+      "startAt": "2026-10-12T09:30:00+03:00",
+      "endAt": "2026-10-12T11:30:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8caa4b51e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/olcme-degerlendirme-egitimi-1790938328"
+    },
+    {
       "id": "tanisma-toplantisi-1782904494",
       "title": "\"Tanışma Toplantısı\"",
       "startAt": "2026-10-12T12:00:00+03:00",
@@ -218,6 +278,30 @@
       "category": "Toplantılar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a44f52c42951.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanisma-toplantisi-1782904494"
+    },
+    {
+      "id": "olcme-degerlendirme-egitimi-1790938394",
+      "title": "\"Ölçme Değerlendirme Eğitimi\"",
+      "startAt": "2026-10-13T14:00:00+03:00",
+      "endAt": "2026-10-13T16:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8cfba0221.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/olcme-degerlendirme-egitimi-1790938394"
+    },
+    {
+      "id": "arastirma-gelistirme-1790938439",
+      "title": "\"Araştırma Geliştirme\"",
+      "startAt": "2026-10-14T10:00:00+03:00",
+      "endAt": "2026-10-14T11:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8d30801ac.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/arastirma-gelistirme-1790938439"
     },
     {
       "id": "4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569",
@@ -268,16 +352,16 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "29-ekim-cumhuriyet-bayrami-konseri-1785393750",
-      "title": "\"29 Ekim Cumhuriyet Bayramı Konseri\"",
-      "startAt": "2026-10-23T08:00:00+03:00",
-      "endAt": "2026-10-23T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "id": "mirco-kredi-hazirlama-toplantisi-1790938503",
+      "title": "\"Mirco Kredi Hazırlama Toplantısı\"",
+      "startAt": "2026-10-26T10:00:00+03:00",
+      "endAt": "2026-10-26T11:30:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
       "venueId": "ogrenci-merkezi",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af2298076e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-konseri-1785393750"
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8d7189fce.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mirco-kredi-hazirlama-toplantisi-1790938503"
     },
     {
       "id": "eren-yahsi-sinif-konseri-1789564680",
@@ -292,6 +376,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/eren-yahsi-sinif-konseri-1789564680"
     },
     {
+      "id": "etik-kurul-sureci-sosyal-bilimleri-alani-1790938558",
+      "title": "\"Etik Kurul Süreci (Sosyal Bilimleri Alanı)\"",
+      "startAt": "2026-10-27T14:00:00+03:00",
+      "endAt": "2026-10-27T16:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8da5e367b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/etik-kurul-sureci-sosyal-bilimleri-alani-1790938558"
+    },
+    {
       "id": "29-ekim-cumhuriyet-bayrami-konseri-1789641827",
       "title": "\"29 Ekim Cumhuriyet Bayramı Konseri\"",
       "startAt": "2026-10-27T19:00:00+03:00",
@@ -302,6 +398,42 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aabc439a6b60.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-konseri-1789641827"
+    },
+    {
+      "id": "toplumsal-katki-1790938605",
+      "title": "\"Toplumsal Katkı\"",
+      "startAt": "2026-11-03T10:00:00+03:00",
+      "endAt": "2026-11-03T11:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dd75d893.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/toplumsal-katki-1790938605"
+    },
+    {
+      "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938948",
+      "title": "\"Temel İş Sağlığı ve Güvenliği Eğitimi\"",
+      "startAt": "2026-11-04T08:30:00+03:00",
+      "endAt": "2026-11-04T17:30:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f2c79813.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938948"
+    },
+    {
+      "id": "atama-kriterleri-1790938648",
+      "title": "\"Atama Kriterleri\"",
+      "startAt": "2026-11-05T10:00:00+03:00",
+      "endAt": "2026-11-05T11:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dff2e30e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/atama-kriterleri-1790938648"
     },
     {
       "id": "turk-halk-muzigi-solo-konseri-1774509637",
@@ -316,6 +448,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-solo-konseri-1774509637"
     },
     {
+      "id": "afet-farkindalik-egitimleri-1790939078",
+      "title": "\"Afet Farkındalık Eğitimleri\"",
+      "startAt": "2026-11-11T13:30:00+03:00",
+      "endAt": "2026-11-11T16:00:00+03:00",
+      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "venueId": "biltek-myo",
+      "organiser": "Eğitim Fakültesi",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f9300b08.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-farkindalik-egitimleri-1790939078"
+    },
+    {
       "id": "iliskilerimizde-iletisim-yuz-yuze-ve-sanal-ve-sinirlar-1789563836",
       "title": "\"İlişkilerimizde İletişim (Yüz Yüze ve Sanal) ve Sınırlar\"",
       "startAt": "2026-11-11T14:00:00+03:00",
@@ -326,6 +470,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa93939aa9c.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iliskilerimizde-iletisim-yuz-yuze-ve-sanal-ve-sinirlar-1789563836"
+    },
+    {
+      "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938995",
+      "title": "\"Temel İş Sağlığı ve Güvenliği Eğitimi\"",
+      "startAt": "2026-11-18T08:30:00+03:00",
+      "endAt": "2026-11-18T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f563fde6.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
     },
     {
       "id": "cmyk-medya-gunleri19-1790258723",
@@ -362,6 +518,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa93f11bb1d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946"
+    },
+    {
+      "id": "odul-yonergesi-ve-performans-sistemi-1790938708",
+      "title": "\"Ödül Yönergesi ve Performans Sistemi\"",
+      "startAt": "2026-11-26T10:00:00+03:00",
+      "endAt": "2026-11-26T12:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8e36ecd43.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708"
     },
     {
       "id": "24-kasim-ogretmenler-gunu-konseri-1785394201",
