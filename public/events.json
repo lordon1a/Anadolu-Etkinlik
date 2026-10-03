@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-03T11:45:49.834Z",
+  "updatedAt": "2026-10-03T16:27:24.148Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -16,18 +16,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/genclik-ve-spor-il-mudurlugu-tanitim-standi-1790257475"
     },
     {
-      "id": "10-uluslararasi-gastronomi-turizmi-arastirmalari-kongresi-1790074137",
-      "title": "\"10. Uluslararası Gastronomi Turizmi Araştırmaları Kongresi\"",
-      "startAt": "2026-10-01T09:00:00+03:00",
-      "endAt": "2026-10-03T18:00:00+03:00",
-      "place": "Turizm Fakültesi",
-      "venueId": "turizm",
-      "organiser": "Turizm Fakültesi",
-      "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab25cf8c8577.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/10-uluslararasi-gastronomi-turizmi-arastirmalari-kongresi-1790074137"
-    },
-    {
       "id": "render-oncesi-kisisel-sergi-1790689073",
       "title": "\"Render Öncesi\" - Kişisel Sergi",
       "startAt": "2026-10-02T13:00:00+03:00",
@@ -38,18 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/render-oncesi-kisisel-sergi-1790689073"
-    },
-    {
-      "id": "egitimde-iyi-ornekler-eskisehir-yerel-bulusmasi-1788958786",
-      "title": "\"Eğitimde İyi Örnekler Eskişehir Yerel Buluşması\"",
-      "startAt": "2026-10-03T10:00:00+03:00",
-      "endAt": "2026-10-03T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "ERG Sabancı Vakfı",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa1580f8f379.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/egitimde-iyi-ornekler-eskisehir-yerel-bulusmasi-1788958786"
     },
     {
       "id": "birlesmis-milletler-iklim-degisikligi-konferansi-1790079999",
