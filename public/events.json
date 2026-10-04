@@ -1,20 +1,8 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-04T08:30:49.283Z",
+  "updatedAt": "2026-10-04T15:24:39.806Z",
   "timezone": "Europe/Istanbul",
   "events": [
-    {
-      "id": "genclik-ve-spor-il-mudurlugu-tanitim-standi-1790257475",
-      "title": "\"Gençlik ve Spor İl Müdürlüğü Tanıtım Standı\"",
-      "startAt": "2026-09-21T09:00:00+03:00",
-      "endAt": "2026-10-04T17:30:00+03:00",
-      "place": "KYK ve Bankamatikler Önü",
-      "venueId": "kyk-bankamatikler",
-      "organiser": "Gençlik ve Spor İl Müdürlüğü",
-      "category": "Tanıtımlar ve Turlar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab528f361ab9.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/genclik-ve-spor-il-mudurlugu-tanitim-standi-1790257475"
-    },
     {
       "id": "render-oncesi-kisisel-sergi-1790689073",
       "title": "\"Render Öncesi\" - Kişisel Sergi",
@@ -96,7 +84,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Eğitim Fakültesi",
       "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab528f361ab9.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yuksekogretim-calismalari-kongresi-yocad-1776252640"
     },
     {
@@ -180,7 +168,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Eğitim Fakültesi",
       "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab528f361ab9.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569"
     },
     {
@@ -312,7 +300,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab528f361ab9.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-solo-konseri-1774509637"
     },
     {
@@ -552,7 +540,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Eskişehir Mevlevihanesi Kültür Derneği Sema ve Tasavvuf Musi",
       "category": "Törenler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab528f361ab9.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664"
     },
     {
