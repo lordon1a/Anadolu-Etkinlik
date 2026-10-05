@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-05T05:49:42.022Z",
+  "updatedAt": "2026-10-05T14:51:27.220Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -16,28 +16,16 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/render-oncesi-kisisel-sergi-1790689073"
     },
     {
-      "id": "birlesmis-milletler-iklim-degisikligi-konferansi-1790079999",
-      "title": "\"Birleşmiş Milletler İklim Değişikliği Konferansı\"",
-      "startAt": "2026-10-05T10:00:00+03:00",
-      "endAt": "2026-10-05T13:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu & Şener Şen Kültür Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Çevre Şehircilik ve İklim Değişikliği Bakanlığı",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab273b3b379b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/birlesmis-milletler-iklim-degisikligi-konferansi-1790079999"
-    },
-    {
-      "id": "sanal-ortamda-bahis-sans-oyunlari-ve-kumarla-mucadele-1790074786",
-      "title": "\"Sanal Ortamda Bahis, Şans Oyunları ve Kumarla Mücadele\"",
-      "startAt": "2026-10-05T14:00:00+03:00",
-      "endAt": "2026-10-05T16:00:00+03:00",
-      "place": "Hukuk Fakültesi Amfi-1",
-      "venueId": "hukuk",
-      "organiser": "Hukuk Fakültesi",
-      "category": "Paneller",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab25f7f3749b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sanal-ortamda-bahis-sans-oyunlari-ve-kumarla-mucadele-1790074786"
+      "id": "dunya-gozuyle-yunus-emre-1791186999",
+      "title": "\"Dünya Gözüyle Yunus Emre\"",
+      "startAt": "2026-10-06T09:00:00+03:00",
+      "endAt": "2026-12-31T17:00:00+03:00",
+      "place": "Yunus Emre Yazı Sanatları Müzesi",
+      "venueId": null,
+      "organiser": "Yunus Emre Yazı Sanatları Müzesi",
+      "category": "Sergiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
     },
     {
       "id": "bilimsel-arastirma-sureci-1790938247",
@@ -84,8 +72,20 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Eğitim Fakültesi",
       "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3b30b6cc69.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yuksekogretim-calismalari-kongresi-yocad-1776252640"
+    },
+    {
+      "id": "dijital-ortamlarda-guvenlik-dijital-okuryazarlik-ve-bilincli-kullanim-1791187138",
+      "title": "\"Dijital Ortamlarda Güvenlik, Dijital Okuryazarlık ve Bilinçli Kullanım\"",
+      "startAt": "2026-10-08T10:30:00+03:00",
+      "endAt": "2026-10-08T12:00:00+03:00",
+      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salon",
+      "venueId": null,
+      "organiser": "Engelliler Entegre Yüksekokulu",
+      "category": "Oryantasyon",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3586ec5eeb.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijital-ortamlarda-guvenlik-dijital-okuryazarlik-ve-bilincli-kullanim-1791187138"
     },
     {
       "id": "mustafa-kemal-ilkokulunda-dunya-kiz-cocuklari-gunu-1790256511",
@@ -136,6 +136,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanisma-toplantisi-1782904494"
     },
     {
+      "id": "700-yillik-surdurebilirlik-yunus-emre-cop31e-katilsaydi-ne-soylerdi-1791187330",
+      "title": "\"700 Yıllık Sürdürebilirlik: Yunus Emre COP31'e Katılsaydı Ne Söylerdi?\"",
+      "startAt": "2026-10-12T14:00:00+03:00",
+      "endAt": "2026-10-12T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3596c7ee4d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/700-yillik-surdurebilirlik-yunus-emre-cop31e-katilsaydi-ne-soylerdi-1791187330"
+    },
+    {
+      "id": "gorusmeler-isiginda-turkce-rusca-yeminli-tercumanlik-alaninin-guncel-durumu-1791187475",
+      "title": "\"Görüşmeler Işığında Türkçe-Rusça Yeminli Tercümanlık Alanının Güncel Durumu: Sosyopolitik ve Ekonomik Etkiler\"",
+      "startAt": "2026-10-13T13:00:00+03:00",
+      "endAt": "2026-10-13T16:00:00+03:00",
+      "place": "Edebiyat Fakültesi Turuncu Salon",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a11d0c8d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gorusmeler-isiginda-turkce-rusca-yeminli-tercumanlik-alaninin-guncel-durumu-1791187475"
+    },
+    {
       "id": "olcme-degerlendirme-egitimi-1790938394",
       "title": "\"Ölçme Değerlendirme Eğitimi\"",
       "startAt": "2026-10-13T14:00:00+03:00",
@@ -184,6 +208,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-1784812322"
     },
     {
+      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
+      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
+      "startAt": "2026-10-19T14:00:00+03:00",
+      "endAt": "2026-10-19T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
+    },
+    {
       "id": "yarin-olmaz-simdi-ertelemeyi-yenmek-1789563730",
       "title": "\"Yarın Olmaz, Şimdi! (Ertelemeyi Yenmek)\"",
       "startAt": "2026-10-19T14:00:00+03:00",
@@ -206,6 +242,42 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aabcf45aa094.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
+    },
+    {
+      "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
+      "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
+    },
+    {
+      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
+      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
+    },
+    {
+      "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
+      "title": "\"Cibran Halil Cibran'ın Mektuplarında Osmanlı Hükümeti\"",
+      "startAt": "2026-10-23T14:00:00+03:00",
+      "endAt": "2026-10-23T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a7ad439a.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599"
     },
     {
       "id": "mirco-kredi-hazirlama-toplantisi-1790938503",
@@ -280,6 +352,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938948"
     },
     {
+      "id": "her-filminin-bagimlilik-baglaminda-incelenmesi-1791187734",
+      "title": "\"Her\" Filminin Bağımlılık Bağlamında İncelenmesi",
+      "startAt": "2026-11-04T15:00:00+03:00",
+      "endAt": "2026-11-04T17:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35b0095705.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/her-filminin-bagimlilik-baglaminda-incelenmesi-1791187734"
+    },
+    {
       "id": "atama-kriterleri-1790938648",
       "title": "\"Atama Kriterleri\"",
       "startAt": "2026-11-05T10:00:00+03:00",
@@ -340,6 +424,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
     },
     {
+      "id": "siirde-mekan-klasik-turk-siirinde-mekanlar-arasi-yolculuk-1791187807",
+      "title": "\"Şiirde Mekan: Klasik Türk Şiirinde Mekanlar Arası Yolculuk\"",
+      "startAt": "2026-11-19T14:00:00+03:00",
+      "endAt": "2026-11-19T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35b4983be0.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/siirde-mekan-klasik-turk-siirinde-mekanlar-arasi-yolculuk-1791187807"
+    },
+    {
       "id": "cmyk-medya-gunleri19-1790258723",
       "title": "\"CMYK Medya Günleri'19\"",
       "startAt": "2026-11-21T10:00:00+03:00",
@@ -388,6 +484,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708"
     },
     {
+      "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
+      "title": "\"Bir Çocuk Kitabı Çocuğa Ne Söyler?\"",
+      "startAt": "2026-11-26T15:00:00+03:00",
+      "endAt": "2026-11-26T17:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35b8daa1be.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-cocuk-kitabi-cocuga-ne-soyler-1791187893"
+    },
+    {
       "id": "24-kasim-ogretmenler-gunu-konseri-1785394201",
       "title": "\"24 Kasım Öğretmenler Günü Konseri\"",
       "startAt": "2026-11-26T19:00:00+03:00",
@@ -398,6 +506,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af3fb3f715.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/24-kasim-ogretmenler-gunu-konseri-1785394201"
+    },
+    {
+      "id": "bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959",
+      "title": "\"Bir Bizans Sınır Kalesinin Hikayesi: Harmantepe\"",
+      "startAt": "2026-11-27T14:00:00+03:00",
+      "endAt": "2026-11-27T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35bde7bf6a.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959"
     },
     {
       "id": "kisisel-gelisim-zirvesi-1781681697",
@@ -446,6 +566,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa156907bf32.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/zirve-alisilmisin-disinda-1788958407"
+    },
+    {
+      "id": "tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032",
+      "title": "\"Tiyatrolar ve Stadionlar: Yarışmalar, Gösteriler ve Festivaller\"",
+      "startAt": "2026-12-04T14:00:00+03:00",
+      "endAt": "2026-12-04T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c289eee0.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032"
     },
     {
       "id": "omer-demirbag-konferansi-1790073940",
@@ -532,6 +664,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166"
     },
     {
+      "id": "deli-kizin-turkusu-ruh-sagligi-1791188099",
+      "title": "\"Deli Kızın Türküsü (Ruh Sağlığı)\"",
+      "startAt": "2026-12-16T14:00:00+03:00",
+      "endAt": "2026-12-16T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
+    },
+    {
       "id": "hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664",
       "title": "\"Hz. Mevlana'nın 819. Şeb-i Arus Vuslat Yıldönümü - Sema Töreni\"",
       "startAt": "2026-12-17T18:00:00+03:00",
@@ -542,6 +686,18 @@
       "category": "Törenler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664"
+    },
+    {
+      "id": "nurettin-topcu-ve-isyani-1791188164",
+      "title": "\"Nurettin Topçu ve İsyan'ı\"",
+      "startAt": "2026-12-18T13:00:00+03:00",
+      "endAt": "2026-12-18T15:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35ca72a5c0.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/nurettin-topcu-ve-isyani-1791188164"
     },
     {
       "id": "gastovision-1781008299",
