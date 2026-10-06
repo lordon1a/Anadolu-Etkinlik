@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-05T22:43:17.584Z",
+  "updatedAt": "2026-10-06T06:29:17.089Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -722,6 +722,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af28686647.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeni-yil-konseri-1785393843"
+    },
+    {
+      "id": "mandala-sergisi-1788959527",
+      "title": "\"Mandala Sergisi\"",
+      "startAt": "2027-01-04T09:00:00+03:00",
+      "endAt": "2027-01-08T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Fuaye Alanı",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Yaşlılık Çalışmaları Uygulama ve Araştırma Müdürlüğü",
+      "category": "Sergiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa15afa4f086.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mandala-sergisi-1788959527"
     }
   ]
 }
