@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-06T06:29:17.089Z",
+  "updatedAt": "2026-10-06T15:16:16.344Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,30 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "bilimsel-arastirma-sureci-1790938247",
-      "title": "\"Bilimsel Araştırma Süreci\"",
-      "startAt": "2026-10-06T09:00:00+03:00",
-      "endAt": "2026-10-06T11:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8c663ad27.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bilimsel-arastirma-sureci-1790938247"
-    },
-    {
-      "id": "ofke-kontrolu-1789563645",
-      "title": "\"Öfke Kontrolü\"",
-      "startAt": "2026-10-07T14:00:00+03:00",
-      "endAt": "2026-10-07T15:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa92cb24e7b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ofke-kontrolu-1789563645"
     },
     {
       "id": "21-yuzyilda-dort-el-piyano-muzigi-1789564349",
@@ -173,7 +149,7 @@
     },
     {
       "id": "arastirma-gelistirme-1790938439",
-      "title": "\"Araştırma Geliştirme\"",
+      "title": "\"Araştırma Geliştirme Eğitimi\"",
       "startAt": "2026-10-14T10:00:00+03:00",
       "endAt": "2026-10-14T11:00:00+03:00",
       "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
@@ -208,18 +184,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-1784812322"
     },
     {
-      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
-      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
-      "startAt": "2026-10-19T14:00:00+03:00",
-      "endAt": "2026-10-19T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
-    },
-    {
       "id": "yarin-olmaz-simdi-ertelemeyi-yenmek-1789563730",
       "title": "\"Yarın Olmaz, Şimdi! (Ertelemeyi Yenmek)\"",
       "startAt": "2026-10-19T14:00:00+03:00",
@@ -230,6 +194,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa932b67658.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yarin-olmaz-simdi-ertelemeyi-yenmek-1789563730"
+    },
+    {
+      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
+      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
+      "startAt": "2026-10-19T14:00:00+03:00",
+      "endAt": "2026-10-19T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
     },
     {
       "id": "hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672",
@@ -244,18 +220,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
-      "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
-    },
-    {
       "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
       "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
       "startAt": "2026-10-21T14:00:00+03:00",
@@ -266,6 +230,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
+    },
+    {
+      "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
+      "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
     },
     {
       "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
@@ -329,7 +305,7 @@
     },
     {
       "id": "toplumsal-katki-1790938605",
-      "title": "\"Toplumsal Katkı\"",
+      "title": "\"Toplumsal Katkı Eğitimi\"",
       "startAt": "2026-11-03T10:00:00+03:00",
       "endAt": "2026-11-03T11:00:00+03:00",
       "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
@@ -365,7 +341,7 @@
     },
     {
       "id": "atama-kriterleri-1790938648",
-      "title": "\"Atama Kriterleri\"",
+      "title": "\"Atama Kriterleri Eğitimi\"",
       "startAt": "2026-11-05T10:00:00+03:00",
       "endAt": "2026-11-05T11:00:00+03:00",
       "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
