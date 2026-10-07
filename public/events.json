@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-07T08:47:08.834Z",
+  "updatedAt": "2026-10-07T17:27:29.472Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,18 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "21-yuzyilda-dort-el-piyano-muzigi-1789564349",
-      "title": "\"21. Yüzyılda Dört El Piyano Müziği\"",
-      "startAt": "2026-10-07T15:00:00+03:00",
-      "endAt": "2026-10-07T16:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa95a0d2c82.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/21-yuzyilda-dort-el-piyano-muzigi-1789564349"
     },
     {
       "id": "yuksekogretim-calismalari-kongresi-yocad-1776252640",
