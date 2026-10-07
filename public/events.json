@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-07T01:37:25.099Z",
+  "updatedAt": "2026-10-07T08:47:08.834Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -59,8 +59,8 @@
       "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salon",
       "venueId": null,
       "organiser": "Engelliler Entegre Yüksekokulu",
-      "category": "Oryantasyon",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3586ec5eeb.jpg",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac5ff567bfde.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijital-ortamlarda-guvenlik-dijital-okuryazarlik-ve-bilincli-kullanim-1791187138"
     },
     {
@@ -172,6 +172,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569"
     },
     {
+      "id": "yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707",
+      "title": "\"Yeniden Bağımsızlığının 35. Yılında Uluslararası Azerbaycan Kongresi\"",
+      "startAt": "2026-10-15T09:00:00+03:00",
+      "endAt": "2026-10-17T17:00:00+03:00",
+      "place": "Edebiyat Fakültesi",
+      "venueId": null,
+      "organiser": "Haydar Aliyev Uygulama ve Araştırma Merkezi",
+      "category": "Kongreler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac5e2a1f0369.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707"
+    },
+    {
       "id": "6-uluslararasi-piyano-gunleri-1784812322",
       "title": "\"6. Uluslararası Piyano Günleri\"",
       "startAt": "2026-10-19T10:00:00+03:00",
@@ -220,18 +232,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
-      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
-    },
-    {
       "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
       "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
       "startAt": "2026-10-21T14:00:00+03:00",
@@ -242,6 +242,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
+    },
+    {
+      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
+      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
     },
     {
       "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
