@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-09T00:26:46.089Z",
+  "updatedAt": "2026-10-09T09:12:17.329Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -38,18 +38,6 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3b30b6cc69.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yuksekogretim-calismalari-kongresi-yocad-1776252640"
-    },
-    {
-      "id": "mustafa-kemal-ilkokulunda-dunya-kiz-cocuklari-gunu-1790256511",
-      "title": "\"Müzenin Küçük Ressamları Masal Peşinde\"",
-      "startAt": "2026-10-09T10:00:00+03:00",
-      "endAt": "2026-10-09T12:00:00+03:00",
-      "place": "Çağdaş Sanatlar Müzesi",
-      "venueId": "cagdas-muze",
-      "organiser": "Kadın ve aile Çalışmaları Uygulama ve Araştırma Merkezi",
-      "category": "Şenlik",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab5256b2c816.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mustafa-kemal-ilkokulunda-dunya-kiz-cocuklari-gunu-1790256511"
     },
     {
       "id": "pizza-workshop-1790938779",
@@ -220,18 +208,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
-      "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
-    },
-    {
       "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
       "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
       "startAt": "2026-10-21T14:00:00+03:00",
@@ -242,6 +218,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
+    },
+    {
+      "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
+      "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
     },
     {
       "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
