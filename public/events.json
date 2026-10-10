@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-10T12:40:18.130Z",
+  "updatedAt": "2026-10-10T18:41:09.313Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,18 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "yuksekogretim-calismalari-kongresi-yocad-1776252640",
-      "title": "\"Yükseköğretim Çalışmaları Kongresi (YÖÇAD)\"",
-      "startAt": "2026-10-08T09:00:00+03:00",
-      "endAt": "2026-10-10T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu, Nasrettin Hoca Salonu, Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Eğitim Fakültesi",
-      "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3b30b6cc69.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yuksekogretim-calismalari-kongresi-yocad-1776252640"
     },
     {
       "id": "pizza-workshop-1790938779",
@@ -136,18 +124,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yabanci-diller-yuksekokulu-ogrencilerini-fakulte-hocalariyla-bulusturuyor-1791452773"
     },
     {
-      "id": "4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569",
-      "title": "\"4.Uluslararası ESEP Eğitim Bilimleri ve Etkili Uygulamalar Kongresi\"",
-      "startAt": "2026-10-15T09:00:00+03:00",
-      "endAt": "2026-10-15T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu, Nasrettin Hoca Salonu, Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Eğitim Fakültesi",
-      "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569"
-    },
-    {
       "id": "yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707",
       "title": "\"Yeniden Bağımsızlığının 35. Yılında Uluslararası Azerbaycan Kongresi\"",
       "startAt": "2026-10-15T09:00:00+03:00",
@@ -158,6 +134,18 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac5e2a1f0369.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707"
+    },
+    {
+      "id": "4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569",
+      "title": "\"4.Uluslararası ESEP Eğitim Bilimleri ve Etkili Uygulamalar Kongresi\"",
+      "startAt": "2026-10-15T09:00:00+03:00",
+      "endAt": "2026-10-15T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu, Nasrettin Hoca Salonu, Fuaye Alanı",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Eğitim Fakültesi",
+      "category": "Kongreler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-1784812322",
@@ -698,6 +686,18 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa15afa4f086.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mandala-sergisi-1788959527"
+    },
+    {
+      "id": "8-tazelenme-soleni-1788958875",
+      "title": "\"8. Tazelenme Şöleni\"",
+      "startAt": "2027-01-08T20:00:00+03:00",
+      "endAt": "2027-01-08T23:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Yaşlılık Çalışmaları Uygulama ve Araştırma Müdürlüğü",
+      "category": "Şenlik",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa15868b5a67.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/8-tazelenme-soleni-1788958875"
     }
   ]
 }
