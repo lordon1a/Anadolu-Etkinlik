@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-12T06:06:43.204Z",
+  "updatedAt": "2026-10-12T15:38:04.927Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,54 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "pizza-workshop-1790938779",
-      "title": "\"Pizza Workshop\"",
-      "startAt": "2026-10-12T09:00:00+03:00",
-      "endAt": "2026-10-12T13:00:00+03:00",
-      "place": "Turizm Fakültesi Uygulama Mutfağı",
-      "venueId": "turizm",
-      "organiser": "Gastronomi Kulübü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8e73421a0.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/pizza-workshop-1790938779"
-    },
-    {
-      "id": "olcme-degerlendirme-egitimi-1790938328",
-      "title": "\"Ölçme Değerlendirme Eğitimi\"",
-      "startAt": "2026-10-12T09:30:00+03:00",
-      "endAt": "2026-10-12T11:30:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8caa4b51e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/olcme-degerlendirme-egitimi-1790938328"
-    },
-    {
-      "id": "tanisma-toplantisi-1782904494",
-      "title": "\"Tanışma Toplantısı\"",
-      "startAt": "2026-10-12T12:00:00+03:00",
-      "endAt": "2026-10-12T15:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu ve Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Gastronomi Kulübü",
-      "category": "Toplantılar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a44f52c42951.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanisma-toplantisi-1782904494"
-    },
-    {
-      "id": "700-yillik-surdurebilirlik-yunus-emre-cop31e-katilsaydi-ne-soylerdi-1791187330",
-      "title": "\"700 Yıllık Sürdürebilirlik: Yunus Emre COP31'e Katılsaydı Ne Söylerdi?\"",
-      "startAt": "2026-10-12T14:00:00+03:00",
-      "endAt": "2026-10-12T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac3596c7ee4d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/700-yillik-surdurebilirlik-yunus-emre-cop31e-katilsaydi-ne-soylerdi-1791187330"
     },
     {
       "id": "gorusmeler-isiginda-turkce-rusca-yeminli-tercumanlik-alaninin-guncel-durumu-1791187475",
@@ -124,18 +76,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yabanci-diller-yuksekokulu-ogrencilerini-fakulte-hocalariyla-bulusturuyor-1791452773"
     },
     {
-      "id": "yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707",
-      "title": "\"Yeniden Bağımsızlığının 35. Yılında Uluslararası Azerbaycan Kongresi\"",
-      "startAt": "2026-10-15T09:00:00+03:00",
-      "endAt": "2026-10-17T17:00:00+03:00",
-      "place": "Edebiyat Fakültesi",
-      "venueId": null,
-      "organiser": "Haydar Aliyev Uygulama ve Araştırma Merkezi",
-      "category": "Kongreler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac5e2a1f0369.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707"
-    },
-    {
       "id": "4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569",
       "title": "\"4.Uluslararası ESEP Eğitim Bilimleri ve Etkili Uygulamalar Kongresi\"",
       "startAt": "2026-10-15T09:00:00+03:00",
@@ -146,6 +86,18 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abbbef444152.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569"
+    },
+    {
+      "id": "yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707",
+      "title": "\"Yeniden Bağımsızlığının 35. Yılında Uluslararası Azerbaycan Kongresi\"",
+      "startAt": "2026-10-15T09:00:00+03:00",
+      "endAt": "2026-10-17T17:00:00+03:00",
+      "place": "Edebiyat Fakültesi",
+      "venueId": null,
+      "organiser": "Haydar Aliyev Uygulama ve Araştırma Merkezi",
+      "category": "Kongreler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac5e2a1f0369.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-1784812322",
@@ -182,6 +134,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
+    },
+    {
+      "id": "ankara-gezisi-1791792272",
+      "title": "\"Ankara Gezisi\"",
+      "startAt": "2026-10-20T05:30:00+03:00",
+      "endAt": "2026-10-20T22:30:00+03:00",
+      "place": "Ankara",
+      "venueId": null,
+      "organiser": "Siyasal Bilimler Kulübü",
+      "category": "Geziler ve Turlar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acc947c35871.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ankara-gezisi-1791792272"
     },
     {
       "id": "hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672",
@@ -604,18 +568,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/glp-1den-spora-yeni-nesil-eczacilik-1790336658"
     },
     {
-      "id": "kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166",
-      "title": "\"Kabul Et, Yaşa, Harekete Geç! (Kabul ve Kararlılık Terapisi ile Psikolojik Esneklik)\"",
-      "startAt": "2026-12-16T14:00:00+03:00",
-      "endAt": "2026-12-16T15:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa94e3a5f1c.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166"
-    },
-    {
       "id": "deli-kizin-turkusu-ruh-sagligi-1791188099",
       "title": "\"Deli Kızın Türküsü (Ruh Sağlığı)\"",
       "startAt": "2026-12-16T14:00:00+03:00",
@@ -626,6 +578,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
+    },
+    {
+      "id": "kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166",
+      "title": "\"Kabul Et, Yaşa, Harekete Geç! (Kabul ve Kararlılık Terapisi ile Psikolojik Esneklik)\"",
+      "startAt": "2026-12-16T14:00:00+03:00",
+      "endAt": "2026-12-16T15:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa94e3a5f1c.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166"
     },
     {
       "id": "hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664",
