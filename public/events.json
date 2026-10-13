@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-12T23:02:49.872Z",
+  "updatedAt": "2026-10-13T06:52:01.550Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -148,6 +148,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ankara-gezisi-1791792272"
     },
     {
+      "id": "luletasi-analiz-calistayi-1791874095",
+      "title": "\"Lületaşı Analiz Çalıştayı\"",
+      "startAt": "2026-10-20T14:00:00+03:00",
+      "endAt": "2026-10-20T16:30:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Bursa Eskişehir Bilecik Kalkınma Ajansı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd3dee6643.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/luletasi-analiz-calistayi-1791874095"
+    },
+    {
       "id": "hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672",
       "title": "\"Hukuk Fakültesi Ulusal Kongre Serisi 3. Ceza Hukuku Kongresi\"",
       "startAt": "2026-10-21T09:00:00+03:00",
@@ -160,16 +172,16 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
-      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Şener Şen Salonu",
+      "id": "bagimlilik-fakindalik-haftasi-1791873814",
+      "title": "\"Bağımlılık Fakındalık Haftası\"",
+      "startAt": "2026-10-21T09:00:00+03:00",
+      "endAt": "2026-10-22T18:00:00+03:00",
+      "place": "Anadolu Park",
       "venueId": null,
       "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
+      "category": "Kampanyalar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd2f95d1aa.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bagimlilik-fakindalik-haftasi-1791873814"
     },
     {
       "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
@@ -182,6 +194,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
+    },
+    {
+      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
+      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
     },
     {
       "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
@@ -206,6 +230,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8d7189fce.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mirco-kredi-hazirlama-toplantisi-1790938503"
+    },
+    {
+      "id": "tanrinin-sinir-tanimaz-kullari-kalenderiler-1791873912",
+      "title": "\"Tanrı'nın Sınır Tanımaz Kulları: Kalenderiler\"",
+      "startAt": "2026-10-26T14:00:00+03:00",
+      "endAt": "2026-10-26T15:30:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi Sivas Konferans Salonu",
+      "venueId": null,
+      "organiser": "Tarih Kulübü",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd345956b2.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanrinin-sinir-tanimaz-kullari-kalenderiler-1791873912"
     },
     {
       "id": "eren-yahsi-sinif-konseri-1789564680",
@@ -568,18 +604,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/glp-1den-spora-yeni-nesil-eczacilik-1790336658"
     },
     {
-      "id": "deli-kizin-turkusu-ruh-sagligi-1791188099",
-      "title": "\"Deli Kızın Türküsü (Ruh Sağlığı)\"",
-      "startAt": "2026-12-16T14:00:00+03:00",
-      "endAt": "2026-12-16T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
-    },
-    {
       "id": "kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166",
       "title": "\"Kabul Et, Yaşa, Harekete Geç! (Kabul ve Kararlılık Terapisi ile Psikolojik Esneklik)\"",
       "startAt": "2026-12-16T14:00:00+03:00",
@@ -590,6 +614,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa94e3a5f1c.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166"
+    },
+    {
+      "id": "deli-kizin-turkusu-ruh-sagligi-1791188099",
+      "title": "\"Deli Kızın Türküsü (Ruh Sağlığı)\"",
+      "startAt": "2026-12-16T14:00:00+03:00",
+      "endAt": "2026-12-16T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
     },
     {
       "id": "hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664",
