@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-14T07:44:06.646Z",
+  "updatedAt": "2026-10-14T13:48:19.182Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,42 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "arastirma-gelistirme-1790938439",
-      "title": "\"Araştırma Geliştirme Eğitimi\"",
-      "startAt": "2026-10-14T10:00:00+03:00",
-      "endAt": "2026-10-14T11:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8d30801ac.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/arastirma-gelistirme-1790938439"
-    },
-    {
-      "id": "yabanci-diller-yuksekokulu-ogrencilerini-fakulte-hocalariyla-bulusturuyor-1791452773",
-      "title": "\"Yabancı Diller Yüksekokulu Öğrencilerini Fakülte Hocalarıyla Buluşturuyor\"",
-      "startAt": "2026-10-14T14:00:00+03:00",
-      "endAt": "2026-10-14T15:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "Eğitim Fakültesi",
-      "category": "Oryantasyon",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac76631d24ca.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yabanci-diller-yuksekokulu-ogrencilerini-fakulte-hocalariyla-bulusturuyor-1791452773"
-    },
-    {
-      "id": "ydyo-ogrencilerini-fakulte-hocalariyla-bulusturuyor-1791874565",
-      "title": "\"Yabancı Diller Yüksekokulu Öğrencilerini Fakülte Hocalarıyla Buluşturuyor\"",
-      "startAt": "2026-10-14T14:00:00+03:00",
-      "endAt": "2026-10-14T15:00:00+03:00",
-      "place": "Şener Şen Kültür Salonu, Turizm Fakültesi Amfi-2, Bilgisayar ve Bilişim Bilimleri Fakültesi Oda 237-238-239, İktisadi ve İdari Bilimler Fakültesi Amfi-G, Prof. Dr. Taciser Tüfekçi Sivas Konferans Salonu ve Bilişim Teknolojileri MYO Konferans Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Yabancı Diller Yüksekokulu",
-      "category": "Oryantasyon",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd534650f3.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ydyo-ogrencilerini-fakulte-hocalariyla-bulusturuyor-1791874565"
     },
     {
       "id": "4uluslararasi-esep-egitim-bilimleri-ve-etkili-uygulamalar-kongresi-1776252569",
@@ -112,18 +76,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yarin-olmaz-simdi-ertelemeyi-yenmek-1789563730"
     },
     {
-      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
-      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
-      "startAt": "2026-10-19T14:00:00+03:00",
-      "endAt": "2026-10-19T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
-    },
-    {
       "id": "gelecegin-ogretmenleri-icin-canva-yapay-zeka-atolyesi-1791874305",
       "title": "\"Geleceğin Öğretmenleri İçin Canva Yapay Zeka Atölyesi\"",
       "startAt": "2026-10-19T14:00:00+03:00",
@@ -134,6 +86,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd4d5f3c93.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gelecegin-ogretmenleri-icin-canva-yapay-zeka-atolyesi-1791874305"
+    },
+    {
+      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
+      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
+      "startAt": "2026-10-19T14:00:00+03:00",
+      "endAt": "2026-10-19T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
     },
     {
       "id": "ankara-gezisi-1791792272",
