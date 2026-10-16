@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-16T07:17:11.462Z",
+  "updatedAt": "2026-10-16T13:18:55.251Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -52,18 +52,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeniden-bagimsizliginin-35-yilinda-uluslararasi-azerbaycan-kongresi-1791353707"
     },
     {
-      "id": "erasmus-kultur-gunu-1792047742",
-      "title": "\"Erasmus Kültür Günü\"",
-      "startAt": "2026-10-16T14:00:00+03:00",
-      "endAt": "2026-10-16T15:30:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Uluslararası İlişkiler Koordinatörlüğü",
-      "category": "Festival vb. Etkinlikler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad07a707dc3d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/erasmus-kultur-gunu-1792047742"
-    },
-    {
       "id": "6-uluslararasi-piyano-gunleri-1784812322",
       "title": "\"6. Uluslararası Piyano Günleri\"",
       "startAt": "2026-10-19T10:00:00+03:00",
@@ -74,18 +62,6 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a955ee984210.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-1784812322"
-    },
-    {
-      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
-      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
-      "startAt": "2026-10-19T14:00:00+03:00",
-      "endAt": "2026-10-19T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
     },
     {
       "id": "gelecegin-ogretmenleri-icin-canva-yapay-zeka-atolyesi-1791874305",
@@ -110,6 +86,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa932b67658.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yarin-olmaz-simdi-ertelemeyi-yenmek-1789563730"
+    },
+    {
+      "id": "el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539",
+      "title": "\"El Sözüyle Şair Olmak: Osmanlı'da Şiir Hırsızlığı\"",
+      "startAt": "2026-10-19T14:00:00+03:00",
+      "endAt": "2026-10-19T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a3f4834b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/el-sozuyle-sair-olmak-osmanlida-siir-hirsizligi-1791187539"
     },
     {
       "id": "ankara-gezisi-1791792272",
@@ -160,18 +148,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
-      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
-    },
-    {
       "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
       "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
       "startAt": "2026-10-21T14:00:00+03:00",
@@ -182,6 +158,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
+    },
+    {
+      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
+      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
     },
     {
       "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
@@ -580,18 +568,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/glp-1den-spora-yeni-nesil-eczacilik-1790336658"
     },
     {
-      "id": "deli-kizin-turkusu-ruh-sagligi-1791188099",
-      "title": "\"Deli Kızın Türküsü (Ruh Sağlığı)\"",
-      "startAt": "2026-12-16T14:00:00+03:00",
-      "endAt": "2026-12-16T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
-    },
-    {
       "id": "kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166",
       "title": "\"Kabul Et, Yaşa, Harekete Geç! (Kabul ve Kararlılık Terapisi ile Psikolojik Esneklik)\"",
       "startAt": "2026-12-16T14:00:00+03:00",
@@ -602,6 +578,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa94e3a5f1c.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166"
+    },
+    {
+      "id": "deli-kizin-turkusu-ruh-sagligi-1791188099",
+      "title": "\"Deli Kızın Türküsü (Ruh Sağlığı)\"",
+      "startAt": "2026-12-16T14:00:00+03:00",
+      "endAt": "2026-12-16T16:00:00+03:00",
+      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
     },
     {
       "id": "hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664",
