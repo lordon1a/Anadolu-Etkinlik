@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-20T11:47:41.005Z",
+  "updatedAt": "2026-10-20T17:16:15.809Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -74,42 +74,6 @@
       "category": "Geziler ve Turlar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acc947c35871.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ankara-gezisi-1791792272"
-    },
-    {
-      "id": "6-uluslararasi-piyano-gunleri-solo-caz-konseri-1792411752",
-      "title": "\"6. Uluslararası Piyano Günleri\"  Solo Caz Konseri",
-      "startAt": "2026-10-20T14:00:00+03:00",
-      "endAt": "2026-10-20T15:30:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad60861b5536.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-solo-caz-konseri-1792411752"
-    },
-    {
-      "id": "luletasi-analiz-calistayi-1791874095",
-      "title": "\"Lületaşı Analiz Çalıştayı\"",
-      "startAt": "2026-10-20T14:00:00+03:00",
-      "endAt": "2026-10-20T16:30:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Bursa Eskişehir Bilecik Kalkınma Ajansı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd3dee6643.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/luletasi-analiz-calistayi-1791874095"
-    },
-    {
-      "id": "deprem-yangin-kimyasal-biyolojik-radyolojik-ve-nukleer-tehlikeler-ile-su-1792480981",
-      "title": "\"Deprem, Yangın, Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikeler ile Su Baskınlarında Hareket Tarzı\"",
-      "startAt": "2026-10-20T16:00:00+03:00",
-      "endAt": "2026-10-20T17:00:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Sivil Savunma Koordinatörlüğü",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad716ad7b938.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deprem-yangin-kimyasal-biyolojik-radyolojik-ve-nukleer-tehlikeler-ile-su-1792480981"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-raffaele-dangelo-1792411952",
@@ -388,6 +352,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/29-ekim-cumhuriyet-bayrami-konseri-1789641827"
     },
     {
+      "id": "guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501180",
+      "title": "\"Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi\"",
+      "startAt": "2026-10-31T13:30:00+03:00",
+      "endAt": "2026-10-31T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Açıköğretim Fakültesi",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad765a230dd2.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501180"
+    },
+    {
       "id": "toplumsal-katki-1790938605",
       "title": "\"Toplumsal Katkı Eğitimi\"",
       "startAt": "2026-11-03T10:00:00+03:00",
@@ -470,6 +446,30 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718908d255.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/meric-duzbas-tambur-resitali-1792481459"
+    },
+    {
+      "id": "guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501288",
+      "title": "\"Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi\"",
+      "startAt": "2026-11-07T13:30:00+03:00",
+      "endAt": "2026-11-07T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Açıköğretim Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad76612502cf.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501288"
+    },
+    {
+      "id": "dijital-cagda-aile-siddetsiz-ev-esit-yasam-1792500885",
+      "title": "\"Dijital Çağda Aile: Şiddetsiz Ev, Eşit Yaşam\"",
+      "startAt": "2026-11-09T11:00:00+03:00",
+      "endAt": "2026-11-09T12:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi Müdü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad764796d363.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijital-cagda-aile-siddetsiz-ev-esit-yasam-1792500885"
     },
     {
       "id": "turk-halk-muzigi-solo-konseri-1774509637",
@@ -626,6 +626,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab52de21f203.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723"
+    },
+    {
+      "id": "guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241",
+      "title": "\"Güvenli Binalar ve Hazırlıklı Mahalleler: Şirintepe'de Afet Hazırlığı, Gönüllülük ve Sivil Katılım Projesi\"",
+      "startAt": "2026-11-21T13:30:00+03:00",
+      "endAt": "2026-11-21T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Açıköğretim Fakültesi",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad765c5391ac.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241"
     },
     {
       "id": "haklarimizi-savunuyoruz-cocuklar-icin-kurgusal-durusma-atolyesi-1792481307",
@@ -986,6 +998,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c6585a41.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
+    },
+    {
+      "id": "eskisehir-kurumlararasi-koordinasyon-uluslararasi-goc-politikalari-egitim-1792501009",
+      "title": "\"Eskişehir Kurumlararası Koordinasyon Uluslararası Göç Politikaları Eğitim Çalıştayı\"",
+      "startAt": "2026-12-17T14:00:00+03:00",
+      "endAt": "2026-12-17T17:30:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi Müdü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad764d0cb9ee.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/eskisehir-kurumlararasi-koordinasyon-uluslararasi-goc-politikalari-egitim-1792501009"
     },
     {
       "id": "hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664",
