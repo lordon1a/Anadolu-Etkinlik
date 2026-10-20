@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-20T04:58:37.681Z",
+  "updatedAt": "2026-10-20T11:47:41.005Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -16,6 +16,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
     },
     {
+      "id": "azalt-donustur-anlat-sergisi-ve-calistay-1792480418",
+      "title": "\"Azalt Dönüştür Anlat Sergisi ve Çalıştay\"",
+      "startAt": "2026-10-15T09:00:00+03:00",
+      "endAt": "2026-10-23T17:00:00+03:00",
+      "place": "Kentpark",
+      "venueId": null,
+      "organiser": "Güzel Sanatlar Fakültesi",
+      "category": "Sergiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7147cce55d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/azalt-donustur-anlat-sergisi-ve-calistay-1792480418"
+    },
+    {
       "id": "sosyal-medya-kulubu-tanitim-standi-1792399117",
       "title": "\"Sosyal Medya Kulübü Tanıtım Standı\"",
       "startAt": "2026-10-19T09:00:00+03:00",
@@ -26,6 +38,18 @@
       "category": "Tanıtım Aktiviteleri",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad5d6dd72e77.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sosyal-medya-kulubu-tanitim-standi-1792399117"
+    },
+    {
+      "id": "korumali-futbol-takimi-tanitim-standi-1792480732",
+      "title": "\"Korumalı Futbol Takımı Tanıtım Standı\"",
+      "startAt": "2026-10-19T10:00:00+03:00",
+      "endAt": "2026-10-23T16:00:00+03:00",
+      "place": "Merkez Yemekhane, KYK ve Bankamatikler önü",
+      "venueId": "kyk-bankamatikler",
+      "organiser": "Korumalı Futbol Takımı",
+      "category": "Tanıtım Aktiviteleri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad715a32be2b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/korumali-futbol-takimi-tanitim-standi-1792480732"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-1784812322",
@@ -52,18 +76,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ankara-gezisi-1791792272"
     },
     {
-      "id": "6-uluslararasi-piyano-gunleri-masterclass-prof-hulya-tarcan-1792411425",
-      "title": "\"6. Uluslararası Piyano Günleri\"  Masterclass \"Prof. Hülya TARCAN",
-      "startAt": "2026-10-20T09:30:00+03:00",
-      "endAt": "2026-10-20T11:00:00+03:00",
-      "place": "Faris Akarsu Salonu",
-      "venueId": null,
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad606c75fbea.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-masterclass-prof-hulya-tarcan-1792411425"
-    },
-    {
       "id": "6-uluslararasi-piyano-gunleri-solo-caz-konseri-1792411752",
       "title": "\"6. Uluslararası Piyano Günleri\"  Solo Caz Konseri",
       "startAt": "2026-10-20T14:00:00+03:00",
@@ -86,6 +98,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd3dee6643.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/luletasi-analiz-calistayi-1791874095"
+    },
+    {
+      "id": "deprem-yangin-kimyasal-biyolojik-radyolojik-ve-nukleer-tehlikeler-ile-su-1792480981",
+      "title": "\"Deprem, Yangın, Kimyasal, Biyolojik, Radyolojik ve Nükleer Tehlikeler ile Su Baskınlarında Hareket Tarzı\"",
+      "startAt": "2026-10-20T16:00:00+03:00",
+      "endAt": "2026-10-20T17:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Sivil Savunma Koordinatörlüğü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad716ad7b938.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deprem-yangin-kimyasal-biyolojik-radyolojik-ve-nukleer-tehlikeler-ile-su-1792480981"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-raffaele-dangelo-1792411952",
@@ -124,6 +148,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
+      "id": "6-uluslararasi-piyano-gunleri-prof-hulya-tarcan-resitali-1792481003",
+      "title": "\"6. Uluslararası Piyano Günleri\" Prof. Hülya TARCAN Resitali",
+      "startAt": "2026-10-21T09:30:00+03:00",
+      "endAt": "2026-10-21T10:30:00+03:00",
+      "place": "Faris Akarsu Salonu",
+      "venueId": null,
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71685d33ce.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-prof-hulya-tarcan-resitali-1792481003"
+    },
+    {
       "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
       "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
       "startAt": "2026-10-21T14:00:00+03:00",
@@ -148,6 +184,90 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
     },
     {
+      "id": "6-uluslararasi-piyano-gunleri-21-yuzyil-muzigi-1792481303",
+      "title": "\"6. Uluslararası Piyano Günleri\" 21. Yüzyıl Müziği",
+      "startAt": "2026-10-21T14:00:00+03:00",
+      "endAt": "2026-10-21T16:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7181194608.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-21-yuzyil-muzigi-1792481303"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-iki-piyano-dogaclama-resitali-1792481573",
+      "title": "\"6. Uluslararası Piyano Günleri\" İki Piyano Doğaçlama Resitali",
+      "startAt": "2026-10-21T20:00:00+03:00",
+      "endAt": "2026-10-21T22:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71887c80ef.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-iki-piyano-dogaclama-resitali-1792481573"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-masterclass-iris-senturkler-1792481822",
+      "title": "\"6. Uluslararası Piyano Günleri\" Masterclass İris ŞENTÜRKER",
+      "startAt": "2026-10-22T09:30:00+03:00",
+      "endAt": "2026-10-22T10:30:00+03:00",
+      "place": "Faris Akarsu Salonu",
+      "venueId": null,
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad719a547ca7.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-masterclass-iris-senturkler-1792481822"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-akisin-hafizasi-1792481981",
+      "title": "\"6. Uluslararası Piyano Günleri\" Akışın Hafızası",
+      "startAt": "2026-10-22T14:00:00+03:00",
+      "endAt": "2026-10-22T15:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a73e4a7a.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-akisin-hafizasi-1792481981"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-liebestraum-resitali-1792482155",
+      "title": "\"6. Uluslararası Piyano Günleri\" Liebestraum Resitali",
+      "startAt": "2026-10-22T20:00:00+03:00",
+      "endAt": "2026-10-22T22:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b27ec835.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-liebestraum-resitali-1792482155"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-masterclass-iris-senturker-1792482299",
+      "title": "\"6. Uluslararası Piyano Günleri\" Masterclass İris ŞENTÜRKER",
+      "startAt": "2026-10-23T09:30:00+03:00",
+      "endAt": "2026-10-23T10:30:00+03:00",
+      "place": "İris ŞENTÜRKLER",
+      "venueId": null,
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71baccf412.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-masterclass-iris-senturker-1792482299"
+    },
+    {
+      "id": "anadolu-spor-zirvesi-1792481181",
+      "title": "\"Anadolu Spor Zirvesi\"",
+      "startAt": "2026-10-23T10:00:00+03:00",
+      "endAt": "2026-10-24T18:00:00+03:00",
+      "place": "Anadolu Park",
+      "venueId": null,
+      "organiser": "Sosyal Medya Kulübü",
+      "category": "Söyleşiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7176a78e1e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-spor-zirvesi-1792481181"
+    },
+    {
       "id": "cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599",
       "title": "\"Cibran Halil Cibran'ın Mektuplarında Osmanlı Hükümeti\"",
       "startAt": "2026-10-23T14:00:00+03:00",
@@ -158,6 +278,42 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35a7ad439a.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cibran-halil-cibranin-mektuplarinda-osmanli-hukumeti-1791187599"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-genc-yetenekler-1792482567",
+      "title": "\"6. Uluslararası Piyano Günleri\" Genç Yetenekler",
+      "startAt": "2026-10-23T14:00:00+03:00",
+      "endAt": "2026-10-23T16:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c9b67a0b.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-genc-yetenekler-1792482567"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-hommage-a-cesar-franck-1792482815",
+      "title": "\"6. Uluslararası Piyano Günleri\" Hommage a Cesar Franck",
+      "startAt": "2026-10-23T20:00:00+03:00",
+      "endAt": "2026-10-23T22:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71dbdd4b19.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-hommage-a-cesar-franck-1792482815"
+    },
+    {
+      "id": "6-uluslararasi-piyano-gunleri-kapanis-konseri-love-for-four-hands-1792483312",
+      "title": "\"6. Uluslararası Piyano Günleri\" Kapanış Konseri Love for Four Hands",
+      "startAt": "2026-10-24T20:00:00+03:00",
+      "endAt": "2026-10-24T22:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71f0dc3ce5.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-kapanis-konseri-love-for-four-hands-1792483312"
     },
     {
       "id": "mirco-kredi-hazirlama-toplantisi-1790938503",
@@ -196,6 +352,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/eren-yahsi-sinif-konseri-1789564680"
     },
     {
+      "id": "2026-2027-egitim-ogretim-yili-iskur-genclik-programi-noter-kurasi-1792482836",
+      "title": "\"2026-2027 Eğitim-Öğretim Yılı İŞKUR Gençlik Programı Noter Kurası\"",
+      "startAt": "2026-10-27T10:00:00+03:00",
+      "endAt": "2026-10-27T12:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Sağlık Kültür ve Spor Daire Başkanlığı",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71dec47a76.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/2026-2027-egitim-ogretim-yili-iskur-genclik-programi-noter-kurasi-1792482836"
+    },
+    {
       "id": "etik-kurul-sureci-sosyal-bilimleri-alani-1790938558",
       "title": "\"Etik Kurul Süreci (Sosyal Bilimleri Alanı)\"",
       "startAt": "2026-10-27T14:00:00+03:00",
@@ -230,6 +398,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dd75d893.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/toplumsal-katki-1790938605"
+    },
+    {
+      "id": "gelenekten-bilime-tursu-kurma-1792484438",
+      "title": "\"Gelenekten Bilime Turşu Kurma\"",
+      "startAt": "2026-11-03T14:15:00+03:00",
+      "endAt": "2026-11-03T16:15:00+03:00",
+      "place": "Emyo Ocak Mutfağı",
+      "venueId": null,
+      "organiser": "EMYO",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad724356b63e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gelenekten-bilime-tursu-kurma-1792484438"
     },
     {
       "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938948",
@@ -268,6 +448,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/atama-kriterleri-1790938648"
     },
     {
+      "id": "erdal-uludag-baglama-resitali-1792481391",
+      "title": "Erdal Uludağ ''Bağlama Resitali''",
+      "startAt": "2026-11-05T18:00:00+03:00",
+      "endAt": "2026-11-05T19:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71856d3218.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/erdal-uludag-baglama-resitali-1792481391"
+    },
+    {
+      "id": "meric-duzbas-tambur-resitali-1792481459",
+      "title": "Meriç Düzbaş \"Tambur Resitali\"",
+      "startAt": "2026-11-06T15:00:00+03:00",
+      "endAt": "2026-11-06T16:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718908d255.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/meric-duzbas-tambur-resitali-1792481459"
+    },
+    {
       "id": "turk-halk-muzigi-solo-konseri-1774509637",
       "title": "''Türk Halk Müziği Solo Konseri''",
       "startAt": "2026-11-10T10:00:00+03:00",
@@ -304,6 +508,54 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iliskilerimizde-iletisim-yuz-yuze-ve-sanal-ve-sinirlar-1789563836"
     },
     {
+      "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-konferansi-1792483321",
+      "title": "\"18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Konferansı\"",
+      "startAt": "2026-11-16T10:00:00+03:00",
+      "endAt": "2026-11-16T12:00:00+03:00",
+      "place": "Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü",
+      "venueId": null,
+      "organiser": "Güzel Sanatlar Fakültesi",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71fd9d7418.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-konferansi-1792483321"
+    },
+    {
+      "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401",
+      "title": "\"18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Yunus Emre Sergisi\"",
+      "startAt": "2026-11-16T16:00:00+03:00",
+      "endAt": "2026-12-11T18:00:00+03:00",
+      "place": "Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü",
+      "venueId": null,
+      "organiser": "Güzel Sanatlar Fakültesi",
+      "category": "Sergiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7204209aec.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401"
+    },
+    {
+      "id": "hale-basmacioglu-barok-sinif-konseri-1792481561",
+      "title": "Hale Basmacıoğlu \"Barok Sınıf Konseri\"",
+      "startAt": "2026-11-16T18:00:00+03:00",
+      "endAt": "2026-11-16T19:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718fac5bc0.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561"
+    },
+    {
+      "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-calistayi-1792483205",
+      "title": "\"18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Çalıştayı\"\"",
+      "startAt": "2026-11-17T10:00:00+03:00",
+      "endAt": "2026-11-20T12:00:00+03:00",
+      "place": "Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü",
+      "venueId": null,
+      "organiser": "Güzel Sanatlar Fakültesi",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71ef681702.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-calistayi-1792483205"
+    },
+    {
       "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938995",
       "title": "\"Temel İş Sağlığı ve Güvenliği Eğitimi\"",
       "startAt": "2026-11-18T08:30:00+03:00",
@@ -314,6 +566,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f563fde6.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
+    },
+    {
+      "id": "prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667",
+      "title": "Prof. Hideki Kozakura \"Beyond Silence: BbYond Mozart & Ambient Works\" Konseri",
+      "startAt": "2026-11-18T17:00:00+03:00",
+      "endAt": "2026-11-18T19:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7196b03ca1.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667"
     },
     {
       "id": "siirde-mekan-klasik-turk-siirinde-mekanlar-arasi-yolculuk-1791187807",
@@ -328,6 +592,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/siirde-mekan-klasik-turk-siirinde-mekanlar-arasi-yolculuk-1791187807"
     },
     {
+      "id": "ozan-tunca-konser-1792481781",
+      "title": "Ozan Tunca \"Konser\"",
+      "startAt": "2026-11-19T19:00:00+03:00",
+      "endAt": "2026-11-19T20:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad719deb8ebf.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-tunca-konser-1792481781"
+    },
+    {
+      "id": "burak-basmacioglu-barok-sinifi-konseri-1792481882",
+      "title": "Burak Basmacıoğlu \"Barok Sınıfı Konseri\"",
+      "startAt": "2026-11-20T18:00:00+03:00",
+      "endAt": "2026-11-20T19:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a3d8df81.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/burak-basmacioglu-barok-sinifi-konseri-1792481882"
+    },
+    {
       "id": "cmyk-medya-gunleri19-1790258723",
       "title": "\"CMYK Medya Günleri'19\"",
       "startAt": "2026-11-21T10:00:00+03:00",
@@ -338,6 +626,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab52de21f203.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723"
+    },
+    {
+      "id": "haklarimizi-savunuyoruz-cocuklar-icin-kurgusal-durusma-atolyesi-1792481307",
+      "title": "\"Haklarımızı Savunuyoruz: Çocuklar İçin Kurgusal Duruşma Atölyesi\"",
+      "startAt": "2026-11-23T10:00:00+03:00",
+      "endAt": "2026-11-23T12:00:00+03:00",
+      "place": "Hukuk Fakültesi Duruşma Salonu",
+      "venueId": "hukuk",
+      "organiser": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi Müdü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad717d4b84c9.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/haklarimizi-savunuyoruz-cocuklar-icin-kurgusal-durusma-atolyesi-1792481307"
     },
     {
       "id": "anadolu-egitim-forumu-1788958693",
@@ -352,6 +652,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-egitim-forumu-1788958693"
     },
     {
+      "id": "semih-tercan-sinif-konseri-1792481942",
+      "title": "Semih Tercan \"Sınıf Konseri\"",
+      "startAt": "2026-11-24T19:00:00+03:00",
+      "endAt": "2026-11-24T20:30:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a7fd83ce.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/semih-tercan-sinif-konseri-1792481942"
+    },
+    {
       "id": "verimli-ders-calisma-ve-zaman-yonetimi-1789563946",
       "title": "\"Verimli Ders Çalışma ve Zaman Yönetimi\"",
       "startAt": "2026-11-25T14:00:00+03:00",
@@ -362,6 +674,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa93f11bb1d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946"
+    },
+    {
+      "id": "ozlem-sumer-keman-sinif-konseri-1792481995",
+      "title": "Özlem Sümer ''Keman Sınıf Konseri ''",
+      "startAt": "2026-11-25T19:00:00+03:00",
+      "endAt": "2026-11-25T20:30:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71ab4d06ed.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozlem-sumer-keman-sinif-konseri-1792481995"
     },
     {
       "id": "odul-yonergesi-ve-performans-sistemi-1790938708",
@@ -388,6 +712,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-cocuk-kitabi-cocuga-ne-soyler-1791187893"
     },
     {
+      "id": "cagdas-alapinar-gencay-sinif-konseri-1792482052",
+      "title": "Çağdaş Alapınar Gençay ''Sınıf Konseri''",
+      "startAt": "2026-11-26T19:00:00+03:00",
+      "endAt": "2026-11-26T20:00:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71aed90370.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cagdas-alapinar-gencay-sinif-konseri-1792482052"
+    },
+    {
       "id": "24-kasim-ogretmenler-gunu-konseri-1785394201",
       "title": "\"24 Kasım Öğretmenler Günü Konseri\"",
       "startAt": "2026-11-26T19:00:00+03:00",
@@ -398,6 +734,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af3fb3f715.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/24-kasim-ogretmenler-gunu-konseri-1785394201"
+    },
+    {
+      "id": "ahmet-fatih-demir-gitar-resitali-1792482124",
+      "title": "Ahmet Fatih Demir \"Gitar Resitali\"",
+      "startAt": "2026-11-27T13:00:00+03:00",
+      "endAt": "2026-11-27T13:45:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b2be7a18.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ahmet-fatih-demir-gitar-resitali-1792482124"
     },
     {
       "id": "bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959",
@@ -412,6 +760,42 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959"
     },
     {
+      "id": "es-es-tayfa-gitar-uclusu-1792482199",
+      "title": "\"Es Es Tayfa Gitar Üçlüsü\"",
+      "startAt": "2026-11-27T15:00:00+03:00",
+      "endAt": "2026-11-27T15:45:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199"
+    },
+    {
+      "id": "ozan-akcay-gitar-resitali-1792482267",
+      "title": "Ozan Akçay \"Gitar Resitali\"",
+      "startAt": "2026-11-27T17:00:00+03:00",
+      "endAt": "2026-11-27T17:45:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267"
+    },
+    {
+      "id": "tarik-codri-gitar-resitali-1792482339",
+      "title": "Tarık Çodri \"Gitar Resitali\"",
+      "startAt": "2026-11-27T19:00:00+03:00",
+      "endAt": "2026-11-27T20:10:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339"
+    },
+    {
       "id": "kisisel-gelisim-zirvesi-1781681697",
       "title": "\"Kişisel Gelişim Zirvesi\"",
       "startAt": "2026-11-28T08:30:00+03:00",
@@ -424,6 +808,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697"
     },
     {
+      "id": "emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563",
+      "title": "Emel Asuman Önen Ezgi Nihan Uzunonat, \"Vİyolonsel Sınıf Konseri\"",
+      "startAt": "2026-11-28T16:00:00+03:00",
+      "endAt": "2026-11-28T17:30:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c60af000.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563"
+    },
+    {
       "id": "acikogretim-fakultesi-guz-donemi-ara-sinav-toplantisi-1790344068",
       "title": "\"Açıköğretim Fakültesi Güz Dönemi Ara Sınav Toplantısı\"",
       "startAt": "2026-11-30T14:00:00+03:00",
@@ -434,6 +830,18 @@
       "category": "Toplantılar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab67b6700a1d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/acikogretim-fakultesi-guz-donemi-ara-sinav-toplantisi-1790344068"
+    },
+    {
+      "id": "yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637",
+      "title": "\"Yaylı Çalgılar Ana Sanat Dalı İlköğretim-Lise Konseri\"",
+      "startAt": "2026-11-30T18:00:00+03:00",
+      "endAt": "2026-11-30T19:30:00+03:00",
+      "place": "Koral Çalgan Salonu",
+      "venueId": "salon-2003",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71d3273d27.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
       "id": "ogrenci-turk-halk-muzigi-konseri-1790075082",
@@ -506,6 +914,18 @@
       "category": "Konferanslar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa156e700737.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/vizyon-bulusmasi-1788958496"
+    },
+    {
+      "id": "ofke-kontrolu-semineri-1792482981",
+      "title": "\"Öfke Kontrolü Semineri\"",
+      "startAt": "2026-12-09T14:00:00+03:00",
+      "endAt": "2026-12-09T15:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71e786c024.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ofke-kontrolu-semineri-1792482981"
     },
     {
       "id": "genclik-senfoni-orkestrasi-konseri-1785392431",
@@ -614,6 +1034,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af28686647.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yeni-yil-konseri-1785393843"
+    },
+    {
+      "id": "prof-dr-yahya-ozsoy-toplum-hizmetleri-odul-toreni-1792482747",
+      "title": "\"Prof. Dr. Yahya Özsoy Toplum Hizmetleri Ödül Töreni\"",
+      "startAt": "2026-12-25T14:00:00+03:00",
+      "endAt": "2026-12-25T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Eğitim Fakültesi",
+      "category": "Törenler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71d84ec1e9.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-dr-yahya-ozsoy-toplum-hizmetleri-odul-toreni-1792482747"
     },
     {
       "id": "mandala-sergisi-1788959527",
