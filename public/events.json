@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-20T17:16:15.809Z",
+  "updatedAt": "2026-10-20T21:42:26.519Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -62,30 +62,6 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a955ee984210.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-1784812322"
-    },
-    {
-      "id": "ankara-gezisi-1791792272",
-      "title": "\"Ankara Gezisi\"",
-      "startAt": "2026-10-20T05:30:00+03:00",
-      "endAt": "2026-10-20T22:30:00+03:00",
-      "place": "Ankara",
-      "venueId": null,
-      "organiser": "Siyasal Bilimler Kulübü",
-      "category": "Geziler ve Turlar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acc947c35871.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ankara-gezisi-1791792272"
-    },
-    {
-      "id": "6-uluslararasi-piyano-gunleri-raffaele-dangelo-1792411952",
-      "title": "\"6. Uluslararası Piyano Günleri\"  Raffaele D'ANGELO",
-      "startAt": "2026-10-20T20:00:00+03:00",
-      "endAt": "2026-10-20T21:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad608f0ddca1.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-raffaele-dangelo-1792411952"
     },
     {
       "id": "bagimlilik-fakindalik-haftasi-1791873814",
