@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-21T00:40:39.913Z",
+  "updatedAt": "2026-10-21T07:45:41.400Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -88,18 +88,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
     },
     {
-      "id": "6-uluslararasi-piyano-gunleri-prof-hulya-tarcan-resitali-1792481003",
-      "title": "\"6. Uluslararası Piyano Günleri\" Prof. Hülya TARCAN Resitali",
-      "startAt": "2026-10-21T09:30:00+03:00",
-      "endAt": "2026-10-21T10:30:00+03:00",
-      "place": "Faris Akarsu Salonu",
-      "venueId": null,
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71685d33ce.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-prof-hulya-tarcan-resitali-1792481003"
-    },
-    {
       "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
       "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
       "startAt": "2026-10-21T14:00:00+03:00",
@@ -158,6 +146,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad719a547ca7.jpeg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-masterclass-iris-senturkler-1792481822"
+    },
+    {
+      "id": "narko-genclik-1792568483",
+      "title": "\"Narko Gençlik\"",
+      "startAt": "2026-10-22T14:00:00+03:00",
+      "endAt": "2026-10-22T14:30:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Bağımlılık Önleme Çalışmaları Birimi Müdürlüğü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad86c8534ef8.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/narko-genclik-1792568483"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-akisin-hafizasi-1792481981",
