@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-21T07:45:41.400Z",
+  "updatedAt": "2026-10-21T13:53:44.813Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -86,42 +86,6 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aabcf45aa094.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
-    },
-    {
-      "id": "kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215",
-      "title": "\"Kontrol Kimde? Bağımlılıklar, Riskler ve Seçimler\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Bağımlılık Önleme Çalışmaları Birimi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac358e920d98.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kontrol-kimde-bagimliliklar-riskler-ve-secimler-1791187215"
-    },
-    {
-      "id": "yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672",
-      "title": "\"yöneliş Dinamiğinin Tipleri: Hacı, Seyyah, Turist\"",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35abe8db7d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yonelis-dinamiginin-tipleri-haci-seyyah-turist-1791187672"
-    },
-    {
-      "id": "6-uluslararasi-piyano-gunleri-21-yuzyil-muzigi-1792481303",
-      "title": "\"6. Uluslararası Piyano Günleri\" 21. Yüzyıl Müziği",
-      "startAt": "2026-10-21T14:00:00+03:00",
-      "endAt": "2026-10-21T16:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7181194608.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-21-yuzyil-muzigi-1792481303"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-iki-piyano-dogaclama-resitali-1792481573",
@@ -722,6 +686,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af3fb3f715.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/24-kasim-ogretmenler-gunu-konseri-1785394201"
+    },
+    {
+      "id": "donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554",
+      "title": "\"Döngüyü Kırmak: Fark Et, Güçlen, Yeniden Başla\"",
+      "startAt": "2026-11-27T10:00:00+03:00",
+      "endAt": "2026-11-27T15:00:00+03:00",
+      "place": "İletişim Bilimleri Fakültesi Yeni Medya ve İletişim Bölümü 4. Kat Lisansüstü Toplantı Salonu",
+      "venueId": null,
+      "organiser": "Kadın ve aile Çalışmaları Uygulama ve Araştırma Merkezi",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad8a3a2b1865.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554"
     },
     {
       "id": "ahmet-fatih-demir-gitar-resitali-1792482124",
