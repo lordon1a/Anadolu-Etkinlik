@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-21T18:43:26.816Z",
+  "updatedAt": "2026-10-21T23:25:40.490Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -86,18 +86,6 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aabcf45aa094.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
-    },
-    {
-      "id": "6-uluslararasi-piyano-gunleri-iki-piyano-dogaclama-resitali-1792481573",
-      "title": "\"6. Uluslararası Piyano Günleri\" İki Piyano Doğaçlama Resitali",
-      "startAt": "2026-10-21T20:00:00+03:00",
-      "endAt": "2026-10-21T22:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71887c80ef.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-iki-piyano-dogaclama-resitali-1792481573"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-masterclass-iris-senturkler-1792481822",
