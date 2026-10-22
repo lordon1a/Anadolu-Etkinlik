@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-22T04:58:23.234Z",
+  "updatedAt": "2026-10-22T12:01:43.515Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -86,42 +86,6 @@
       "category": "Kongreler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aabcf45aa094.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuk-fakultesi-ulusal-kongre-serisi-3-ceza-hukuku-kongresi-1771592672"
-    },
-    {
-      "id": "6-uluslararasi-piyano-gunleri-masterclass-iris-senturkler-1792481822",
-      "title": "\"6. Uluslararası Piyano Günleri\" Masterclass İris ŞENTÜRKER",
-      "startAt": "2026-10-22T09:30:00+03:00",
-      "endAt": "2026-10-22T10:30:00+03:00",
-      "place": "Faris Akarsu Salonu",
-      "venueId": null,
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad719a547ca7.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-masterclass-iris-senturkler-1792481822"
-    },
-    {
-      "id": "narko-genclik-1792568483",
-      "title": "\"Narko Gençlik\"",
-      "startAt": "2026-10-22T14:00:00+03:00",
-      "endAt": "2026-10-22T14:30:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Bağımlılık Önleme Çalışmaları Birimi Müdürlüğü",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad86c8534ef8.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/narko-genclik-1792568483"
-    },
-    {
-      "id": "6-uluslararasi-piyano-gunleri-akisin-hafizasi-1792481981",
-      "title": "\"6. Uluslararası Piyano Günleri\" Akışın Hafızası",
-      "startAt": "2026-10-22T14:00:00+03:00",
-      "endAt": "2026-10-22T15:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a73e4a7a.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/6-uluslararasi-piyano-gunleri-akisin-hafizasi-1792481981"
     },
     {
       "id": "6-uluslararasi-piyano-gunleri-liebestraum-resitali-1792482155",
