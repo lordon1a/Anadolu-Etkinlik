@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-26T07:53:05.780Z",
+  "updatedAt": "2026-10-26T15:15:37.803Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,30 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "mirco-kredi-hazirlama-toplantisi-1790938503",
-      "title": "\"Mirco Kredi Hazırlama Toplantısı\"",
-      "startAt": "2026-10-26T10:00:00+03:00",
-      "endAt": "2026-10-26T11:30:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8d7189fce.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mirco-kredi-hazirlama-toplantisi-1790938503"
-    },
-    {
-      "id": "tanrinin-sinir-tanimaz-kullari-kalenderiler-1791873912",
-      "title": "\"Tanrı'nın Sınır Tanımaz Kulları: Kalenderiler\"",
-      "startAt": "2026-10-26T14:00:00+03:00",
-      "endAt": "2026-10-26T15:30:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi Sivas Konferans Salonu",
-      "venueId": null,
-      "organiser": "Tarih Kulübü",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6acdd345956b2.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanrinin-sinir-tanimaz-kullari-kalenderiler-1791873912"
     },
     {
       "id": "eren-yahsi-sinif-konseri-1789564680",
