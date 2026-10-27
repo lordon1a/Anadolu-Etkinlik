@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-27T07:58:32.945Z",
+  "updatedAt": "2026-10-27T14:36:38.780Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -16,34 +16,10 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
     },
     {
-      "id": "2026-2027-egitim-ogretim-yili-iskur-genclik-programi-noter-kurasi-1792482836",
-      "title": "\"2026-2027 Eğitim-Öğretim Yılı İŞKUR Gençlik Programı Noter Kurası\"",
-      "startAt": "2026-10-27T10:00:00+03:00",
-      "endAt": "2026-10-27T12:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Sağlık Kültür ve Spor Daire Başkanlığı",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71dec47a76.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/2026-2027-egitim-ogretim-yili-iskur-genclik-programi-noter-kurasi-1792482836"
-    },
-    {
-      "id": "etik-kurul-sureci-sosyal-bilimleri-alani-1790938558",
-      "title": "\"Etik Kurul Süreci (Sosyal Bilimleri Alanı)\"",
-      "startAt": "2026-10-27T14:00:00+03:00",
-      "endAt": "2026-10-27T16:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8da5e367b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/etik-kurul-sureci-sosyal-bilimleri-alani-1790938558"
-    },
-    {
       "id": "29-ekim-cumhuriyet-bayrami-konseri-1789641827",
       "title": "\"29 Ekim Cumhuriyet Bayramı Konseri\"",
-      "startAt": "2026-10-27T19:00:00+03:00",
-      "endAt": "2026-10-27T21:00:00+03:00",
+      "startAt": "2026-10-27T20:00:00+03:00",
+      "endAt": "2026-10-27T21:45:00+03:00",
       "place": "Öğrenci Merkezi Yunus Emre Salonu",
       "venueId": "ogrenci-merkezi",
       "organiser": "Devlet Konservatuvarı",
@@ -698,18 +674,6 @@
       "category": "Konferanslar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a44f4a51ae99.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sifirin-altinda-marketing26-1782904064"
-    },
-    {
-      "id": "vizyon-bulusmasi-1788958496",
-      "title": "\"Vizyon Buluşması\"",
-      "startAt": "2026-12-08T10:00:00+03:00",
-      "endAt": "2026-12-08T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu ve Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Genç Yeşilay Kulübü",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa156e700737.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/vizyon-bulusmasi-1788958496"
     },
     {
       "id": "ofke-kontrolu-semineri-1792482981",
