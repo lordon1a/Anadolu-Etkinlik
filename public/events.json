@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-28T08:40:33.465Z",
+  "updatedAt": "2026-10-28T16:42:24.759Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -638,18 +638,6 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35c289eee0.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032"
-    },
-    {
-      "id": "omer-demirbag-konferansi-1790073940",
-      "title": "\"Ömer DEMİRBAĞ Konferansı\"",
-      "startAt": "2026-12-04T18:00:00+03:00",
-      "endAt": "2026-12-04T20:30:00+03:00",
-      "place": "Eğitim Fakültesi E-Blok Konferans Salonu",
-      "venueId": "egitim",
-      "organiser": "Anadolu Genç İHH Kulübü",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab25c1c312b5.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/omer-demirbag-konferansi-1790073940"
     },
     {
       "id": "sifirin-altinda-marketing26-1782904064",
