@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-10-30T05:56:54.067Z",
+  "updatedAt": "2026-10-30T13:05:15.741Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -38,6 +38,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad765a230dd2.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501180"
+    },
+    {
+      "id": "ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817",
+      "title": "\"IP Öncüleri 2026: Eskişehir Projesi Açılış Töreni\"",
+      "startAt": "2026-11-03T09:00:00+03:00",
+      "endAt": "2026-11-03T17:30:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu ve Fuaye Alanı",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "ARİNKOM",
+      "category": "Törenler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46ff0ad712.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817"
     },
     {
       "id": "toplumsal-katki-1790938605",
@@ -124,6 +136,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/erdal-uludag-baglama-resitali-1792481391"
     },
     {
+      "id": "cocukluktan-yetiskinlige-dikkat-eksikligi-hiperaktivite-bozuklugu-1793355527",
+      "title": "\"Çocukluktan Yetişkinliğe Dikkat Eksikliği Hiperaktivite Bozukluğu\"",
+      "startAt": "2026-11-05T20:00:00+03:00",
+      "endAt": "2026-11-05T22:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "DİLKOM",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46eea3072e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cocukluktan-yetiskinlige-dikkat-eksikligi-hiperaktivite-bozuklugu-1793355527"
+    },
+    {
       "id": "meric-duzbas-tambur-resitali-1792481459",
       "title": "Meriç Düzbaş \"Tambur Resitali\"",
       "startAt": "2026-11-06T15:00:00+03:00",
@@ -182,6 +206,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-solo-konseri-1774509637"
+    },
+    {
+      "id": "ataturk-portreleri-1793355621",
+      "title": "\"Atatürk Portreleri\"",
+      "startAt": "2026-11-10T11:00:00+03:00",
+      "endAt": "2026-11-10T17:30:00+03:00",
+      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Toplantı Salonu",
+      "venueId": null,
+      "organiser": "Engelliler Entegre Yüksekokulu",
+      "category": "Sergiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f2612a07.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ataturk-portreleri-1793355621"
     },
     {
       "id": "afet-farkindalik-egitimleri-1790939078",
@@ -302,6 +338,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7196b03ca1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667"
+    },
+    {
+      "id": "gestasyonel-diyabet-ve-beslenme-1793355708",
+      "title": "\"Gestasyonel Diyabet ve Beslenme\"",
+      "startAt": "2026-11-19T13:00:00+03:00",
+      "endAt": "2026-11-19T14:00:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Derslik-2",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f93ea876.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gestasyonel-diyabet-ve-beslenme-1793355708"
     },
     {
       "id": "siirde-mekan-klasik-turk-siirinde-mekanlar-arasi-yolculuk-1791187807",
