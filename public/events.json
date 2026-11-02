@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-02T06:19:26.801Z",
+  "updatedAt": "2026-11-02T18:29:54.882Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -98,6 +98,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dff2e30e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/atama-kriterleri-1790938648"
+    },
+    {
+      "id": "dil-ve-konusma-terapisinde-kariyer-akademisyenlik-1793609386",
+      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Akademisyenlik\"",
+      "startAt": "2026-11-05T11:30:00+03:00",
+      "endAt": "2026-11-05T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84e93744ea.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-akademisyenlik-1793609386"
     },
     {
       "id": "erdal-uludag-baglama-resitali-1792481391",
@@ -316,6 +328,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667"
     },
     {
+      "id": "dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167",
+      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Dernek Temsilciliği ve Klinik Yönetimi\"",
+      "startAt": "2026-11-19T11:30:00+03:00",
+      "endAt": "2026-11-19T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84dbbe1529.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167"
+    },
+    {
       "id": "gestasyonel-diyabet-ve-beslenme-1793355708",
       "title": "\"Gestasyonel Diyabet ve Beslenme\"",
       "startAt": "2026-11-19T13:00:00+03:00",
@@ -446,6 +470,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8e36ecd43.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708"
+    },
+    {
+      "id": "losev-fayda-projesi-1793609099",
+      "title": "\"LÖSEV Fayda Projesi\"",
+      "startAt": "2026-11-26T11:30:00+03:00",
+      "endAt": "2026-11-26T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84d7a89b1e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-fayda-projesi-1793609099"
     },
     {
       "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
@@ -640,6 +676,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/zirve-alisilmisin-disinda-1788958407"
     },
     {
+      "id": "dil-ve-konusma-terapisinde-kariyer-yerel-yonetime-bagli-birimlerde-dkt-olmak-1793609053",
+      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Yerel Yönetime Bağlı Birimlerde DKT Olmak\"",
+      "startAt": "2026-12-03T11:30:00+03:00",
+      "endAt": "2026-12-03T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84d483d509.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-yerel-yonetime-bagli-birimlerde-dkt-olmak-1793609053"
+    },
+    {
       "id": "kamu-yonetiminde-dijital-donusum-1792756064",
       "title": "\"Kamu Yönetiminde Dijital Dönüşüm\"",
       "startAt": "2026-12-03T14:00:00+03:00",
@@ -686,6 +734,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71e786c024.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ofke-kontrolu-semineri-1792482981"
+    },
+    {
+      "id": "dil-ve-konusma-terapisinde-kariyer-sivil-toplum-kuruluslarinda-dkt-olmak-1793609330",
+      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Sivil Toplum Kuruluşlarında DKT Olmak\"",
+      "startAt": "2026-12-10T11:30:00+03:00",
+      "endAt": "2026-12-10T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84e6083f96.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-sivil-toplum-kuruluslarinda-dkt-olmak-1793609330"
     },
     {
       "id": "genclik-senfoni-orkestrasi-konseri-1785392431",
@@ -748,6 +808,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deli-kizin-turkusu-ruh-sagligi-1791188099"
     },
     {
+      "id": "dil-ve-konusma-terapisinde-kariyer-tip-fakultesi-hastanesinde-dkt-olmak-1793609269",
+      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Tıp Fakültesi Hastanesinde DKT Olmak\"",
+      "startAt": "2026-12-17T11:30:00+03:00",
+      "endAt": "2026-12-17T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84e22b55b4.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-tip-fakultesi-hastanesinde-dkt-olmak-1793609269"
+    },
+    {
       "id": "eskisehir-kurumlararasi-koordinasyon-uluslararasi-goc-politikalari-egitim-1792501009",
       "title": "\"Eskişehir Kurumlararası Koordinasyon Uluslararası Göç Politikaları Eğitim Çalıştayı\"",
       "startAt": "2026-12-17T14:00:00+03:00",
@@ -794,6 +866,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a28076a1260b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gastovision-1781008299"
+    },
+    {
+      "id": "dil-ve-konusma-terapisinde-kariyer-ozel-egitim-ve-rehabiklitasyon-merkezinde-1793609225",
+      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Özel Eğitim ve Rehabiklitasyon Merkezinde DKT Olmak\"",
+      "startAt": "2026-12-24T11:30:00+03:00",
+      "endAt": "2026-12-24T12:30:00+03:00",
+      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
+      "venueId": null,
+      "organiser": "Sağlık Bilimleri Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84df78d417.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-ozel-egitim-ve-rehabiklitasyon-merkezinde-1793609225"
     },
     {
       "id": "yeni-yil-konseri-1785393843",
