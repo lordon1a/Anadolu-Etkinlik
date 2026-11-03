@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-03T12:00:20.660Z",
+  "updatedAt": "2026-11-03T19:33:15.099Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,30 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817",
-      "title": "\"IP Öncüleri 2026: Eskişehir Projesi Açılış Töreni\"",
-      "startAt": "2026-11-03T09:00:00+03:00",
-      "endAt": "2026-11-03T17:30:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu ve Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "ARİNKOM",
-      "category": "Törenler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46ff0ad712.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817"
-    },
-    {
-      "id": "gelenekten-bilime-tursu-kurma-1792484438",
-      "title": "\"Gelenekten Bilime Turşu Kurma Atölyesi\"",
-      "startAt": "2026-11-03T14:15:00+03:00",
-      "endAt": "2026-11-03T16:15:00+03:00",
-      "place": "Emyo Ocak Mutfağı",
-      "venueId": null,
-      "organiser": "EMYO",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad724356b63e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gelenekten-bilime-tursu-kurma-1792484438"
     },
     {
       "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938948",
