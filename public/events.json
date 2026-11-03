@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-03T02:24:52.511Z",
+  "updatedAt": "2026-11-03T12:00:20.660Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,18 +26,6 @@
       "category": "Törenler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46ff0ad712.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ip-onculeri-2026-eskisehir-projesi-acilis-toreni-1793355817"
-    },
-    {
-      "id": "toplumsal-katki-1790938605",
-      "title": "\"Toplumsal Katkı Eğitimi\"",
-      "startAt": "2026-11-03T10:00:00+03:00",
-      "endAt": "2026-11-03T11:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dd75d893.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/toplumsal-katki-1790938605"
     },
     {
       "id": "gelenekten-bilime-tursu-kurma-1792484438",
