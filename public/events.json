@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-04T09:24:57.851Z",
+  "updatedAt": "2026-11-04T18:02:49.585Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,42 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938948",
-      "title": "\"Temel İş Sağlığı ve Güvenliği Eğitimi\"",
-      "startAt": "2026-11-04T08:30:00+03:00",
-      "endAt": "2026-11-04T17:30:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f2c79813.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938948"
-    },
-    {
-      "id": "tubitak-2209-a-universite-ogrencileri-arastirma-projeleri-destekleme-programi-1792755967",
-      "title": "\"TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı Proje Deneyim Paylaşımı Toplantısı\"",
-      "startAt": "2026-11-04T14:00:00+03:00",
-      "endAt": "2026-11-04T17:00:00+03:00",
-      "place": "İletişim Bilimleri Fakültesi Frig Salonu",
-      "venueId": null,
-      "organiser": "İletişim Bilimleri Fakültesi",
-      "category": "Toplantılar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb48d473a11.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tubitak-2209-a-universite-ogrencileri-arastirma-projeleri-destekleme-programi-1792755967"
-    },
-    {
-      "id": "her-filminin-bagimlilik-baglaminda-incelenmesi-1791187734",
-      "title": "\"Her\" Filminin Bağımlılık Bağlamında İncelenmesi",
-      "startAt": "2026-11-04T15:00:00+03:00",
-      "endAt": "2026-11-04T17:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35b0095705.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/her-filminin-bagimlilik-baglaminda-incelenmesi-1791187734"
     },
     {
       "id": "atama-kriterleri-1790938648",
@@ -616,18 +580,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
-      "id": "ogrenci-turk-halk-muzigi-konseri-1790075082",
-      "title": "\"Öğrenci Türk Halk Müziği Konseri\"",
-      "startAt": "2026-12-01T20:00:00+03:00",
-      "endAt": "2026-12-01T22:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Halkbilimi Uygulama ve Araştırma Merkezi",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab2609b6f52d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ogrenci-turk-halk-muzigi-konseri-1790075082"
-    },
-    {
       "id": "zirve-alisilmisin-disinda-1788958407",
       "title": "Zirve \"Alışılmışın Dışında\"",
       "startAt": "2026-12-02T10:00:00+03:00",
@@ -866,6 +818,18 @@
       "category": "Törenler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71d84ec1e9.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-dr-yahya-ozsoy-toplum-hizmetleri-odul-toreni-1792482747"
+    },
+    {
+      "id": "ogrenci-turk-halk-muzigi-konseri-1790075082",
+      "title": "\"Türk Halk Müziği Öğrenci  Korosu Konseri\"",
+      "startAt": "2026-12-29T20:00:00+03:00",
+      "endAt": "2026-12-29T22:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Halkbilimi Uygulama ve Araştırma Merkezi",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab2609b6f52d.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ogrenci-turk-halk-muzigi-konseri-1790075082"
     },
     {
       "id": "mandala-sergisi-1788959527",
