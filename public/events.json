@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-05T16:31:09.159Z",
+  "updatedAt": "2026-11-05T23:41:23.220Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,18 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "cocukluktan-yetiskinlige-dikkat-eksikligi-hiperaktivite-bozuklugu-1793355527",
-      "title": "\"Çocukluktan Yetişkinliğe Dikkat Eksikliği Hiperaktivite Bozukluğu\"",
-      "startAt": "2026-11-05T20:00:00+03:00",
-      "endAt": "2026-11-05T22:00:00+03:00",
-      "place": "Çevrimiçi",
-      "venueId": null,
-      "organiser": "DİLKOM",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46eea3072e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cocukluktan-yetiskinlige-dikkat-eksikligi-hiperaktivite-bozuklugu-1793355527"
     },
     {
       "id": "meric-duzbas-tambur-resitali-1792481459",
