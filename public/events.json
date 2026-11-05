@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-05T06:56:57.669Z",
+  "updatedAt": "2026-11-05T16:31:09.159Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,42 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "atama-kriterleri-1790938648",
-      "title": "\"Atama Kriterleri Eğitimi\"",
-      "startAt": "2026-11-05T10:00:00+03:00",
-      "endAt": "2026-11-05T11:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8dff2e30e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/atama-kriterleri-1790938648"
-    },
-    {
-      "id": "dil-ve-konusma-terapisinde-kariyer-akademisyenlik-1793609386",
-      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Akademisyenlik\"",
-      "startAt": "2026-11-05T11:30:00+03:00",
-      "endAt": "2026-11-05T12:30:00+03:00",
-      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
-      "venueId": null,
-      "organiser": "Sağlık Bilimleri Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84e93744ea.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-akademisyenlik-1793609386"
-    },
-    {
-      "id": "erdal-uludag-baglama-resitali-1792481391",
-      "title": "Erdal Uludağ ''Bağlama Resitali''",
-      "startAt": "2026-11-05T18:00:00+03:00",
-      "endAt": "2026-11-05T19:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71856d3218.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/erdal-uludag-baglama-resitali-1792481391"
     },
     {
       "id": "cocukluktan-yetiskinlige-dikkat-eksikligi-hiperaktivite-bozuklugu-1793355527",
