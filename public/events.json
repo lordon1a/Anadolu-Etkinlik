@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-06T06:56:34.133Z",
+  "updatedAt": "2026-11-06T15:59:13.525Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,18 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "meric-duzbas-tambur-resitali-1792481459",
-      "title": "Meriç Düzbaş \"Tambur Resitali\"",
-      "startAt": "2026-11-06T15:00:00+03:00",
-      "endAt": "2026-11-06T16:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718908d255.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/meric-duzbas-tambur-resitali-1792481459"
     },
     {
       "id": "guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501288",
@@ -292,6 +280,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241"
     },
     {
+      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231",
+      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
+      "startAt": "2026-11-23T10:00:00+03:00",
+      "endAt": "2026-11-23T15:00:00+03:00",
+      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "venueId": "biltek-myo",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedacfadc8b1.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231"
+    },
+    {
+      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274",
+      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
+      "startAt": "2026-11-24T10:00:00+03:00",
+      "endAt": "2026-11-24T15:00:00+03:00",
+      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "venueId": "biltek-myo",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedad24ebfd4.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274"
+    },
+    {
       "id": "anadolu-egitim-forumu-1788958693",
       "title": "\"Anadolu Eğitim Forumu\"",
       "startAt": "2026-11-24T14:00:00+03:00",
@@ -314,6 +326,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a7fd83ce.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/semih-tercan-sinif-konseri-1792481942"
+    },
+    {
+      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312",
+      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
+      "startAt": "2026-11-25T10:00:00+03:00",
+      "endAt": "2026-11-25T15:00:00+03:00",
+      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "venueId": "biltek-myo",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedad4dc52dd.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312"
     },
     {
       "id": "verimli-ders-calisma-ve-zaman-yonetimi-1789563946",
@@ -350,6 +374,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8e36ecd43.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708"
+    },
+    {
+      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961385",
+      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
+      "startAt": "2026-11-26T10:00:00+03:00",
+      "endAt": "2026-11-26T15:00:00+03:00",
+      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "venueId": "biltek-myo",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedad7657555.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961385"
     },
     {
       "id": "losev-fayda-projesi-1793609099",
@@ -410,6 +446,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad8a3a2b1865.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554"
+    },
+    {
+      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961185",
+      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
+      "startAt": "2026-11-27T10:00:00+03:00",
+      "endAt": "2026-11-27T15:00:00+03:00",
+      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
+      "venueId": "biltek-myo",
+      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaccc82c01.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961185"
     },
     {
       "id": "ahmet-fatih-demir-gitar-resitali-1792482124",
@@ -566,6 +614,18 @@
       "category": "Konferanslar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb49332af1b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kamu-yonetiminde-dijital-donusum-1792756064"
+    },
+    {
+      "id": "3-aralik-dunya-engelliler-gunu-etknligi-1793961651",
+      "title": "\"3 Aralık Dünya Engelliler Günü Etknliği\"",
+      "startAt": "2026-12-03T14:00:00+03:00",
+      "endAt": "2026-12-03T18:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Eğitim Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedae87b5c81.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/3-aralik-dunya-engelliler-gunu-etknligi-1793961651"
     },
     {
       "id": "tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032",
@@ -736,6 +796,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/gastovision-1781008299"
     },
     {
+      "id": "micro-kredi-hazirlama-toplantisi-1793961481",
+      "title": "\"Micro Kredi Hazırlama Toplantısı\"",
+      "startAt": "2026-12-21T14:00:00+03:00",
+      "endAt": "2026-12-21T15:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Toplantılar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedade1037c3.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/micro-kredi-hazirlama-toplantisi-1793961481"
+    },
+    {
       "id": "dil-ve-konusma-terapisinde-kariyer-ozel-egitim-ve-rehabiklitasyon-merkezinde-1793609225",
       "title": "\"Dil ve Konuşma Terapisinde Kariyer: Özel Eğitim ve Rehabiklitasyon Merkezinde DKT Olmak\"",
       "startAt": "2026-12-24T11:30:00+03:00",
@@ -796,6 +868,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mandala-sergisi-1788959527"
     },
     {
+      "id": "turk-sanat-muzigi-korosu-konseri-1793961731",
+      "title": "\"Türk Sanat Müziği Korosu Konseri\"",
+      "startAt": "2027-01-04T20:00:00+03:00",
+      "endAt": "2027-01-04T21:30:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Halk Bilimi Uygulama ve Araştırma Merkezi",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaed7e1591.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-sanat-muzigi-korosu-konseri-1793961731"
+    },
+    {
       "id": "halk-muzigi-konseri-1792756446",
       "title": "\"Halk Müziği Konseri\"",
       "startAt": "2027-01-06T20:00:00+03:00",
@@ -842,6 +926,18 @@
       "category": "Toplantılar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab67adedb496.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/acikogretim-fakultesi-guz-donemi-donem-sonu-sinav-toplantisi-1790343930"
+    },
+    {
+      "id": "turk-halk-muzigi-personel-korosu-1793961899",
+      "title": "\"Türk Halk Müziği Personel Korosu\"",
+      "startAt": "2027-01-12T20:00:00+03:00",
+      "endAt": "2027-01-12T21:30:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Halk Bilimi Uygulama ve Araştırma Merkezi",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaf85c8d1e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-personel-korosu-1793961899"
     }
   ]
 }
