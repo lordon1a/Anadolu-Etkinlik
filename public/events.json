@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-09T01:46:05.151Z",
+  "updatedAt": "2026-11-09T09:54:21.126Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -16,16 +16,16 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
     },
     {
-      "id": "dijital-cagda-aile-siddetsiz-ev-esit-yasam-1792500885",
-      "title": "\"Dijital Çağda Aile: Şiddetsiz Ev, Eşit Yaşam\"",
-      "startAt": "2026-11-09T11:00:00+03:00",
-      "endAt": "2026-11-09T12:00:00+03:00",
-      "place": "Şener Şen Salonu",
-      "venueId": null,
-      "organiser": "Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi Müdü",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad764796d363.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijital-cagda-aile-siddetsiz-ev-esit-yasam-1792500885"
+      "id": "tiyatro-kulubu-tanitim-standi-1794210839",
+      "title": "\"Tiyatro Kulübü Tanıtım Standı\"",
+      "startAt": "2026-11-09T10:00:00+03:00",
+      "endAt": "2026-11-13T17:00:00+03:00",
+      "place": "KYK ve Bankamatikler önü, Hukuk Fakültesi önü, Sinema Anadolu önü",
+      "venueId": "kyk-bankamatikler",
+      "organiser": "Tiyatro Kulübü",
+      "category": "Tanıtım Aktiviteleri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17be4d6aac.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tiyatro-kulubu-tanitim-standi-1794210839"
     },
     {
       "id": "milli-mucadeleden-cumhuriyet-1792756243",
@@ -170,6 +170,30 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f563fde6.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
+    },
+    {
+      "id": "turuncu-kurdele-atolyesi-etkinligi-1794210702",
+      "title": "\"Turuncu Kurdele Atölyesi Etkinliği\"",
+      "startAt": "2026-11-18T11:00:00+03:00",
+      "endAt": "2026-11-18T11:30:00+03:00",
+      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
+      "venueId": null,
+      "organiser": "Engelliler Entegre Yüksekokulu",
+      "category": "Kampanyalar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702"
+    },
+    {
+      "id": "losev-tanitim-ve-farkindalik-semineri-1794210767",
+      "title": "\"LÖSEV Tanıtım ve Farkındalık Semineri\"",
+      "startAt": "2026-11-18T11:30:00+03:00",
+      "endAt": "2026-11-18T12:00:00+03:00",
+      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
+      "venueId": null,
+      "organiser": "Engelliler Entegre Yüksekokulu",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17bbe4f246.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767"
     },
     {
       "id": "prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667",
@@ -616,6 +640,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/3-aralik-dunya-engelliler-gunu-etknligi-1793961651"
     },
     {
+      "id": "staj-hikayem-1794210963",
+      "title": "\"Staj Hikayem\"",
+      "startAt": "2026-12-04T09:00:00+03:00",
+      "endAt": "2026-12-04T14:00:00+03:00",
+      "place": "Şener Şen Salonu",
+      "venueId": null,
+      "organiser": "Engelliler Entegre Yüksekokulu",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17c79721ef.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/staj-hikayem-1794210963"
+    },
+    {
       "id": "tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032",
       "title": "\"Tiyatrolar ve Stadionlar: Yarışmalar, Gösteriler ve Festivaller\"",
       "startAt": "2026-12-04T14:00:00+03:00",
@@ -842,6 +878,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab2609b6f52d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ogrenci-turk-halk-muzigi-konseri-1790075082"
+    },
+    {
+      "id": "floortime-egitimi-1794211997",
+      "title": "\"Floortime Eğitimi\"",
+      "startAt": "2026-12-30T08:30:00+03:00",
+      "endAt": "2026-12-30T17:30:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "DİLKOM",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af180772cc3b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/floortime-egitimi-1794211997"
     },
     {
       "id": "mandala-sergisi-1788959527",
