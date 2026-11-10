@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-10T12:44:15.998Z",
+  "updatedAt": "2026-11-10T20:52:52.122Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -38,30 +38,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243"
-    },
-    {
-      "id": "turk-halk-muzigi-solo-konseri-1774509637",
-      "title": "''Türk Halk Müziği Solo Konseri''",
-      "startAt": "2026-11-10T10:00:00+03:00",
-      "endAt": "2026-11-10T21:00:00+03:00",
-      "place": "Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-solo-konseri-1774509637"
-    },
-    {
-      "id": "ataturk-portreleri-1793355621",
-      "title": "\"Atatürk Portreleri\"",
-      "startAt": "2026-11-10T11:00:00+03:00",
-      "endAt": "2026-11-10T17:30:00+03:00",
-      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Toplantı Salonu",
-      "venueId": null,
-      "organiser": "Engelliler Entegre Yüksekokulu",
-      "category": "Sergiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae46f2612a07.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ataturk-portreleri-1793355621"
     },
     {
       "id": "afet-farkindalik-egitimleri-1790939078",
