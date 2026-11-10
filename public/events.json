@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-10T04:10:33.376Z",
+  "updatedAt": "2026-11-10T12:44:15.998Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -160,6 +160,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-calistayi-1792483205"
     },
     {
+      "id": "mezunumuz-mutfakta-1794295379",
+      "title": "\"Mezunumuz Mutfakta\"",
+      "startAt": "2026-11-17T12:15:00+03:00",
+      "endAt": "2026-11-17T15:15:00+03:00",
+      "place": "EMYO Çörek Mutfağı",
+      "venueId": null,
+      "organiser": "EMYO",
+      "category": "Söyleşiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c6368d4ec.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mezunumuz-mutfakta-1794295379"
+    },
+    {
       "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938995",
       "title": "\"Temel İş Sağlığı ve Güvenliği Eğitimi\"",
       "startAt": "2026-11-18T08:30:00+03:00",
@@ -172,28 +184,28 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
     },
     {
-      "id": "turuncu-kurdele-atolyesi-etkinligi-1794210702",
-      "title": "\"Turuncu Kurdele Atölyesi Etkinliği\"",
-      "startAt": "2026-11-18T11:00:00+03:00",
-      "endAt": "2026-11-18T11:30:00+03:00",
-      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
-      "venueId": null,
-      "organiser": "Engelliler Entegre Yüksekokulu",
-      "category": "Kampanyalar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702"
-    },
-    {
       "id": "losev-tanitim-ve-farkindalik-semineri-1794210767",
       "title": "\"LÖSEV Tanıtım ve Farkındalık Semineri\"",
-      "startAt": "2026-11-18T11:30:00+03:00",
-      "endAt": "2026-11-18T12:00:00+03:00",
+      "startAt": "2026-11-18T11:00:00+03:00",
+      "endAt": "2026-11-18T11:30:00+03:00",
       "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
       "venueId": null,
       "organiser": "Engelliler Entegre Yüksekokulu",
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17bbe4f246.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767"
+    },
+    {
+      "id": "turuncu-kurdele-atolyesi-etkinligi-1794210702",
+      "title": "\"Turuncu Kurdele Atölyesi Etkinliği\"",
+      "startAt": "2026-11-18T11:30:00+03:00",
+      "endAt": "2026-11-18T12:00:00+03:00",
+      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
+      "venueId": null,
+      "organiser": "Engelliler Entegre Yüksekokulu",
+      "category": "Kampanyalar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702"
     },
     {
       "id": "prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667",
@@ -254,6 +266,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad719deb8ebf.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-tunca-konser-1792481781"
+    },
+    {
+      "id": "bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319",
+      "title": "\"Bir İdik Bin Olduk Edebiyat Topluluğu Söyleşisi\"",
+      "startAt": "2026-11-20T14:00:00+03:00",
+      "endAt": "2026-11-20T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Açıköğretim Fakültesi",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c5f3b669e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319"
     },
     {
       "id": "burak-basmacioglu-barok-sinifi-konseri-1792481882",
@@ -734,6 +758,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab65e6b14a80.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/glp-1den-spora-yeni-nesil-eczacilik-1790336658"
+    },
+    {
+      "id": "ucmayi-unutanlar-1794295237",
+      "title": "\"Uçmayı Unutanlar\"",
+      "startAt": "2026-12-15T20:00:00+03:00",
+      "endAt": "2026-12-15T21:30:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Tiyatro Kulübü",
+      "category": "Tiyatro Gösterileri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c5a256354.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ucmayi-unutanlar-1794295237"
     },
     {
       "id": "kabul-et-yasa-harekete-gec-kabul-ve-kararlilik-terapisi-ile-psikolojik-esneklik-1789564166",
