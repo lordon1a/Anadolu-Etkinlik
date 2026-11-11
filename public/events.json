@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-11T09:32:08.676Z",
+  "updatedAt": "2026-11-11T17:56:16.803Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -38,30 +38,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243"
-    },
-    {
-      "id": "afet-farkindalik-egitimleri-1790939078",
-      "title": "\"Afet Farkındalık Eğitimleri\"",
-      "startAt": "2026-11-11T13:30:00+03:00",
-      "endAt": "2026-11-11T16:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "Eğitim Fakültesi",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f9300b08.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-farkindalik-egitimleri-1790939078"
-    },
-    {
-      "id": "iliskilerimizde-iletisim-yuz-yuze-ve-sanal-ve-sinirlar-1789563836",
-      "title": "\"İlişkilerimizde İletişim (Yüz Yüze ve Sanal) ve Sınırlar\"",
-      "startAt": "2026-11-11T14:00:00+03:00",
-      "endAt": "2026-11-11T15:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa93939aa9c.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iliskilerimizde-iletisim-yuz-yuze-ve-sanal-ve-sinirlar-1789563836"
     },
     {
       "id": "yasayan-tiyatromidasin-kulaklari-gungor-dilmen-1792762700",
