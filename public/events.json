@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-12T09:55:30.580Z",
+  "updatedAt": "2026-11-12T18:23:05.130Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -38,18 +38,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb497d74a82.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243"
-    },
-    {
-      "id": "yasayan-tiyatromidasin-kulaklari-gungor-dilmen-1792762700",
-      "title": "\"Yaşayan Tiyatro/Midas'ın Kulakları - Güngör Dilmen\"",
-      "startAt": "2026-11-14T19:00:00+03:00",
-      "endAt": "2026-11-14T22:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Tiyatro Kulübü",
-      "category": "Tiyatro Gösterileri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb632d1ed9e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yasayan-tiyatromidasin-kulaklari-gungor-dilmen-1792762700"
     },
     {
       "id": "iletisim-kulubu-tanitim-standi-1792755855",
