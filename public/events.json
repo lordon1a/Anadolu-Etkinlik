@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-13T09:39:37.320Z",
+  "updatedAt": "2026-11-13T17:49:46.408Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,18 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "tiyatro-kulubu-tanitim-standi-1794210839",
-      "title": "\"Tiyatro Kulübü Tanıtım Standı\"",
-      "startAt": "2026-11-09T10:00:00+03:00",
-      "endAt": "2026-11-13T17:00:00+03:00",
-      "place": "KYK ve Bankamatikler önü, Hukuk Fakültesi önü, Sinema Anadolu önü",
-      "venueId": "kyk-bankamatikler",
-      "organiser": "Tiyatro Kulübü",
-      "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17be4d6aac.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tiyatro-kulubu-tanitim-standi-1794210839"
     },
     {
       "id": "milli-mucadeleden-cumhuriyet-1792756243",
@@ -86,6 +74,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718fac5bc0.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561"
+    },
+    {
+      "id": "23-eskisehir-uluslararasi-film-festivali-1794565836",
+      "title": "\"23. Eskişehir Uluslararası Film Festivali\"",
+      "startAt": "2026-11-17T09:00:00+03:00",
+      "endAt": "2026-11-29T00:00:00+03:00",
+      "place": "Sinema Anadolu",
+      "venueId": "sinema",
+      "organiser": "Kurumsal İletişim Koordinatörlüğü",
+      "category": "Festival vb. Etkinlikler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e60983bb2.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836"
     },
     {
       "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-calistayi-1792483205",
@@ -208,6 +208,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-tunca-konser-1792481781"
     },
     {
+      "id": "turkce-alternatif-destekleyici-iletisim-sistemi-tadis-egitimi-1794565292",
+      "title": "\"Türkçe Alternatif Destekleyici İletişim Sistemi (TADİS) Eğitimi\"",
+      "startAt": "2026-11-20T10:00:00+03:00",
+      "endAt": "2026-11-20T17:00:00+03:00",
+      "place": "Prof. Dr. Seyhun Topbaş Seminer Salonu",
+      "venueId": null,
+      "organiser": "DİLKOM",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e487e3c8b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turkce-alternatif-destekleyici-iletisim-sistemi-tadis-egitimi-1794565292"
+    },
+    {
       "id": "bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319",
       "title": "\"Bir İdik Bin Olduk Edebiyat Topluluğu Söyleşisi\"",
       "startAt": "2026-11-20T14:00:00+03:00",
@@ -218,6 +230,18 @@
       "category": "Konferanslar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c5f3b669e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319"
+    },
+    {
+      "id": "anadolu-universitesi-yemek-uretim-merkezi-teknik-gezi-1794564899",
+      "title": "\"Anadolu Üniversitesi Yemek Üretim Merkezi Teknik Gezi\"",
+      "startAt": "2026-11-20T15:00:00+03:00",
+      "endAt": "2026-11-20T16:00:00+03:00",
+      "place": "Anadolu Üniversitesi Yemek Üretim Merkezi",
+      "venueId": null,
+      "organiser": "Gastronomi Kulübü",
+      "category": "Geziler ve Turlar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e2fcea782.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-universitesi-yemek-uretim-merkezi-teknik-gezi-1794564899"
     },
     {
       "id": "burak-basmacioglu-barok-sinifi-konseri-1792481882",
@@ -256,6 +280,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/guvenli-binalar-ve-hazirlikli-mahalleler-sirintepede-afet-hazirligi-gonulluluk-1792501241"
     },
     {
+      "id": "deniz-mahsullu-risotto-workshop-1794565052",
+      "title": "\"Deniz Mahsullü Risotto Workshop\"",
+      "startAt": "2026-11-23T09:00:00+03:00",
+      "endAt": "2026-11-23T13:00:00+03:00",
+      "place": "Turizm Fakültesi Uygulama Mutfağı",
+      "venueId": "turizm",
+      "organiser": "Gastronomi Kulübü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e39b201a3.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deniz-mahsullu-risotto-workshop-1794565052"
+    },
+    {
       "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231",
       "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
       "startAt": "2026-11-23T10:00:00+03:00",
@@ -266,6 +302,18 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedacfadc8b1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231"
+    },
+    {
+      "id": "kolaj-etkinligi-1794565353",
+      "title": "\"Kolaj Etkinliği\"",
+      "startAt": "2026-11-23T14:00:00+03:00",
+      "endAt": "2026-11-23T16:00:00+03:00",
+      "place": "Genç Ofis",
+      "venueId": null,
+      "organiser": "Anadolu Genç İHH Kulübü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e4c6f17bd.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kolaj-etkinligi-1794565353"
     },
     {
       "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274",
@@ -376,6 +424,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-fayda-projesi-1793609099"
     },
     {
+      "id": "ses-bozukluklarinda-degerlendirme-ve-terapide-klinik-uygulamalar-1794565202",
+      "title": "\"Ses Bozukluklarında Değerlendirme ve Terapide Klinik Uygulamalar\"",
+      "startAt": "2026-11-26T14:00:00+03:00",
+      "endAt": "2026-11-26T16:00:00+03:00",
+      "place": "Prof. Dr. Seyhun Topbaş Seminer Salonu",
+      "venueId": null,
+      "organiser": "DİLKOM",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e43022a91.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ses-bozukluklarinda-degerlendirme-ve-terapide-klinik-uygulamalar-1794565202"
+    },
+    {
       "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
       "title": "\"Bir Çocuk Kitabı Çocuğa Ne Söyler?\"",
       "startAt": "2026-11-26T15:00:00+03:00",
@@ -460,6 +520,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959"
     },
     {
+      "id": "dijitalde-var-olmak-veri-riskleri-ve-guvenligi-1794565427",
+      "title": "\"Dijitalde Var Olmak: Veri Riskleri ve Güvenliği\"",
+      "startAt": "2026-11-27T14:00:00+03:00",
+      "endAt": "2026-11-27T16:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Toplumsal Katkı Koordinatörlüğü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e511e40e8.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijitalde-var-olmak-veri-riskleri-ve-guvenligi-1794565427"
+    },
+    {
       "id": "es-es-tayfa-gitar-uclusu-1792482199",
       "title": "\"Es Es Tayfa Gitar Üçlüsü\"",
       "startAt": "2026-11-27T15:00:00+03:00",
@@ -532,6 +604,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/marketing-anadolu-kulup-tanitim-standi-1792755781"
     },
     {
+      "id": "sushi-workshop-1794564964",
+      "title": "\"Sushi Workshop\"",
+      "startAt": "2026-11-30T09:00:00+03:00",
+      "endAt": "2026-11-30T13:00:00+03:00",
+      "place": "Turizm Fakültesi Uygulama Mutfağı",
+      "venueId": "turizm",
+      "organiser": "Gastronomi Kulübü",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e33da9304.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sushi-workshop-1794564964"
+    },
+    {
+      "id": "8-turizm-fakultesi-kariyer-gunu-etkinligi-1794566022",
+      "title": "\"8. Turizm Fakültesi Kariyer Günü Etkinliği\"",
+      "startAt": "2026-11-30T10:00:00+03:00",
+      "endAt": "2026-11-30T17:00:00+03:00",
+      "place": "Turizm Fakültesi Fuaye Alanı",
+      "venueId": "turizm",
+      "organiser": "Turizm Fakültesi",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e74a23a23.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/8-turizm-fakultesi-kariyer-gunu-etkinligi-1794566022"
+    },
+    {
       "id": "acikogretim-fakultesi-guz-donemi-ara-sinav-toplantisi-1790344068",
       "title": "\"Açıköğretim Fakültesi Güz Dönemi Ara Sınav Toplantısı\"",
       "startAt": "2026-11-30T14:00:00+03:00",
@@ -556,6 +652,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
+      "id": "hukuta-cocuk-1794564721",
+      "title": "\"Hukuta Çocuk\"",
+      "startAt": "2026-12-01T14:00:00+03:00",
+      "endAt": "2026-12-01T16:00:00+03:00",
+      "place": "Prof. Dr. Şefik Yaşar Seminer Salonu",
+      "venueId": null,
+      "organiser": "Eğitim Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e24e501b0.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hukuta-cocuk-1794564721"
+    },
+    {
       "id": "zirve-alisilmisin-disinda-1788958407",
       "title": "Zirve \"Alışılmışın Dışında\"",
       "startAt": "2026-12-02T10:00:00+03:00",
@@ -566,6 +674,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa156907bf32.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/zirve-alisilmisin-disinda-1788958407"
+    },
+    {
+      "id": "kalite-ve-kurumsal-gelisim-koordinatorlugu-toplantisi-1794565513",
+      "title": "\"Kalite ve Kurumsal Gelişim Koordinatörlüğü Toplantısı\"",
+      "startAt": "2026-12-02T13:00:00+03:00",
+      "endAt": "2026-12-02T14:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Kalite ve Kurumsal Gelişim Koordinatörlüğü",
+      "category": "Toplantılar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e560babde.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kalite-ve-kurumsal-gelisim-koordinatorlugu-toplantisi-1794565513"
     },
     {
       "id": "dil-ve-konusma-terapisinde-kariyer-yerel-yonetime-bagli-birimlerde-dkt-olmak-1793609053",
@@ -650,6 +770,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71e786c024.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ofke-kontrolu-semineri-1792482981"
+    },
+    {
+      "id": "resmi-burslu-ogrencilere-yonelik-uyum-programi-1794565592",
+      "title": "\"Resmi Burslu Öğrencilere Yönelik Uyum Programı\"",
+      "startAt": "2026-12-10T09:00:00+03:00",
+      "endAt": "2026-12-10T16:00:00+03:00",
+      "place": "Şener Şen Kültür Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Paneller",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e5b3e51a9.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/resmi-burslu-ogrencilere-yonelik-uyum-programi-1794565592"
     },
     {
       "id": "dil-ve-konusma-terapisinde-kariyer-sivil-toplum-kuruluslarinda-dkt-olmak-1793609330",
@@ -782,6 +914,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35ca72a5c0.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/nurettin-topcu-ve-isyani-1791188164"
+    },
+    {
+      "id": "sira-gecesi-1794565117",
+      "title": "\"Sıra Gecesi\"",
+      "startAt": "2026-12-18T18:00:00+03:00",
+      "endAt": "2026-12-18T21:00:00+03:00",
+      "place": "Yeni Yemekhane",
+      "venueId": "yeni-yemekhane",
+      "organiser": "Gastronomi Kulübü",
+      "category": "Kampanyalar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e3ddb7959.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sira-gecesi-1794565117"
     },
     {
       "id": "gastovision-1781008299",
