@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-16T06:42:52.631Z",
+  "updatedAt": "2026-11-16T18:39:00.391Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -40,18 +40,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iletisim-kulubu-tanitim-standi-1792755855"
     },
     {
-      "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-konferansi-1792483321",
-      "title": "\"18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Konferansı\"",
-      "startAt": "2026-11-16T10:00:00+03:00",
-      "endAt": "2026-11-16T12:00:00+03:00",
-      "place": "Güzel Sanatlar Fakültesi Grafik Sanatlar Bölümü",
-      "venueId": null,
-      "organiser": "Güzel Sanatlar Fakültesi",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71fd9d7418.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-konferansi-1792483321"
-    },
-    {
       "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401",
       "title": "\"18. Uluslararası Anadolu Kaligrafi, Tipografi Festivali Yunus Emre Sergisi\"",
       "startAt": "2026-11-16T16:00:00+03:00",
@@ -62,30 +50,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af41909d021f.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401"
-    },
-    {
-      "id": "hale-basmacioglu-barok-sinif-konseri-1792481561",
-      "title": "Hale Basmacıoğlu \"Barok Sınıf Konseri\"",
-      "startAt": "2026-11-16T18:00:00+03:00",
-      "endAt": "2026-11-16T19:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad718fac5bc0.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hale-basmacioglu-barok-sinif-konseri-1792481561"
-    },
-    {
-      "id": "23-eskisehir-uluslararasi-film-festivali-1794565836",
-      "title": "\"23. Eskişehir Uluslararası Film Festivali\"",
-      "startAt": "2026-11-17T09:00:00+03:00",
-      "endAt": "2026-11-29T00:00:00+03:00",
-      "place": "Sinema Anadolu",
-      "venueId": "sinema",
-      "organiser": "Kurumsal İletişim Koordinatörlüğü",
-      "category": "Festival vb. Etkinlikler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e60983bb2.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836"
     },
     {
       "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-calistayi-1792483205",
@@ -108,7 +72,7 @@
       "venueId": null,
       "organiser": "EMYO",
       "category": "Söyleşiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af2c6368d4ec.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaf1669bfe7.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mezunumuz-mutfakta-1794295379"
     },
     {
@@ -120,7 +84,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8f563fde6.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa5257cdf.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
     },
     {
@@ -132,7 +96,7 @@
       "venueId": null,
       "organiser": "Engelliler Entegre Yüksekokulu",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17bbe4f246.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa78413c1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767"
     },
     {
@@ -144,7 +108,7 @@
       "venueId": null,
       "organiser": "Engelliler Entegre Yüksekokulu",
       "category": "Kampanyalar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af17b624f4c5.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafacb2bde3.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702"
     },
     {
@@ -156,8 +120,20 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad7196b03ca1.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafaad58ce7.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667"
+    },
+    {
+      "id": "23-eskisehir-uluslararasi-film-festivali-1794565836",
+      "title": "\"23. Eskişehir Uluslararası Film Festivali\"",
+      "startAt": "2026-11-19T09:00:00+03:00",
+      "endAt": "2026-11-27T00:00:00+03:00",
+      "place": "Sinema Anadolu",
+      "venueId": "sinema",
+      "organiser": "Kurumsal İletişim Koordinatörlüğü",
+      "category": "Festival vb. Etkinlikler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaafe6bd237.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836"
     },
     {
       "id": "dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167",
@@ -218,6 +194,18 @@
       "category": "Konferanslar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e487e3c8b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turkce-alternatif-destekleyici-iletisim-sistemi-tadis-egitimi-1794565292"
+    },
+    {
+      "id": "bir-idik-bin-olduk-edebiyat-calismalari-2-imza-toreni-1794834809",
+      "title": "Bir İdik Bin Olduk Edebiyat Çalışmaları 2\" İmza Töreni",
+      "startAt": "2026-11-20T11:00:00+03:00",
+      "endAt": "2026-11-20T12:30:00+03:00",
+      "place": "Taciser Tüfekçi Sivas Konferans Salonu",
+      "venueId": null,
+      "organiser": "Açıköğretim Fakültesi",
+      "category": "İmza Günleri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afb01749e827.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-idik-bin-olduk-edebiyat-calismalari-2-imza-toreni-1794834809"
     },
     {
       "id": "bir-idik-bin-olduk-edebiyat-toplulugu-soylesisi-1794295319",
