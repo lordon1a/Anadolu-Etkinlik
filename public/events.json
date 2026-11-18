@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-18T07:38:58.648Z",
+  "updatedAt": "2026-11-18T17:19:38.606Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -62,54 +62,6 @@
       "category": "Eğitim",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71ef681702.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-calistayi-1792483205"
-    },
-    {
-      "id": "temel-is-sagligi-ve-guvenligi-egitimi-1790938995",
-      "title": "\"Temel İş Sağlığı ve Güvenliği Eğitimi\"",
-      "startAt": "2026-11-18T08:30:00+03:00",
-      "endAt": "2026-11-18T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafa5257cdf.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/temel-is-sagligi-ve-guvenligi-egitimi-1790938995"
-    },
-    {
-      "id": "losev-tanitim-ve-farkindalik-semineri-1794210767",
-      "title": "\"LÖSEV Tanıtım ve Farkındalık Semineri\"",
-      "startAt": "2026-11-18T11:00:00+03:00",
-      "endAt": "2026-11-18T11:30:00+03:00",
-      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
-      "venueId": null,
-      "organiser": "Engelliler Entegre Yüksekokulu",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afc3fb5167da.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-tanitim-ve-farkindalik-semineri-1794210767"
-    },
-    {
-      "id": "turuncu-kurdele-atolyesi-etkinligi-1794210702",
-      "title": "\"Turuncu Kurdele Atölyesi Etkinliği\"",
-      "startAt": "2026-11-18T11:30:00+03:00",
-      "endAt": "2026-11-18T12:00:00+03:00",
-      "place": "Engelliler Entegre Yüksekokulu Çok Amaçlı Salonu",
-      "venueId": null,
-      "organiser": "Engelliler Entegre Yüksekokulu",
-      "category": "Kampanyalar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafacb2bde3.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turuncu-kurdele-atolyesi-etkinligi-1794210702"
-    },
-    {
-      "id": "prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667",
-      "title": "Prof. Hideki Kozakura \"Beyond Silence: BbYond Mozart & Ambient Works\" Konseri",
-      "startAt": "2026-11-18T17:00:00+03:00",
-      "endAt": "2026-11-18T19:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afafaad58ce7.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/prof-hideki-kozakura-beyond-silence-bbyond-mozart-and-ambient-works-konseri-1792481667"
     },
     {
       "id": "23-eskisehir-uluslararasi-film-festivali-1794565836",
@@ -276,7 +228,7 @@
       "venueId": "biltek-myo",
       "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedacfadc8b1.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9d86b3e9f.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231"
     },
     {
@@ -288,7 +240,7 @@
       "venueId": null,
       "organiser": "Anadolu Genç İHH Kulübü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e4c6f17bd.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9d3811491.png",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kolaj-etkinligi-1794565353"
     },
     {
@@ -300,7 +252,7 @@
       "venueId": "biltek-myo",
       "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedad24ebfd4.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e8519de4.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274"
     },
     {
@@ -312,7 +264,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Eğitim Fakültesi",
       "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa157b4e2daf.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9ebfd48d4.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-egitim-forumu-1788958693"
     },
     {
@@ -324,7 +276,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71a7fd83ce.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e1498db3.png",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/semih-tercan-sinif-konseri-1792481942"
     },
     {
@@ -336,7 +288,7 @@
       "venueId": "biltek-myo",
       "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedad4dc52dd.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda0813bd7d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312"
     },
     {
@@ -348,7 +300,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aaa93f11bb1d.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9efdccd6f.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946"
     },
     {
@@ -360,7 +312,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71ab4d06ed.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f174e5fa.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozlem-sumer-keman-sinif-konseri-1792481995"
     },
     {
@@ -372,7 +324,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Personel Daire Başkanlığı",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6abf8e36ecd43.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f6a0117b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708"
     },
     {
@@ -384,7 +336,7 @@
       "venueId": "biltek-myo",
       "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedad7657555.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e59f3c1a.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961385"
     },
     {
@@ -396,7 +348,7 @@
       "venueId": null,
       "organiser": "Sağlık Bilimleri Fakültesi",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ae84d7a89b1e.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9fd5f0964.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-fayda-projesi-1793609099"
     },
     {
@@ -408,8 +360,20 @@
       "venueId": null,
       "organiser": "DİLKOM",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e43022a91.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f3804900.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ses-bozukluklarinda-degerlendirme-ve-terapide-klinik-uygulamalar-1794565202"
+    },
+    {
+      "id": "icimdeki-cocuk-anlatiyor-1794999122",
+      "title": "\"İçimdeki Çocuk Anlatıyor\"",
+      "startAt": "2026-11-26T14:00:00+03:00",
+      "endAt": "2026-11-26T16:00:00+03:00",
+      "place": "Prof. Dr. Şefik Yaşar Konferans Salonu",
+      "venueId": null,
+      "organiser": "Eğitim Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd830c90ca9.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/icimdeki-cocuk-anlatiyor-1794999122"
     },
     {
       "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
@@ -420,7 +384,7 @@
       "venueId": null,
       "organiser": "Edebiyat Fakültesi",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35b8daa1be.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda013af03a.png",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-cocuk-kitabi-cocuga-ne-soyler-1791187893"
     },
     {
@@ -432,7 +396,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71aed90370.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9ff0a532a.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cagdas-alapinar-gencay-sinif-konseri-1792482052"
     },
     {
@@ -444,7 +408,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6af3fb3f715.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda03006119.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/24-kasim-ogretmenler-gunu-konseri-1785394201"
     },
     {
@@ -468,7 +432,7 @@
       "venueId": "biltek-myo",
       "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaccc82c01.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9da406e64.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961185"
     },
     {
@@ -806,6 +770,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a6aece9a2ffc.JPG",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/genclik-senfoni-orkestrasi-konseri-1785392431"
+    },
+    {
+      "id": "kadin-haklari-konferans-1794999254",
+      "title": "\"Kadın Hakları Konferans\"",
+      "startAt": "2026-12-11T13:00:00+03:00",
+      "endAt": "2026-12-11T16:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Siyasal Bilimler Kulübü",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd83b81af48.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kadin-haklari-konferans-1794999254"
     },
     {
       "id": "comweek11-1781008112",
