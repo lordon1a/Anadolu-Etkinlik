@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-19T00:28:57.025Z",
+  "updatedAt": "2026-11-19T10:28:01.438Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -12,7 +12,7 @@
       "venueId": null,
       "organiser": "Yunus Emre Yazı Sanatları Müzesi",
       "category": "Sergiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afea1e852dd1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
     },
     {
@@ -36,7 +36,7 @@
       "venueId": "kyk-bankamatikler",
       "organiser": "İletişim Kulübü",
       "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb486d675ab.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afea3835a0f5.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/iletisim-kulubu-tanitim-standi-1792755855"
     },
     {
@@ -74,18 +74,6 @@
       "category": "Festival vb. Etkinlikler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaafe6bd237.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836"
-    },
-    {
-      "id": "dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167",
-      "title": "\"Dil ve Konuşma Terapisinde Kariyer: Dernek Temsilciliği ve Klinik Yönetimi\"",
-      "startAt": "2026-11-19T11:30:00+03:00",
-      "endAt": "2026-11-19T12:30:00+03:00",
-      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
-      "venueId": null,
-      "organiser": "Sağlık Bilimleri Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd4644a13c5.jpeg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-dernek-temsilciligi-ve-klinik-yonetimi-1793609167"
     },
     {
       "id": "gestasyonel-diyabet-ve-beslenme-1793355708",
@@ -372,7 +360,7 @@
       "venueId": null,
       "organiser": "Eğitim Fakültesi",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd830c90ca9.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9ff59aa4a.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/icimdeki-cocuk-anlatiyor-1794999122"
     },
     {
@@ -444,7 +432,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b2be7a18.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8cd4dd9dc.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ahmet-fatih-demir-gitar-resitali-1792482124"
     },
     {
@@ -456,7 +444,7 @@
       "venueId": null,
       "organiser": "Edebiyat Fakültesi",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac35bde7bf6a.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8d394ed5e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959"
     },
     {
@@ -468,7 +456,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Toplumsal Katkı Koordinatörlüğü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e511e40e8.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8c9921a8d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijitalde-var-olmak-veri-riskleri-ve-guvenligi-1794565427"
     },
     {
@@ -480,7 +468,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71b71bd420.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8d75015dc.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199"
     },
     {
@@ -492,7 +480,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71bc6665b7.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8dacf25d5.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267"
     },
     {
@@ -504,7 +492,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c059d263.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8e5869683.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339"
     },
     {
@@ -516,7 +504,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Kariyer Kulübü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6a324ddbb8bdd.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8e136b3d3.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kisisel-gelisim-zirvesi-1781681697"
     },
     {
@@ -528,7 +516,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71c60af000.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9e6d8ae19.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563"
     },
     {
@@ -540,7 +528,7 @@
       "venueId": "kyk-bankamatikler",
       "organiser": "Marketing Anadolu Kulübü",
       "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb47e462976.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9ee559f29.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/marketing-anadolu-kulup-tanitim-standi-1792755781"
     },
     {
@@ -552,7 +540,7 @@
       "venueId": "turizm",
       "organiser": "Gastronomi Kulübü",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e33da9304.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9f0283322.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/sushi-workshop-1794564964"
     },
     {
@@ -564,7 +552,7 @@
       "venueId": "turizm",
       "organiser": "Turizm Fakültesi",
       "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af6e74a23a23.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9e99e7e6e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/8-turizm-fakultesi-kariyer-gunu-etkinligi-1794566022"
     },
     {
@@ -576,7 +564,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Açıköğretim Fakültesi",
       "category": "Toplantılar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab67b6700a1d.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9ec356607.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/acikogretim-fakultesi-guz-donemi-ara-sinav-toplantisi-1790344068"
     },
     {
@@ -588,7 +576,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad71d3273d27.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9f1b63fef.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
@@ -888,7 +876,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Eskişehir Mevlevihanesi Kültür Derneği Sema ve Tasavvuf Musi",
       "category": "Törenler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ac357e4a5e9d.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afea1e852dd1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/hz-mevlananin-819-seb-i-arus-vuslat-yildonumu-sema-toreni-1770119664"
     },
     {
