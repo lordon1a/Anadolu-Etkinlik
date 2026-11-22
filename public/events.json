@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-22T12:40:45.902Z",
+  "updatedAt": "2026-11-22T20:46:12.671Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -50,18 +50,6 @@
       "category": "Festival vb. Etkinlikler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaafe6bd237.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836"
-    },
-    {
-      "id": "cmyk-medya-gunleri19-1790258723",
-      "title": "\"CMYK Medya Günleri'19\"",
-      "startAt": "2026-11-21T10:00:00+03:00",
-      "endAt": "2026-11-22T18:00:00+03:00",
-      "place": "Öğrenci Merkezi Yunus Emre Salonu ve Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "İletişim Kulübü",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd45128196f.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cmyk-medya-gunleri19-1790258723"
     },
     {
       "id": "kariyer-kulubu-tanitim-standi-1795181105",
@@ -1442,6 +1430,18 @@
       "category": "Toplantılar",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab67adedb496.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/acikogretim-fakultesi-guz-donemi-donem-sonu-sinav-toplantisi-1790343930"
+    },
+    {
+      "id": "turk-halk-muzigi-personel-korosu-1793961899",
+      "title": "\"Türk Halk Müziği Personel Korosu\"",
+      "startAt": "2027-01-12T20:00:00+03:00",
+      "endAt": "2027-01-12T21:30:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Halk Bilimi Uygulama ve Araştırma Merkezi",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaf85c8d1e.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-personel-korosu-1793961899"
     }
   ]
 }
