@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-23T02:53:41.042Z",
+  "updatedAt": "2026-11-23T14:49:06.584Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -14,18 +14,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afea1e852dd1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dunya-gozuyle-yunus-emre-1791186999"
-    },
-    {
-      "id": "milli-mucadeleden-cumhuriyet-1792756243",
-      "title": "\"Milli Mücadeleden Cumhuriyet\"",
-      "startAt": "2026-11-09T13:00:00+03:00",
-      "endAt": "2026-11-23T17:30:00+03:00",
-      "place": "Eğitim Karikatürleri Müzesi",
-      "venueId": null,
-      "organiser": "Karikatür Sanatını Araştırma ve Uygulama Merkezi",
-      "category": "Sergiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afed0b888011.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/milli-mucadeleden-cumhuriyet-1792756243"
     },
     {
       "id": "18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401",
@@ -62,54 +50,6 @@
       "category": "Tanıtım Aktiviteleri",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a0aae40d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
-    },
-    {
-      "id": "deniz-mahsullu-risotto-workshop-1794565052",
-      "title": "\"Deniz Mahsullü Risotto Workshop\"",
-      "startAt": "2026-11-23T09:00:00+03:00",
-      "endAt": "2026-11-23T13:00:00+03:00",
-      "place": "Turizm Fakültesi Uygulama Mutfağı",
-      "venueId": "turizm",
-      "organiser": "Gastronomi Kulübü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd495726c98.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/deniz-mahsullu-risotto-workshop-1794565052"
-    },
-    {
-      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231",
-      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
-      "startAt": "2026-11-23T10:00:00+03:00",
-      "endAt": "2026-11-23T15:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9d86b3e9f.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961231"
-    },
-    {
-      "id": "kariyer-yolculugum-insan-kaynaklari-1795159310",
-      "title": "\"Kariyer Yolculuğum: İnsan Kaynakları\"",
-      "startAt": "2026-11-23T13:00:00+03:00",
-      "endAt": "2026-11-23T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "İşletme ve Ekonomi Kulübü",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0006239632e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-yolculugum-insan-kaynaklari-1795159310"
-    },
-    {
-      "id": "kolaj-etkinligi-1794565353",
-      "title": "\"Kolaj Etkinliği\"",
-      "startAt": "2026-11-23T14:00:00+03:00",
-      "endAt": "2026-11-23T16:00:00+03:00",
-      "place": "Genç Ofis",
-      "venueId": null,
-      "organiser": "Anadolu Genç İHH Kulübü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9d3811491.png",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kolaj-etkinligi-1794565353"
     },
     {
       "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274",
@@ -254,6 +194,30 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9ff59aa4a.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/icimdeki-cocuk-anlatiyor-1794999122"
+    },
+    {
+      "id": "turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545",
+      "title": "\"Türk Kültürünün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi\"",
+      "startAt": "2026-11-26T14:00:00+03:00",
+      "endAt": "2026-11-26T16:00:00+03:00",
+      "place": "Halk Bilimi Araştırma ve Uygulama Merkezi Faris Akarsu Konser Salonu",
+      "venueId": null,
+      "organiser": "Türk Dünyası Uygulama ve Araştırma Merkezi",
+      "category": "Söyleşiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b042ce92b1cf.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545"
+    },
+    {
+      "id": "turk-kulturununun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795418257",
+      "title": "\"Türk Kültürününün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi\"",
+      "startAt": "2026-11-26T14:00:00+03:00",
+      "endAt": "2026-11-26T17:00:00+03:00",
+      "place": "Faris Akarsu Konser Salonu",
+      "venueId": null,
+      "organiser": "Türk Dünyası Uygulama ve Araştırma Merkezi",
+      "category": "Söyleşiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e85f3de98.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturununun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795418257"
     },
     {
       "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
@@ -600,7 +564,7 @@
       "venueId": null,
       "organiser": "Edebiyat Fakültesi",
       "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee5a99ca8a.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b04368c34144.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yunusun-izinde-yurumek-yunus-emre-divaninin-tenkitli-basimi-nasil-yapildi-1794897086"
     },
     {
@@ -1120,6 +1084,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/eren-yahsi-sinif-konseri-1795160184"
     },
     {
+      "id": "ayniyat-ve-tasinir-islemleri-egitim-1795418348",
+      "title": "\"Ayniyat ve Taşınır İşlemleri Eğitim\"",
+      "startAt": "2026-12-22T09:00:00+03:00",
+      "endAt": "2026-12-26T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Personel Daire Başkanlığı",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e8cccf380.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ayniyat-ve-tasinir-islemleri-egitim-1795418348"
+    },
+    {
       "id": "ezgi-gonlum-yalin-sinif-konseri-1795160147",
       "title": "Ezgi Gönlüm Yalın ''Sınıf Konseri''",
       "startAt": "2026-12-22T16:00:00+03:00",
@@ -1344,7 +1320,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afff59f9eca3.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b04455da6594.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ve-piyano-ana-sanat-dali-ogrencileri-oda-muzigi-konseri-2-1795159477"
     },
     {
@@ -1442,6 +1418,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaf85c8d1e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-personel-korosu-1793961899"
+    },
+    {
+      "id": "anadolu-universitesi-2026-2027-akademik-yili-bahar-donemi-acilis-konseri-1785393949",
+      "title": "\"Anadolu Üniversitesi 2026-2027 Akademik Yılı Bahar Dönemi Açılış Konseri\"",
+      "startAt": "2027-02-18T19:00:00+03:00",
+      "endAt": "2027-02-18T21:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Devlet Konservatuvarı",
+      "category": "Konser ve Dinletiler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b044234cab4b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-universitesi-2026-2027-akademik-yili-bahar-donemi-acilis-konseri-1785393949"
     }
   ]
 }
