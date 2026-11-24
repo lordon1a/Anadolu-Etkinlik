@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-24T02:57:14.307Z",
+  "updatedAt": "2026-11-24T14:57:35.908Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -48,32 +48,8 @@
       "venueId": "kyk-bankamatikler",
       "organiser": "Kariyer Kulübü",
       "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b004a0aae40d.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
-    },
-    {
-      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274",
-      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
-      "startAt": "2026-11-24T10:00:00+03:00",
-      "endAt": "2026-11-24T15:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e8519de4.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961274"
-    },
-    {
-      "id": "basogretmen-ataturk-portreleri-ogrenci-sergisi-1795159373",
-      "title": "\"Başöğretmen Atatürk Portreleri\" Öğrenci Sergisi",
-      "startAt": "2026-11-24T11:00:00+03:00",
-      "endAt": "2026-11-24T17:00:00+03:00",
-      "place": "Öğrenci Merkezi Fuaye Alanı",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Engelliler Entegre Yüksekokulu",
-      "category": "Sergiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0049ef4d17a.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/basogretmen-ataturk-portreleri-ogrenci-sergisi-1795159373"
     },
     {
       "id": "anadolu-egitim-forumu-1788958693",
@@ -122,6 +98,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9efdccd6f.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946"
+    },
+    {
+      "id": "kapsayici-ve-surdurulebilir-bir-mekan-mumkun-mu-mekan-sosyolojisinden-yas-dostu-1795503264",
+      "title": "\"Kapsayıcı ve Sürdürülebilir Bir Mekan Mümkün mü? Mekan Sosyolojisinden Yaş Dostu Havalimanına\"",
+      "startAt": "2026-11-25T18:00:00+03:00",
+      "endAt": "2026-11-25T20:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Edebiyat Fakültesi",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0540cd66f52.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kapsayici-ve-surdurulebilir-bir-mekan-mumkun-mu-mekan-sosyolojisinden-yas-dostu-1795503264"
     },
     {
       "id": "ozlem-sumer-keman-sinif-konseri-1792481995",
@@ -206,18 +194,6 @@
       "category": "Söyleşiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b042ce92b1cf.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545"
-    },
-    {
-      "id": "turk-kulturununun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795418257",
-      "title": "\"Türk Kültürününün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi\"",
-      "startAt": "2026-11-26T14:00:00+03:00",
-      "endAt": "2026-11-26T17:00:00+03:00",
-      "place": "Faris Akarsu Konser Salonu",
-      "venueId": null,
-      "organiser": "Türk Dünyası Uygulama ve Araştırma Merkezi",
-      "category": "Söyleşiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e85f3de98.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturununun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795418257"
     },
     {
       "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
@@ -448,6 +424,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
+      "id": "basari-belgeleri-toreni-1795503513",
+      "title": "\"Başarı Belgeleri Töreni\"",
+      "startAt": "2026-12-01T14:00:00+03:00",
+      "endAt": "2026-12-01T15:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre ve Fuaye Alanı",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Yunus Emre Sağlık Hizmetleri Meslek Yüksekokulu",
+      "category": "Törenler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05403a29fe4.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/basari-belgeleri-toreni-1795503513"
+    },
+    {
       "id": "hukuta-cocuk-1794564721",
       "title": "\"Hukukta Çocuk\"",
       "startAt": "2026-12-01T14:00:00+03:00",
@@ -578,6 +566,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee5c57aa28.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tiyatrolar-ve-stadionlar-yarismalar-gosteriler-ve-festivaller-1791188032"
+    },
+    {
+      "id": "abnin-gelecegi-ve-turkiye-1795529431",
+      "title": "\"AB'nin Geleceği ve Türkiye\"",
+      "startAt": "2026-12-04T14:00:00+03:00",
+      "endAt": "2026-12-04T16:00:00+03:00",
+      "place": "Özdilek Sanat Merkezi",
+      "venueId": null,
+      "organiser": "İletişim Bilimleri Fakültesi",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b059a514af71.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/abnin-gelecegi-ve-turkiye-1795529431"
     },
     {
       "id": "emre-hopa-fagot-ve-oda-muzigi-konseri-1795163857",
@@ -1087,12 +1087,12 @@
       "id": "ayniyat-ve-tasinir-islemleri-egitim-1795418348",
       "title": "\"Ayniyat ve Taşınır İşlemleri Eğitim\"",
       "startAt": "2026-12-22T09:00:00+03:00",
-      "endAt": "2026-12-26T17:00:00+03:00",
+      "endAt": "2026-12-22T17:00:00+03:00",
       "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
       "venueId": "ogrenci-merkezi",
       "organiser": "Personel Daire Başkanlığı",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b03e8cccf380.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05409257f42.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ayniyat-ve-tasinir-islemleri-egitim-1795418348"
     },
     {
@@ -1332,7 +1332,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Yaşlılık Çalışmaları Uygulama ve Araştırma Müdürlüğü",
       "category": "Sergiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa15afa4f086.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b053fb980c61.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/mandala-sergisi-1788959527"
     },
     {
@@ -1344,7 +1344,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Halk Bilimi Uygulama ve Araştırma Merkezi",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaed7e1591.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0533968f43d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-sanat-muzigi-korosu-konseri-1793961731"
     },
     {
@@ -1356,7 +1356,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Yaşlılık Çalışmaları Uygulama ve Araştırma Müdürlüğü",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb4ab66e5ca.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0533df8ba87.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/halk-muzigi-konseri-1792756446"
     },
     {
@@ -1368,7 +1368,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Personel Daire Başkanlığı",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afff44db842a.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05347b2810e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tahakkuk-islemleri-egitimi-1795159155"
     },
     {
@@ -1380,7 +1380,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Yaşlılık Çalışmaları Uygulama ve Araştırma Müdürlüğü",
       "category": "Şenlik",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aa15868b5a67.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05345b5a9d1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/8-tazelenme-soleni-1788958875"
     },
     {
@@ -1392,7 +1392,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Personel Daire Başkanlığı",
       "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6adb4a7231137.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b05349f4fc48.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/halk-sagligini-olumsuz-etkileyebilecek-bulasici-hastaliklar-ve-korunma-yollari-1792756379"
     },
     {
@@ -1404,7 +1404,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Açıköğretim Fakültesi",
       "category": "Toplantılar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ab67adedb496.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0534d32558e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/acikogretim-fakultesi-guz-donemi-donem-sonu-sinav-toplantisi-1790343930"
     },
     {
@@ -1416,7 +1416,7 @@
       "venueId": "ogrenci-merkezi",
       "organiser": "Halk Bilimi Uygulama ve Araştırma Merkezi",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aedaf85c8d1e.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0535099b04c.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-personel-korosu-1793961899"
     },
     {
