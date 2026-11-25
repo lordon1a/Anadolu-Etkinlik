@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-24T14:57:35.908Z",
+  "updatedAt": "2026-11-25T00:50:43.367Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -50,30 +50,6 @@
       "category": "Tanıtım Aktiviteleri",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
-    },
-    {
-      "id": "anadolu-egitim-forumu-1788958693",
-      "title": "\"Anadolu Eğitim Forumu\"",
-      "startAt": "2026-11-24T14:00:00+03:00",
-      "endAt": "2026-11-24T18:00:00+03:00",
-      "place": "ğrenci Merkezi Yunus Emre Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Eğitim Fakültesi",
-      "category": "Konferanslar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9ebfd48d4.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-egitim-forumu-1788958693"
-    },
-    {
-      "id": "semih-tercan-sinif-konseri-1792481942",
-      "title": "Semih Tercan \"Sınıf Konseri\"",
-      "startAt": "2026-11-24T19:00:00+03:00",
-      "endAt": "2026-11-24T20:30:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e1498db3.png",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/semih-tercan-sinif-konseri-1792481942"
     },
     {
       "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312",
