@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-25T11:25:49.198Z",
+  "updatedAt": "2026-11-25T21:47:55.627Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -50,54 +50,6 @@
       "category": "Tanıtım Aktiviteleri",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
-    },
-    {
-      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312",
-      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
-      "startAt": "2026-11-25T10:00:00+03:00",
-      "endAt": "2026-11-25T15:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda0813bd7d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961312"
-    },
-    {
-      "id": "verimli-ders-calisma-ve-zaman-yonetimi-1789563946",
-      "title": "\"Verimli Ders Çalışma ve Zaman Yönetimi\"",
-      "startAt": "2026-11-25T14:00:00+03:00",
-      "endAt": "2026-11-25T15:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Psikolojik Danışma ve Rehberlik Merkezi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9efdccd6f.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/verimli-ders-calisma-ve-zaman-yonetimi-1789563946"
-    },
-    {
-      "id": "kapsayici-ve-surdurulebilir-bir-mekan-mumkun-mu-mekan-sosyolojisinden-yas-dostu-1795503264",
-      "title": "\"Kapsayıcı ve Sürdürülebilir Bir Mekan Mümkün mü? Mekan Sosyolojisinden Yaş Dostu Havalimanına\"",
-      "startAt": "2026-11-25T18:00:00+03:00",
-      "endAt": "2026-11-25T20:00:00+03:00",
-      "place": "Çevrimiçi",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0540cd66f52.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kapsayici-ve-surdurulebilir-bir-mekan-mumkun-mu-mekan-sosyolojisinden-yas-dostu-1795503264"
-    },
-    {
-      "id": "ozlem-sumer-keman-sinif-konseri-1792481995",
-      "title": "Özlem Sümer ''Keman Sınıf Konseri ''",
-      "startAt": "2026-11-25T19:00:00+03:00",
-      "endAt": "2026-11-25T20:30:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f174e5fa.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozlem-sumer-keman-sinif-konseri-1792481995"
     },
     {
       "id": "odul-yonergesi-ve-performans-sistemi-1790938708",
