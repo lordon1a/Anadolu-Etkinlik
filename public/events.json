@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-26T13:59:25.175Z",
+  "updatedAt": "2026-11-26T23:03:12.896Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -28,18 +28,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401"
     },
     {
-      "id": "23-eskisehir-uluslararasi-film-festivali-1794565836",
-      "title": "\"23. Eskişehir Uluslararası Film Festivali\"",
-      "startAt": "2026-11-19T09:00:00+03:00",
-      "endAt": "2026-11-27T00:00:00+03:00",
-      "place": "Sinema Anadolu",
-      "venueId": "sinema",
-      "organiser": "Kurumsal İletişim Koordinatörlüğü",
-      "category": "Festival vb. Etkinlikler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afaafe6bd237.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/23-eskisehir-uluslararasi-film-festivali-1794565836"
-    },
-    {
       "id": "kariyer-kulubu-tanitim-standi-1795181105",
       "title": "\"Kariyer Kulübü Tanıtım Standı\"",
       "startAt": "2026-11-23T08:30:00+03:00",
@@ -50,18 +38,6 @@
       "category": "Tanıtım Aktiviteleri",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
-    },
-    {
-      "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
-      "title": "\"Bir Çocuk Kitabı Çocuğa Ne Söyler?\"",
-      "startAt": "2026-11-26T15:00:00+03:00",
-      "endAt": "2026-11-26T17:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda013af03a.png",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-cocuk-kitabi-cocuga-ne-soyler-1791187893"
     },
     {
       "id": "donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554",
