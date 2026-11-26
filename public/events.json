@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-26T04:12:35.573Z",
+  "updatedAt": "2026-11-26T13:59:25.175Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -52,78 +52,6 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
     },
     {
-      "id": "odul-yonergesi-ve-performans-sistemi-1790938708",
-      "title": "\"Ödül Yönergesi ve Performans Sistemi\"",
-      "startAt": "2026-11-26T10:00:00+03:00",
-      "endAt": "2026-11-26T12:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Personel Daire Başkanlığı",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f6a0117b.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/odul-yonergesi-ve-performans-sistemi-1790938708"
-    },
-    {
-      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961385",
-      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
-      "startAt": "2026-11-26T10:00:00+03:00",
-      "endAt": "2026-11-26T15:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9e59f3c1a.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961385"
-    },
-    {
-      "id": "losev-fayda-projesi-1793609099",
-      "title": "\"LÖSEV Fayda Projesi\"",
-      "startAt": "2026-11-26T11:30:00+03:00",
-      "endAt": "2026-11-26T12:30:00+03:00",
-      "place": "Sağlık Bilimleri Fakültesi Seminer Salonu",
-      "venueId": null,
-      "organiser": "Sağlık Bilimleri Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9fd5f0964.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/losev-fayda-projesi-1793609099"
-    },
-    {
-      "id": "ses-bozukluklarinda-degerlendirme-ve-terapide-klinik-uygulamalar-1794565202",
-      "title": "\"Ses Bozukluklarında Değerlendirme ve Terapide Klinik Uygulamalar\"",
-      "startAt": "2026-11-26T14:00:00+03:00",
-      "endAt": "2026-11-26T16:00:00+03:00",
-      "place": "Prof. Dr. Seyhun Topbaş Seminer Salonu",
-      "venueId": null,
-      "organiser": "DİLKOM",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9f3804900.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ses-bozukluklarinda-degerlendirme-ve-terapide-klinik-uygulamalar-1794565202"
-    },
-    {
-      "id": "icimdeki-cocuk-anlatiyor-1794999122",
-      "title": "\"İçimdeki Çocuk Anlatıyor\"",
-      "startAt": "2026-11-26T14:00:00+03:00",
-      "endAt": "2026-11-26T16:00:00+03:00",
-      "place": "Prof. Dr. Şefik Yaşar Konferans Salonu",
-      "venueId": null,
-      "organiser": "Eğitim Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9ff59aa4a.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/icimdeki-cocuk-anlatiyor-1794999122"
-    },
-    {
-      "id": "turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545",
-      "title": "\"Türk Kültürünün Çizgi Romancısı Bahattin ATAK ile Söyleşi ve Sergi\"",
-      "startAt": "2026-11-26T14:00:00+03:00",
-      "endAt": "2026-11-26T16:00:00+03:00",
-      "place": "Halk Bilimi Araştırma ve Uygulama Merkezi Faris Akarsu Konser Salonu",
-      "venueId": null,
-      "organiser": "Türk Dünyası Uygulama ve Araştırma Merkezi",
-      "category": "Söyleşiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b042ce92b1cf.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-kulturunun-cizgi-romancisi-bahattin-atak-ile-soylesi-ve-sergi-1795417545"
-    },
-    {
       "id": "bir-cocuk-kitabi-cocuga-ne-soyler-1791187893",
       "title": "\"Bir Çocuk Kitabı Çocuğa Ne Söyler?\"",
       "startAt": "2026-11-26T15:00:00+03:00",
@@ -134,18 +62,6 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afda013af03a.png",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-cocuk-kitabi-cocuga-ne-soyler-1791187893"
-    },
-    {
-      "id": "cagdas-alapinar-gencay-sinif-konseri-1792482052",
-      "title": "Çağdaş Alapınar Gençay ''Sınıf Konseri''",
-      "startAt": "2026-11-26T19:00:00+03:00",
-      "endAt": "2026-11-26T20:00:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9ff0a532a.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cagdas-alapinar-gencay-sinif-konseri-1792482052"
     },
     {
       "id": "donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554",
@@ -180,7 +96,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8cd4dd9dc.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d45cdcd3e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ahmet-fatih-demir-gitar-resitali-1792482124"
     },
     {
@@ -209,14 +125,14 @@
     },
     {
       "id": "es-es-tayfa-gitar-uclusu-1792482199",
-      "title": "\"Es Es Tayfa Gitar Üçlüsü\"",
+      "title": "\"Gitar Üçlüsü Konseri\"",
       "startAt": "2026-11-27T15:00:00+03:00",
       "endAt": "2026-11-27T15:45:00+03:00",
       "place": "Koral Çalgan Salonu",
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8d75015dc.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4a3ac330.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199"
     },
     {
@@ -228,7 +144,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8dacf25d5.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4ca78fdd.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267"
     },
     {
@@ -240,7 +156,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8e5869683.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4eb2d54d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339"
     },
     {
@@ -264,7 +180,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9e6d8ae19.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d50ba14c7.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/emel-asuman-onen-ezgi-nihan-uzunonat-viyolonsel-sinif-konseri-1792482563"
     },
     {
@@ -336,7 +252,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe9f1b63fef.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0817bb293ba.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
