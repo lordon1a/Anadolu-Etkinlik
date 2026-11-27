@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-27T08:44:58.784Z",
+  "updatedAt": "2026-11-27T19:30:51.594Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -26,114 +26,6 @@
       "category": "Sergiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6af41909d021f.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/18-uluslararasi-anadolu-kaligrafi-tipografi-festivali-yunus-emre-sergisi-1792483401"
-    },
-    {
-      "id": "kariyer-kulubu-tanitim-standi-1795181105",
-      "title": "\"Kariyer Kulübü Tanıtım Standı\"",
-      "startAt": "2026-11-23T08:30:00+03:00",
-      "endAt": "2026-11-27T17:00:00+03:00",
-      "place": "KYK ve Bankamatikler önü",
-      "venueId": "kyk-bankamatikler",
-      "organiser": "Kariyer Kulübü",
-      "category": "Tanıtım Aktiviteleri",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0574bc3d7f5.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kariyer-kulubu-tanitim-standi-1795181105"
-    },
-    {
-      "id": "donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554",
-      "title": "\"Döngüyü Kırmak: Fark Et, Güçlen, Yeniden Başla\"",
-      "startAt": "2026-11-27T10:00:00+03:00",
-      "endAt": "2026-11-27T15:00:00+03:00",
-      "place": "İletişim Bilimleri Fakültesi Yeni Medya ve İletişim Bölümü 4. Kat Lisansüstü Toplantı Salonu",
-      "venueId": null,
-      "organiser": "Kadın ve aile Çalışmaları Uygulama ve Araştırma Merkezi",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6ad8a3a2b1865.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/donguyu-kirmak-fark-et-guclen-yeniden-basla-1792569554"
-    },
-    {
-      "id": "afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961185",
-      "title": "\"Afet ve Acil Durumlarda Hareket Tarzı, Sivil Savunma, Yangın ve KBRN (Kimyasal, Biyolojik; Radyolojik ve Nükleer) Eğitimi\"",
-      "startAt": "2026-11-27T10:00:00+03:00",
-      "endAt": "2026-11-27T15:00:00+03:00",
-      "place": "Bilişim Teknolojileri Meslek Yüksekokulu Konferans Salonu",
-      "venueId": "biltek-myo",
-      "organiser": "İş Sağlığı ve Güvenliği Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afd9da406e64.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/afet-ve-acil-durumlarda-hareket-tarzi-sivil-savunma-yangin-ve-kbrn-kimyasal-1793961185"
-    },
-    {
-      "id": "ahmet-fatih-demir-gitar-resitali-1792482124",
-      "title": "Ahmet Fatih Demir \"Gitar Resitali\"",
-      "startAt": "2026-11-27T13:00:00+03:00",
-      "endAt": "2026-11-27T13:45:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d45cdcd3e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ahmet-fatih-demir-gitar-resitali-1792482124"
-    },
-    {
-      "id": "bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959",
-      "title": "\"Bir Bizans Sınır Kalesinin Hikayesi: Harmantepe\"",
-      "startAt": "2026-11-27T14:00:00+03:00",
-      "endAt": "2026-11-27T16:00:00+03:00",
-      "place": "Prof. Dr. Taciser Tüfekçi SİVAS Konferans Salonu",
-      "venueId": null,
-      "organiser": "Edebiyat Fakültesi",
-      "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8d394ed5e.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/bir-bizans-sinir-kalesinin-hikayesi-harmantepe-1791187959"
-    },
-    {
-      "id": "dijitalde-var-olmak-veri-riskleri-ve-guvenligi-1794565427",
-      "title": "\"Dijitalde Var Olmak: Veri Riskleri ve Güvenliği\"",
-      "startAt": "2026-11-27T14:00:00+03:00",
-      "endAt": "2026-11-27T16:00:00+03:00",
-      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
-      "venueId": "ogrenci-merkezi",
-      "organiser": "Toplumsal Katkı Koordinatörlüğü",
-      "category": "Eğitim",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afe8c9921a8d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dijitalde-var-olmak-veri-riskleri-ve-guvenligi-1794565427"
-    },
-    {
-      "id": "es-es-tayfa-gitar-uclusu-1792482199",
-      "title": "\"Gitar Üçlüsü Konseri\"",
-      "startAt": "2026-11-27T15:00:00+03:00",
-      "endAt": "2026-11-27T15:45:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4a3ac330.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/es-es-tayfa-gitar-uclusu-1792482199"
-    },
-    {
-      "id": "ozan-akcay-gitar-resitali-1792482267",
-      "title": "Ozan Akçay \"Gitar Resitali\"",
-      "startAt": "2026-11-27T17:00:00+03:00",
-      "endAt": "2026-11-27T17:45:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4ca78fdd.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozan-akcay-gitar-resitali-1792482267"
-    },
-    {
-      "id": "tarik-codri-gitar-resitali-1792482339",
-      "title": "Tarık Çodri \"Gitar Resitali\"",
-      "startAt": "2026-11-27T19:00:00+03:00",
-      "endAt": "2026-11-27T20:10:00+03:00",
-      "place": "Koral Çalgan Salonu",
-      "venueId": "salon-2003",
-      "organiser": "Devlet Konservatuvarı",
-      "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b07d4eb2d54d.jpg",
-      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tarik-codri-gitar-resitali-1792482339"
     },
     {
       "id": "kisisel-gelisim-zirvesi-1781681697",
@@ -232,6 +124,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yayli-calgilar-ana-sanat-dali-ilkogretim-lise-konseri-1792482637"
     },
     {
+      "id": "kan-bagis-organizaysonu-1795784789",
+      "title": "\"Kan Bağış Organizaysonu\"",
+      "startAt": "2026-12-01T09:00:00+03:00",
+      "endAt": "2026-12-01T17:00:00+03:00",
+      "place": "Merkez Yemekhane Önü",
+      "venueId": null,
+      "organiser": "Kızılay Kan Bağış Merkezi",
+      "category": "Kampanyalar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b098ae0c40be.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kan-bagis-organizaysonu-1795784789"
+    },
+    {
       "id": "basari-belgeleri-toreni-1795503513",
       "title": "\"Başarı Belgeleri Töreni\"",
       "startAt": "2026-12-01T14:00:00+03:00",
@@ -312,7 +216,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093e9a914cb.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b097260bf956.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kamu-yonetiminde-dijital-donusum-anayasa-mahkemesinin-yapay-zeka-deneyimi-1795767979"
     },
     {
@@ -362,6 +266,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6afee5e0345f1.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/staj-hikayem-1794210963"
+    },
+    {
+      "id": "yapay-zeka-ve-insanligin-gelecegi-2-1795785604",
+      "title": "\"Yapay Zeka ve İnsanlığın Geleceği 2\"",
+      "startAt": "2026-12-04T09:00:00+03:00",
+      "endAt": "2026-12-05T18:00:00+03:00",
+      "place": "Öğrenci Merkezi Nasrettin Hoca Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Anadolu Üniversitesi, Cihannüma, Tekder",
+      "category": "Eğitim",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0982598ebb9.jpeg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/yapay-zeka-ve-insanligin-gelecegi-2-1795785604"
     },
     {
       "id": "yunusun-izinde-yurumek-yunus-emre-divaninin-tenkitli-basimi-nasil-yapildi-1794897086",
@@ -472,6 +388,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozge-guncan-piyano-sinif-konseri-1795163773"
     },
     {
+      "id": "tanitim-standi-1795780428",
+      "title": "\"Tanıtım Standı\"",
+      "startAt": "2026-12-07T09:00:00+03:00",
+      "endAt": "2026-12-11T17:00:00+03:00",
+      "place": "KYK ve Bankamatikler Önü",
+      "venueId": "kyk-bankamatikler",
+      "organiser": "Sosyal Medya Kulübü",
+      "category": "Tanıtım Aktiviteleri",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b096f2f24a49.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/tanitim-standi-1795780428"
+    },
+    {
       "id": "goknil-ozkok-sezener-ve-evren-buyukburc-erol-viola-ve-piyano-resitali-1795163726",
       "title": "Göknil Özkök Sezener ve Evren Büyükburç Erol \"Viola ve Piyano Resitali\"",
       "startAt": "2026-12-07T18:00:00+03:00",
@@ -516,7 +444,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093e5718405.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b097326412a3.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/akademik-metin-yazimi-ve-cevirisinde-yapay-zeka-kullanimi-demokratiklesme-mi-1795767916"
     },
     {
@@ -684,7 +612,7 @@
       "venueId": "emyo",
       "organiser": "Kalite Kulübü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b09418ad2c26.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b09739969f97.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kalite-ogrencinin-de-isidir-1795768749"
     },
     {
@@ -768,7 +696,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093dfd7d1ca.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0974d8a8769.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/lisansustu-egitimde-uretken-yapay-zekanin-akademik-calismalarda-etkili-ve-etik-1795767830"
     },
     {
@@ -984,7 +912,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093dada66eb.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b09756ab811e.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/lisansustu-sureclerde-yayin-yapilacak-dergilerin-belirlenmesi-1795767745"
     },
     {
@@ -1072,6 +1000,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/cagdas-alapinar-gencay-yilbasi-konseri-1795159721"
     },
     {
+      "id": "3g-world-1795780377",
+      "title": "\"3G WORLD\"",
+      "startAt": "2026-12-26T10:00:00+03:00",
+      "endAt": "2026-12-27T17:00:00+03:00",
+      "place": "Öğrenci Merkezi Yunus Emre Salonu",
+      "venueId": "ogrenci-merkezi",
+      "organiser": "Sanal Akademi Kulübü",
+      "category": "Konferanslar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b096eeb05212.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/3g-world-1795780377"
+    },
+    {
       "id": "karakaya-egitim-kampi-1794899449",
       "title": "\"Karakaya Eğitim Kampı\"",
       "startAt": "2026-12-26T17:00:00+03:00",
@@ -1152,7 +1092,7 @@
       "venueId": null,
       "organiser": "Fotoğrafçılık Kulübü",
       "category": "Geziler ve Turlar",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0941f45d16c.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0975a9498bf.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/istanbul-gezisi-1795768845"
     },
     {
@@ -1308,7 +1248,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093d72cfd31.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b09752cf198d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/enstitu-paydas-bulusmalari-1795767686"
     },
     {
@@ -1320,7 +1260,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093d3b1496b.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0974fa85f7d.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/editorun-masasindan-hakemin-onune-dergi-seciminden-yapay-zeka-beyanina-yayin-1795767643"
     },
     {
@@ -1344,7 +1284,7 @@
       "venueId": null,
       "organiser": "Lisansüstü Eğitim Enstitüsü",
       "category": "Seminerler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093c9dbc647.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b09758a9b42b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/istatiksel-analiz-oncesinde-veri-hazirlama-ve-varsayim-kontrolu-sikca-yapilan-1795767483"
     }
   ]
