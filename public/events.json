@@ -1,6 +1,6 @@
 {
   "source": "https://www.anadolu.edu.tr/etkinlikler",
-  "updatedAt": "2026-11-26T23:03:12.896Z",
+  "updatedAt": "2026-11-27T08:44:58.784Z",
   "timezone": "Europe/Istanbul",
   "events": [
     {
@@ -304,6 +304,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-yerel-yonetime-bagli-birimlerde-dkt-olmak-1793609053"
     },
     {
+      "id": "kamu-yonetiminde-dijital-donusum-anayasa-mahkemesinin-yapay-zeka-deneyimi-1795767979",
+      "title": "\"Kamu Yönetiminde Dijital Dönüşüm: Anayasa Mahkemesinin Yapay Zeka Deneyimi\"",
+      "startAt": "2026-12-03T13:00:00+03:00",
+      "endAt": "2026-12-03T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093e9a914cb.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kamu-yonetiminde-dijital-donusum-anayasa-mahkemesinin-yapay-zeka-deneyimi-1795767979"
+    },
+    {
       "id": "kamu-yonetiminde-dijital-donusum-1792756064",
       "title": "\"Kamu Yönetiminde Dijital Dönüşüm\"",
       "startAt": "2026-12-03T14:00:00+03:00",
@@ -336,7 +348,7 @@
       "venueId": "salon-2003",
       "organiser": "Devlet Konservatuvarı",
       "category": "Konser ve Dinletiler",
-      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b00274295cd0.jpg",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093b6d36b84.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/orhan-mert-keser-kontrbas-sinifi-konseri-1795163929"
     },
     {
@@ -496,6 +508,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/irem-celikten-hepguler-piyano-resitali-1795163609"
     },
     {
+      "id": "akademik-metin-yazimi-ve-cevirisinde-yapay-zeka-kullanimi-demokratiklesme-mi-1795767916",
+      "title": "\"Akademik Metin Yazımı ve Çevirisinde Yapay Zeka Kullanımı: Demokratikleşme Mİ, Tek Tipleşme Mİ?\"",
+      "startAt": "2026-12-09T13:00:00+03:00",
+      "endAt": "2026-12-09T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093e5718405.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/akademik-metin-yazimi-ve-cevirisinde-yapay-zeka-kullanimi-demokratiklesme-mi-1795767916"
+    },
+    {
       "id": "ofke-kontrolu-semineri-1792482981",
       "title": "\"Öfke Kontrolü Semineri\"",
       "startAt": "2026-12-09T14:00:00+03:00",
@@ -652,6 +676,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/lilian-tonella-tuzun-piyano-sinif-konseri-1795163293"
     },
     {
+      "id": "kalite-ogrencinin-de-isidir-1795768749",
+      "title": "\"Kalite Öğrencinin DE İşidir\"",
+      "startAt": "2026-12-15T14:00:00+03:00",
+      "endAt": "2026-12-15T15:00:00+03:00",
+      "place": "Adili Sadık Bahçe Seminer Salonu",
+      "venueId": "emyo",
+      "organiser": "Kalite Kulübü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b09418ad2c26.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/kalite-ogrencinin-de-isidir-1795768749"
+    },
+    {
       "id": "pelin-bedir-sinif-konseri-1795163334",
       "title": "Pelin Bedir ''Sınıf Konseri''",
       "startAt": "2026-12-15T19:00:00+03:00",
@@ -722,6 +758,18 @@
       "category": "Seminerler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6aff01c88ca63.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/dil-ve-konusma-terapisinde-kariyer-tip-fakultesi-hastanesinde-dkt-olmak-1793609269"
+    },
+    {
+      "id": "lisansustu-egitimde-uretken-yapay-zekanin-akademik-calismalarda-etkili-ve-etik-1795767830",
+      "title": "\"Lisansüstü Eğitimde Üretken Yapay Zekanın Akademik Çalışmalarda Etkili ve Etik Kullanımı\"",
+      "startAt": "2026-12-17T13:00:00+03:00",
+      "endAt": "2026-12-17T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093dfd7d1ca.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/lisansustu-egitimde-uretken-yapay-zekanin-akademik-calismalarda-etkili-ve-etik-1795767830"
     },
     {
       "id": "eskisehir-kurumlararasi-koordinasyon-uluslararasi-goc-politikalari-egitim-1792501009",
@@ -928,6 +976,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/ozlem-sumer-ogrenci-keman-resitali-1795160096"
     },
     {
+      "id": "lisansustu-sureclerde-yayin-yapilacak-dergilerin-belirlenmesi-1795767745",
+      "title": "\"Lisansüstü Süreçlerde Yayın Yapılacak Dergilerin Belirlenmesi\"",
+      "startAt": "2026-12-23T13:00:00+03:00",
+      "endAt": "2026-12-23T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093dada66eb.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/lisansustu-sureclerde-yayin-yapilacak-dergilerin-belirlenmesi-1795767745"
+    },
+    {
       "id": "bestecilik-ve-orkestra-sefligi-ana-sanat-dali-bestecilik-programi-konseri-1795160028",
       "title": "\"Bestecilik ve Orkestra Şefliği Ana Sanat Dalı Bestecilik Programı Konseri\"",
       "startAt": "2026-12-23T17:00:00+03:00",
@@ -1084,6 +1144,18 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/alper-guncan-gitar-sinifi-konseri-1795159607"
     },
     {
+      "id": "istanbul-gezisi-1795768845",
+      "title": "\"İstanbul Gezisi\"",
+      "startAt": "2026-12-29T00:00:00+03:00",
+      "endAt": "2026-12-29T19:30:00+03:00",
+      "place": "İstanbul",
+      "venueId": null,
+      "organiser": "Fotoğrafçılık Kulübü",
+      "category": "Geziler ve Turlar",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b0941f45d16c.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/istanbul-gezisi-1795768845"
+    },
+    {
       "id": "yayli-calgilar-ve-piyano-ana-sanat-dali-ogrencileri-oda-muzigi-konseri-1-1795159534",
       "title": "\"Yaylı Çalgılar ve Piyano Ana Sanat Dalı Öğrencileri Oda Müziği Konseri 1\"",
       "startAt": "2026-12-29T18:00:00+03:00",
@@ -1228,6 +1300,30 @@
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/turk-halk-muzigi-personel-korosu-1793961899"
     },
     {
+      "id": "enstitu-paydas-bulusmalari-1795767686",
+      "title": "\"Enstitü-Paydaş Buluşmaları\"",
+      "startAt": "2027-01-20T13:00:00+03:00",
+      "endAt": "2027-01-20T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093d72cfd31.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/enstitu-paydas-bulusmalari-1795767686"
+    },
+    {
+      "id": "editorun-masasindan-hakemin-onune-dergi-seciminden-yapay-zeka-beyanina-yayin-1795767643",
+      "title": "\"Editörün Masasından Hakemin Önüne: Dergi Seçiminden Yapay Zeka Beyanına Yayın Sürecinin İncelikleri\"",
+      "startAt": "2027-02-17T13:00:00+03:00",
+      "endAt": "2027-02-17T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093d3b1496b.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/editorun-masasindan-hakemin-onune-dergi-seciminden-yapay-zeka-beyanina-yayin-1795767643"
+    },
+    {
       "id": "anadolu-universitesi-2026-2027-akademik-yili-bahar-donemi-acilis-konseri-1785393949",
       "title": "\"Anadolu Üniversitesi 2026-2027 Akademik Yılı Bahar Dönemi Açılış Konseri\"",
       "startAt": "2027-02-18T19:00:00+03:00",
@@ -1238,6 +1334,18 @@
       "category": "Konser ve Dinletiler",
       "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b044234cab4b.jpg",
       "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/anadolu-universitesi-2026-2027-akademik-yili-bahar-donemi-acilis-konseri-1785393949"
+    },
+    {
+      "id": "istatiksel-analiz-oncesinde-veri-hazirlama-ve-varsayim-kontrolu-sikca-yapilan-1795767483",
+      "title": "\"İstatiksel Analiz Öncesinde Veri Hazırlama ve Varsayım Kontrolü: Sıkça Yapılan Yanlışlar\"",
+      "startAt": "2027-02-24T13:00:00+03:00",
+      "endAt": "2027-02-24T15:00:00+03:00",
+      "place": "Çevrimiçi",
+      "venueId": null,
+      "organiser": "Lisansüstü Eğitim Enstitüsü",
+      "category": "Seminerler",
+      "posterUrl": "https://www.anadolu.edu.tr/uploads/anadolu/images/etkinlik/6b093c9dbc647.jpg",
+      "sourceUrl": "https://www.anadolu.edu.tr/etkinlikler/istatiksel-analiz-oncesinde-veri-hazirlama-ve-varsayim-kontrolu-sikca-yapilan-1795767483"
     }
   ]
 }
